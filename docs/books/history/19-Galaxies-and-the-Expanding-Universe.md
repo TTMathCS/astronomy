@@ -463,7 +463,7 @@ how far away is it, and how long has its light been travelling, roughly?
   expanding; the exact rate is still argued about.
 - From Mars the galaxies look the same, but parallaxes are 1.52 times bigger.
 
-**Next:** chapter 20, Radio astronomy, where an engineer chasing radio static heard the Milky Way, a hiss in an antenna
+**Next:** [chapter 20, Radio astronomy](20-Radio-Astronomy.md), where an engineer chasing radio static heard the Milky Way, a hiss in an antenna
 turned out to be the afterglow of the Big Bang, and dishes spread across Africa and Australia began to work as one.
 
 ## Further reading

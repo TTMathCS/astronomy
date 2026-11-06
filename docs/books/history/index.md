@@ -200,11 +200,21 @@ tells the story.
 | 1927 | Europe | Lemaître links galaxy speeds to an [expanding universe](19-Galaxies-and-the-Expanding-Universe.md#expanding) | Later the primeval atom, the Big Bang |
 | 1929 | Americas | Hubble and Humason publish [Hubble's law](19-Galaxies-and-the-Expanding-Universe.md#expanding) | The farther, the faster |
 | 1930 | Americas | Tombaugh finds Pluto at [Lowell's observatory](17-Herschel-and-the-Canals-of-Mars.md#illusion) | The search Lowell began |
+| 1932–1933 | Americas | Karl Jansky hears [radio waves from the Milky Way](20-Radio-Astronomy.md#jansky) | The start of radio astronomy |
+| 1937 | Americas | Grote Reber builds the first [radio dish](20-Radio-Astronomy.md#reber) in his back yard | The first radio map of the sky follows in 1941 |
+| 1942 | Europe | Hey finds that radar jamming is [the Sun's radio waves](20-Radio-Astronomy.md#war) | The Sun is a radio source |
+| 1946 | Australia | Payne-Scott, Pawsey and McCready make the first [radio interferometer](20-Radio-Astronomy.md#war) observation | Dishes and paths working as one |
+| 1951 | Americas | Ewen and Purcell detect the [21 cm hydrogen line](20-Radio-Astronomy.md#hydrogen) | Maps of the Milky Way's spiral arms |
 | 1957 | India | India adopts a [national calendar](05-India.md#calendars) from Saha's committee | A modern solar calendar beside the traditional ones |
 | 1957 | Middle East | Roberts shows Ibn al-Shatir's models [match Copernicus's](13-Copernicus-and-Maragha.md#maragha) | The debt to Maragha comes to light |
+| 1957 | Europe | The 76 m [Jodrell Bank dish](20-Radio-Astronomy.md#dishes) tracks Sputnik 1 | The largest steerable dish |
 | 1961 | Australia | The [Parkes](12-Oceania-and-Australia.md#telescopes) dish is finished; later named Murriyang | Apollo 11 pictures, quasars, fast radio bursts |
+| 1963 | Americas | Schmidt finds the redshift of the first [quasar](20-Radio-Astronomy.md#quasars), 3C 273, located from Parkes | A galaxy's core outshining the whole galaxy |
 | 1964 | Americas | Kaplan's team finds [water vapour](18-Light-Split-into-Colours.md#mars) in Mars's thin air | Mars's air is far thinner than the Earth's |
+| 1964 | Americas | Penzias and Wilson find the [afterglow of the Big Bang](20-Radio-Astronomy.md#afterglow) | 2.725 K in every direction |
 | 1965 | Americas | [Mariner 4](11-The-Americas.md#mars) sends the first close pictures of Mars | Craters and thin air, not canals |
+| 1967 | Europe | Jocelyn Bell finds the first [pulsar](20-Radio-Astronomy.md#quasars) | Left out of the 1974 Nobel Prize |
+| 1970 | India | Govind Swarup's [Ooty Radio Telescope](20-Radio-Astronomy.md#world) is finished | Later the GMRT near Pune |
 | 1976 | Pacific | [Hōkūleʻa](12-Oceania-and-Australia.md#hokulea) sails from Hawaiʻi to Tahiti with no instruments | Planned voyaging shown to work |
 | 2000 | Americas | Satellite data confirm the Andean [Pleiades forecast](11-The-Americas.md#pleiades) | Dim Pleiades in June warn of El Niño |
 | 2003 | Europe | Europe's [Mars Express](09-Byzantium-and-Medieval-Europe.md#mars) reaches Mars; Beagle 2 is lost | Still working more than twenty years later |
@@ -215,8 +225,12 @@ tells the story.
 | 2013–2025 | Europe | Gaia measures the [parallaxes](19-Galaxies-and-the-Expanding-Universe.md#parallax) of about a billion stars | A map of the Milky Way |
 | 2014 | India | India's [Mars Orbiter Mission](05-India.md#exchange) reaches Mars orbit | The first Asian nation at Mars, on its first attempt |
 | 2014 | Australia | A comet found at Siding Spring [passes Mars](16-Newton-Halley-and-Romer.md#onmars) at 140,000 km | Orbiters hide behind the planet |
+| 2016 | China | The 500 m [FAST](20-Radio-Astronomy.md#world) dish sees first light in Guizhou | The largest single dish |
+| 2018 | Europe | MARSIS radar on Mars Express reports a possible [lake under the ice](20-Radio-Astronomy.md#mars) | Still debated |
+| 2019 | Worldwide | The Event Horizon Telescope shows the first [picture of a black hole](20-Radio-Astronomy.md#arrays) | Dishes across the Earth as one |
 | 2021 | Americas | Perseverance lands in [Jezero Crater](11-The-Americas.md#mars) | Its helicopter makes the first powered flight on another planet |
 | 2021 | Middle East | The UAE's [Hope](08-The-Islamic-World-and-Persia.md#mars) probe goes into orbit around Mars | Studies Martian weather from a 55-hour orbit |
+| 2022 | Africa | Building of the [Square Kilometre Array](20-Radio-Astronomy.md#arrays) begins in South Africa and Australia | Inyarrimanha Ilgari Bundara, "sharing sky and stars" |
 | 2022 | Pacific | [Matariki](12-Oceania-and-Australia.md#matariki) becomes a public holiday in New Zealand | A star rising marks a national holiday |
 | 2022 | Mediterranean | Part of [Hipparchus' lost star catalogue](07-Greece-and-Alexandria.md#hipparchus) is read in a palimpsest | Accurate to about a degree, and not what Ptolemy copied |
 | 2025 | Australia | The [SKA](12-Oceania-and-Australia.md#telescopes) on Wajarri land makes its first picture | Inyarrimanha Ilgari Bundara, sharing sky and stars |
@@ -246,6 +260,6 @@ tells the story.
 | | [17. Herschel, and the canals of Mars](17-Herschel-and-the-Canals-of-Mars.md) |
 | **VI. The modern sky** | [18. Light split into colours](18-Light-Split-into-Colours.md) |
 | | [19. Galaxies and the expanding universe](19-Galaxies-and-the-Expanding-Universe.md) |
-| | 20. Radio astronomy |
+| | [20. Radio astronomy](20-Radio-Astronomy.md) |
 | | 21. The space age at Mars |
 | | 22. Astronomy today |
