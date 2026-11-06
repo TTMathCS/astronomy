@@ -641,8 +641,8 @@ historians suspect copying, and why do most not think he simply copied the whole
 - From Mars the constellations look the same, because even the nearest star shifts by only about 2″.
 - Ptolemy's 2°40′ shows he used Hipparchus' rate of precession, but his catalogue was not simply a copy.
 
-**Next:** chapter 4, How bright is a star? Magnitudes, where we find out what the numbers beside the stars in
-figure A mean, and why a smaller number means a brighter star.
+**Next:** [chapter 4, How bright is a star? Magnitudes](04-How-Bright-Is-a-Star.md), where we find out what the
+numbers beside the stars in figure A mean, and why a smaller number means a brighter star.
 
 ## Further reading
 
