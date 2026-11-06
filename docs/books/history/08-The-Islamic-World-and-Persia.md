@@ -589,7 +589,7 @@ period is about 55 hours. What would the period be for an orbit with the same $a
   al-Din's Istanbul observatory lasted three years.
 - The UAE's Hope probe has studied Mars's weather from orbit since 2021.
 
-**Next:** chapter 9, Byzantium and medieval Europe, where monks worked out the date of Easter, a monk at St Gallen saw the
+**Next:** [chapter 9, Byzantium and medieval Europe](09-Byzantium-and-Medieval-Europe.md), where monks worked out the date of Easter, a monk at St Gallen saw the
 star of 1006, and Latin translations from Arabic rebuilt astronomy in the new universities.
 
 ## Further reading

@@ -71,40 +71,53 @@ tells the story.
 | AD 185 | China | A guest star appears in the [Southern Gate](04-China.md#guests) | Probably the earliest supernova on record |
 | AD 415 | Mediterranean | [Hypatia](07-Greece-and-Alexandria.md#wider), astronomer and teacher, is murdered in Alexandria | The Library was already gone; the link is a modern myth |
 | AD 499 | India | [Aryabhata](05-India.md#aryabhata) writes the Aryabhatiya, aged 23 | The Earth turns on its axis; eclipses by shadows; the oldest sine table |
+| AD 525 | Europe | Dionysius Exiguus extends the [Easter table](09-Byzantium-and-Medieval-Europe.md#computus) and counts years from the birth of Christ | The start of AD dating |
 | AD 628 | India | [Brahmagupta](05-India.md#brahmagupta) finishes the Brahmasphutasiddhanta | Rules for zero and negative numbers; translated into Arabic in Baghdad |
 | AD 632–647 | Korea | [Cheomseongdae](06-Korea-and-Japan.md#cheomseongdae), a 9.17 m stone tower, is built in Gyeongju under Queen Seondeok | Called the oldest surviving observatory in East Asia; some scholars see an altar |
 | AD 649–684 | China | The [Dunhuang star atlas](04-China.md#mansions) is drawn | The oldest complete star atlas from any civilisation: 1,339 stars |
 | c. AD 700 | Japan | The [Kitora tomb](06-Korea-and-Japan.md#kitora) ceiling is painted with a star map of at least 350 stars | Its stars were observed centuries earlier, near latitude 34° N: a Chinese original |
 | AD 718 | India | Gautama Siddha brings [Indian numerals with zero](05-India.md#exchange) to the Tang court | Indian astronomy in China |
 | AD 725 | China | Yi Xing builds an [escapement](04-China.md#machines) and surveys shadows from 17° N to 50° N | The key part of later clocks; the survey shows shadows do not grow evenly with distance |
+| AD 725 | Europe | Bede writes [The Reckoning of Time](09-Byzantium-and-Medieval-Europe.md#bede) at Jarrow | The round Earth, daylight and the tides, for working out Easter |
 | early 770s | India | An Indian treatise reaches Baghdad and becomes the [Zij al-Sindhind](05-India.md#exchange) | Indian methods enter Arabic astronomy |
 | c. 830 | Middle East | Al-Ma'mun's astronomers [measure a degree](08-The-Islamic-World-and-Persia.md#measuring) on the plain of Sinjar | 56⅔ Arabic miles per degree; the mile's length is uncertain |
 | 877–918 | Middle East | [Al-Battani](08-The-Islamic-World-and-Persia.md#measuring) at Raqqa measures the year, the Earth's tilt and the moving solar apogee | Cited 23 times by Copernicus |
 | 964 | Middle East | Al-Sufi's [Book of Fixed Stars](08-The-Islamic-World-and-Persia.md#stars) records the Andromeda galaxy as a small cloud | The first known record of another galaxy |
 | 1006 | Africa | Ali ibn Ridwan in Cairo describes the [new star](08-The-Islamic-World-and-Persia.md#guests) as 2½ to 3 times as large as Venus | The same star was recorded in China, Japan, Iraq and Europe |
+| 1006 | Europe | Monks at [St Gallen](09-Byzantium-and-Medieval-Europe.md#skies) see the new star low in the south | The most northerly sighting of the supernova |
 | 1017–1037 | Central Asia | [Al-Biruni](08-The-Islamic-World-and-Persia.md#biruni) measures the Earth from a hilltop at Nandana and writes his India | One observer, one place, and a right triangle |
 | 1025–1028 | Africa | Ibn al-Haytham in Cairo writes [Doubts concerning Ptolemy](08-The-Islamic-World-and-Persia.md#doubts) | The equant cannot be a true picture of the heavens |
 | 1054 | China | A [guest star](04-China.md#guests) is seen by day for 23 days | It left the Crab Nebula and its pulsar |
 | 1054 | Middle East | Ibn Butlan in Baghdad writes of [a spectacular star in Gemini](08-The-Islamic-World-and-Persia.md#guests) | The only known Arabic report of the star of 1054 |
+| 1066 | Europe | Halley's Comet appears; the [Bayeux Tapestry](09-Byzantium-and-Medieval-Europe.md#skies) shows it | A comet remembered with a conquest |
 | 1088–1094 | China | [Su Song](04-China.md#machines) builds his clock tower at Kaifeng | A water-driven sphere and globe with an escapement and chain drive |
 | 1150 | India | Bhaskara II, head of the [Ujjain observatory](05-India.md#brahmagupta), writes the Siddhanta Shiromani | Ujjain, the meridian of Indian astronomy |
+| c. 1175 | Europe | Gerard of Cremona translates the [Almagest](09-Byzantium-and-Medieval-Europe.md#translations) from Arabic in Toledo | Ptolemy reaches Latin through Arabic |
 | 1181 | Japan | A [guest star](06-Korea-and-Japan.md#onmyodo) in Cassiopeia stays for 185 days | Its remnant may be the nebula Pa 30 |
 | 1230 | Japan | Fujiwara no Teika copies [guest star reports](06-Korea-and-Japan.md#onmyodo) of 1006, 1054 and 1181 into his diary | His 1054 date differs from China's by a month |
+| 1252 | Europe | The [Alfonsine Tables](09-Byzantium-and-Medieval-Europe.md#translations) are compiled in Toledo | Europe's most popular tables for three centuries |
 | 1259 | Middle East | Al-Tusi begins the [Maragha observatory](08-The-Islamic-World-and-Persia.md#maragha) for Hulagu | A Chinese astronomer on the staff; the Tusi couple replaces the equant |
 | 1276–1281 | China | Guo Shoujing builds the [Gaocheng gnomon](04-China.md#guo) and the Shoushi calendar | A year of 365.2425 days, 300 years before the Gregorian calendar |
+| 1277 | Europe | The Bishop of Paris condemns [219 teachings](09-Byzantium-and-Medieval-Europe.md#universities) | Historians still argue whether it freed science from Aristotle |
 | 1304–1375 | Middle East | [Ibn al-Shatir](08-The-Islamic-World-and-Persia.md#shatir), timekeeper in Damascus, builds models without the equant | Mathematically the same as Copernicus's for the Moon and Mercury |
+| 1327 | Europe | Richard of Wallingford designs the [St Albans clock](09-Byzantium-and-Medieval-Europe.md#clocks) | One of Europe's first astronomical clocks |
 | c. 1340–1425 | India | [Madhava](05-India.md#kerala) of Kerala finds infinite series for the sine and π | Power series some 250 years before Europe |
+| 1377 | Europe | Oresme weighs a [turning Earth](09-Byzantium-and-Medieval-Europe.md#universities) and decides against it | No argument for a fixed Earth is conclusive |
 | 1395 | Korea | King Taejo has a [star chart](06-Korea-and-Japan.md#chart1395) of 1,467 stars carved in stone | Made because Chinese maps did not fit Korea's sky |
+| 1410 | Europe | The [Prague astronomical clock](09-Byzantium-and-Medieval-Europe.md#clocks) is first recorded | Still running in the Old Town Square |
 | 1420s–1449 | Central Asia | Ulugh Beg's [Samarkand observatory](08-The-Islamic-World-and-Persia.md#samarkand) makes a new catalogue of 1,018 stars | The year to within a minute; al-Kashi's π to 16 places |
 | 1433–1441 | Korea | Under King Sejong, [Jang Yeong-sil](06-Korea-and-Japan.md#sejong) builds an armillary sphere and a self-striking water clock; a standard rain gauge follows | The Chiljeongsan adjusts Chinese and Islamic tables to Seoul |
+| 1472 | Europe | Regiomontanus prints Peuerbach's [planet lectures](09-Byzantium-and-Medieval-Europe.md#printing) in Nuremberg | The first printed astronomy textbook |
 | 1500–1501 | India | Nilakantha's [Tantrasangraha](05-India.md#kerala) has five planets circling the Sun | A model like Tycho's, 80 years earlier |
 | 1577–1580 | Middle East | Taqi al-Din's [Istanbul observatory](08-The-Islamic-World-and-Persia.md#samarkand) is built and pulled down | Built at almost the same time as Tycho's |
+| 1582 | Europe | Thursday 4 October is followed by Friday 15 October: the [Gregorian calendar](09-Byzantium-and-Medieval-Europe.md#gregorian) | Ten days dropped; 97 leap years in 400 |
 | 1669 (disputed) | Korea | Song I-yeong is credited with an [armillary clock](06-Korea-and-Japan.md#clock1669) driven by clockwork | The map on its globe suggests it may be later |
 | 1673 | China | Verbiest re-equips the [Beijing observatory](04-China.md#jesuits) | European instruments and methods in the Qing bureau |
 | 1684–1685 | Japan | Shibukawa Shunkai's [Jōkyō calendar](06-Korea-and-Japan.md#calendars) replaces the Senmyō, used for over 800 years | The old year was 3.5 minutes too long and had slipped 2 days |
 | 1724–1734 | India | Jai Singh builds the [Jantar Mantar](05-India.md#jantar) observatories | A stone sundial 27 m high at Jaipur |
 | 1800–1821 | Japan | Inō Tadataka and his team [survey Japan's coasts](06-Korea-and-Japan.md#calendars) by pacing and star sights | Western astronomy learned through Dutch books |
 | 1957 | India | India adopts a [national calendar](05-India.md#calendars) from Saha's committee | A modern solar calendar beside the traditional ones |
+| 2003 | Europe | Europe's [Mars Express](09-Byzantium-and-Medieval-Europe.md#mars) reaches Mars; Beagle 2 is lost | Still working more than twenty years later |
 | 2014 | India | India's [Mars Orbiter Mission](05-India.md#exchange) reaches Mars orbit | The first Asian nation at Mars, on its first attempt |
 | 2021 | Middle East | The UAE's [Hope](08-The-Islamic-World-and-Persia.md#mars) probe goes into orbit around Mars | Studies Martian weather from a 55-hour orbit |
 | 2022 | Mediterranean | Part of [Hipparchus' lost star catalogue](07-Greece-and-Alexandria.md#hipparchus) is read in a palimpsest | Accurate to about a degree, and not what Ptolemy copied |
@@ -123,7 +136,7 @@ tells the story.
 | | [6. Korea and Japan](06-Korea-and-Japan.md) |
 | **III. The Mediterranean and the Islamic world** | [7. Greece and Alexandria](07-Greece-and-Alexandria.md) |
 | | [8. The Islamic world and Persia](08-The-Islamic-World-and-Persia.md) |
-| | 9. Byzantium and medieval Europe |
+| | [9. Byzantium and medieval Europe](09-Byzantium-and-Medieval-Europe.md) |
 | **IV. Africa, the Americas and the Pacific** | 10. Africa |
 | | 11. The Americas |
 | | 12. Oceania and Australia |
