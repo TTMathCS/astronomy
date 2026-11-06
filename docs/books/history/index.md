@@ -125,20 +125,32 @@ tells the story.
 | 1582 | Europe | Thursday 4 October is followed by Friday 15 October: the [Gregorian calendar](09-Byzantium-and-Medieval-Europe.md#gregorian) | Ten days dropped; 97 leap years in 400 |
 | 1583 | Africa | Mahmud Kati in [Timbuktu](10-Africa.md#timbuktu) records a meteor shower | Stars flew 'as if fire had been kindled in the whole sky' |
 | 1588 | Europe | Tycho publishes [his system](14-Tycho-and-Kepler.md#system): planets round the Sun, Sun round the Earth | Mars's circle crosses the Sun's |
+| 1608 | Europe | Lipperhey asks for a patent on a [telescope](15-Galileo-and-the-Telescope.md#invention) | The first record of a telescope |
 | 1609 | Europe | Kepler's *Astronomia nova*: [Mars moves on an ellipse](14-Tycho-and-Kepler.md#mars) | The end of perfect circles |
+| 1610 | Europe | Galileo's *Sidereus Nuncius*: [moons of Jupiter](15-Galileo-and-the-Telescope.md#jupiter) and mountains on the Moon | Bodies that do not go round the Earth |
+| 1613 | Japan | John Saris gives Tokugawa Ieyasu a [telescope](15-Galileo-and-the-Telescope.md#world) | Said to be the first telescope to leave Europe |
 | 1614 | Americas | Claude d'Abbeville records [Tupinambá](11-The-Americas.md#plains) star names and tide lore | The Moon linked to the tides before Galileo |
+| 1615 | China | Manuel Dias describes the [telescope](15-Galileo-and-the-Telescope.md#world) in Chinese | Seven years after its invention |
 | 1616 | Europe | The Catholic Church [suspends De revolutionibus](13-Copernicus-and-Maragha.md#reception) until corrected | The moving Earth called contrary to Scripture |
 | 1619 | Europe | Kepler publishes his [third law](14-Tycho-and-Kepler.md#harmony) | One rule links all the planets |
 | 1631 | Europe | Gassendi sees Mercury cross the Sun, as Kepler's [tables](14-Tycho-and-Kepler.md#harmony) predicted | The first transit of a planet ever observed |
+| 1631 | Korea | Jeong Du-won is given a Jesuit's [telescope](15-Galileo-and-the-Telescope.md#world) | The telescope reaches Korea |
+| 1633 | Europe | Galileo is [condemned](15-Galileo-and-the-Telescope.md#trial) and put under house arrest | Admitted as an error in 1992 |
+| 1659 | Europe | Huygens draws Syrtis Major, the first [marking on Mars](15-Galileo-and-the-Telescope.md#mars) | Mars turns in about 24 hours |
+| 1666 | Europe | Cassini sees Mars's [south polar cap](15-Galileo-and-the-Telescope.md#mars) and times its day | 24 h 40 m, within three minutes |
+| 1668 | Americas | Valentin Stansel finds a [comet](15-Galileo-and-the-Telescope.md#world) from Salvador, Brazil | Observations sent from Brazil to Europe |
 | 1669 (disputed) | Korea | Song I-yeong is credited with an [armillary clock](06-Korea-and-Japan.md#clock1669) driven by clockwork | The map on its globe suggests it may be later |
 | 1673 | China | Verbiest re-equips the [Beijing observatory](04-China.md#jesuits) | European instruments and methods in the Qing bureau |
 | 1684–1685 | Japan | Shibukawa Shunkai's [Jōkyō calendar](06-Korea-and-Japan.md#calendars) replaces the Senmyō, used for over 800 years | The old year was 3.5 minutes too long and had slipped 2 days |
+| 1685 | Thailand | King Narai watches a lunar [eclipse](15-Galileo-and-the-Telescope.md#world) with French Jesuits | European astronomy at the court of Siam |
+| 1689 | India | Jean Richaud sees that [Alpha Centauri](15-Galileo-and-the-Telescope.md#world) is two stars | A telescope discovery made in India |
 | 1724–1734 | India | Jai Singh builds the [Jantar Mantar](05-India.md#jantar) observatories | A stone sundial 27 m high at Jaipur |
 | 1751–1752 | Africa | Lacaille maps nearly 10,000 [southern stars](10-Africa.md#telescopes) from the Cape | Fourteen new constellations still in use |
 | 1769 | Pacific | Cook times the [transit of Venus](12-Oceania-and-Australia.md#tupaia) at Tahiti; Tupaia draws his chart | A measure of the distance to the Sun, and Pacific knowledge on paper |
 | 1792 | Japan | Shiba Kōkan's world map shows the [Copernican system](13-Copernicus-and-Maragha.md#world) | The Sun-centred picture reaches Japan |
 | 1800–1821 | Japan | Inō Tadataka and his team [survey Japan's coasts](06-Korea-and-Japan.md#calendars) by pacing and star sights | Western astronomy learned through Dutch books |
 | 1820 | Africa | The [Royal Observatory](10-Africa.md#telescopes) at the Cape of Good Hope is founded | The first scientific institution in Africa |
+| 1831 | Japan | Kunitomo Ikkansai builds a [reflecting telescope](15-Galileo-and-the-Telescope.md#world) | Japan makes its own telescopes |
 | 1840s | Australia | The Boorong see the outburst of [Eta Carinae](12-Oceania-and-Australia.md#aboriginal) | A changing star kept in oral tradition |
 | 1880 | Americas | Förstemann publishes the [Dresden Codex](11-The-Americas.md#dresden) and decodes its numbers | Maya astronomy can be read again |
 | 1957 | India | India adopts a [national calendar](05-India.md#calendars) from Saha's committee | A modern solar calendar beside the traditional ones |
@@ -179,7 +191,7 @@ tells the story.
 | | [12. Oceania and Australia](12-Oceania-and-Australia.md) |
 | **V. A new picture of the heavens** | [13. Copernicus and his debt to Maragha](13-Copernicus-and-Maragha.md) |
 | | [14. Tycho and Kepler](14-Tycho-and-Kepler.md) |
-| | 15. Galileo, and the telescope goes round the world |
+| | [15. Galileo, and the telescope goes round the world](15-Galileo-and-the-Telescope.md) |
 | | 16. Newton, Halley and Rømer |
 | | 17. Herschel, and the canals of Mars |
 | **VI. The modern sky** | 18. Light split into colours |

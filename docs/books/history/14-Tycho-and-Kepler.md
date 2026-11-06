@@ -486,7 +486,7 @@ spring on Mars is so much longer than the northern autumn.
 - His third law came in 1619; the Rudolphine Tables of 1627 predicted the first observed transits.
 - On Mars the laws show as a Sun 21 million km off-centre, a speed change of a fifth, and seasons of 194 and 142 sols.
 
-**Next:** chapter 15, Galileo, and the telescope goes round the world, where a lens maker's toy turned to the sky
+**Next:** [chapter 15, Galileo, and the telescope goes round the world](15-Galileo-and-the-Telescope.md), where a lens maker's toy turned to the sky
 showed moons round Jupiter and phases of Venus, and within a few decades telescopes reached China, India and Japan.
 
 ## Further reading
