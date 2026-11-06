@@ -680,7 +680,7 @@ least one line points at a target by chance? What would make you believe an alig
 - $\cos A = \sin\delta / \cos\varphi$ gives the sunrise direction; the spread of solstice sunrises grows from $2\varepsilon$
   at the equator to nearly 100° in Scotland.
 
-**Next:** chapter 2, Mesopotamia, where the sky is written down for the first time, night after night, for centuries.
+**Next:** [chapter 2, Mesopotamia](02-Mesopotamia.md), where the sky is written down for the first time, night after night, for centuries.
 
 ## Further reading
 

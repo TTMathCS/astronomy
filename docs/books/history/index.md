@@ -33,8 +33,17 @@ tells the story.
 | c. 3200 BC | Europe | [Newgrange](01-Before-Writing.md#solstice-buildings), Ireland, is built with a roof-box for the midwinter sunrise | A feature with no use but to let in the solstice Sun |
 | c. 3000–2500 BC | Europe | [Stonehenge](01-Before-Writing.md#solstice-buildings) is laid out on the solstice line | The best-known solar alignment, rebuilt over 1,500 years |
 | c. 2100 BC | China | A platform with twelve slots for the sunrise is built at [Taosi](01-Before-Writing.md#taosi) | A horizon calendar marking both solstices |
+| c. 1646 BC (disputed) | Middle East | Venus's appearances are recorded for 21 years under King Ammi-saduqa: the [Venus tablet](02-Mesopotamia.md#venus) | The oldest known long run of planet sightings; its date is still argued over |
 | buried c. 1600 BC (disputed) | Europe | The [Nebra sky disc](01-Before-Writing.md#nebra) is buried on the Mittelberg, Germany | The oldest known picture of the sky: Moon, Pleiades and the Sun's 82° swing |
+| compiled c. 1000 BC | Middle East | [MUL.APIN](02-Mesopotamia.md#mulapin) gathers star lists, first risings, planet rules and calendar rules | The oldest known handbook of the sky |
+| 7th century BC | Middle East | Scholars send [sky omen reports](02-Mesopotamia.md#omens) to the kings of Assyria | Sky-watching as a state service; the oldest datable aurora records |
+| 652–61 BC | Middle East | Babylon keeps the [Astronomical Diaries](02-Mesopotamia.md#diaries), nightly notes for six centuries | The largest body of observations from the ancient world |
+| 497–380 BC | Middle East | The [19-year cycle](02-Mesopotamia.md#nineteen) of 235 months becomes the rule for leap months | Months and years kept in step; the Jewish calendar still uses it |
+| late 5th century BC | Middle East | Eclipse records are arranged by the 223-month [saros](02-Mesopotamia.md#saros) | Lunar eclipses predicted from their own cycle |
+| 409–398 BC | Middle East | The [zodiac](02-Mesopotamia.md#zodiac) of twelve equal 30° signs is introduced; the first horoscopes follow | The first coordinate system for the sky |
+| 350–50 BC | Middle East | Jupiter's motion is computed as the [area of a trapezoid](02-Mesopotamia.md#jupiter) | Distance as the area under a speed-time graph, 1,400 years before Europe |
 | 250–200 BC | Americas | Thirteen towers are built at [Chankillo](01-Before-Writing.md#chankillo), Peru | A complete solar calendar on the horizon, accurate to a day or two |
+| AD 79/80 | Middle East | The last dated [cuneiform tablet](02-Mesopotamia.md#clay), an astronomical almanac from Uruk | Writing on clay ends, as it went on, with astronomy |
 | date not known; living tradition | Australia | The Wathaurung build [Wurdi Youang](01-Before-Writing.md#australia); the Emu in the Sky is read in the Milky Way's dark clouds | Solstice and equinox sunsets marked twice over; knowledge still held today |
 
 ## Contents
@@ -42,7 +51,7 @@ tells the story.
 | Part | Chapter |
 | --- | --- |
 | **I. The first skywatchers** | [1. Before writing](01-Before-Writing.md) |
-| | 2. Mesopotamia |
+| | [2. Mesopotamia](02-Mesopotamia.md) |
 | | 3. Egypt |
 | **II. Asia** | 4. China |
 | | 5. India |
