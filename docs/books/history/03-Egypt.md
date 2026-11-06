@@ -750,7 +750,7 @@ the seasons (about 1,508 years)? What does this mean for the date of Sirius's ri
 - A leap day was decreed in 238 BC but failed; it arrived with Caesar and Augustus. The Coptic calendar still runs on the
   Egyptian year.
 
-**Next:** chapter 4, China, where the sky was a government department and its records run unbroken for more than two
+**Next:** [chapter 4, China](04-China.md), where the sky was a government department and its records run unbroken for more than two
 thousand years.
 
 ## Further reading

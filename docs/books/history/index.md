@@ -30,6 +30,7 @@ tells the story.
 | c. 25,000–16,000 years ago | Africa | The [Ishango bone](01-Before-Writing.md#bones), Congo, is notched in three columns | Arithmetic, a calendar or counting in twelves: still unproven |
 | c. 8000 BC | Europe | Hunter-gatherers dig twelve pits at [Warren Field](01-Before-Writing.md#warren), Scotland, facing the midwinter sunrise | Possibly the oldest calendar, a Moon count reset each midwinter |
 | c. 4500–4000 BC | Africa | Herders at [Nabta Playa](01-Before-Writing.md#nabta), Egypt, set up a stone circle with a solstice sightline | The Sun watched beside a seasonal lake in the Sahara; star claims unproven |
+| c. 4000 BC (disputed) | China | A tomb at [Xishuipo](04-China.md#xishuipo) is laid out with a shell dragon, tiger and perhaps the Dipper | A possible sky picture 3,500 years before the same layout appears on the Zeng chest |
 | c. 3200 BC | Europe | [Newgrange](01-Before-Writing.md#solstice-buildings), Ireland, is built with a roof-box for the midwinter sunrise | A feature with no use but to let in the solstice Sun |
 | c. 3000 BC | Africa | Egypt keeps records of the Nile flood; the [civil year of 365 days](03-Egypt.md#year) is in use | Twelve months of 30 days plus five: the simplest calendar a state ever used |
 | c. 3000–2500 BC | Europe | [Stonehenge](01-Before-Writing.md#solstice-buildings) is laid out on the solstice line | The best-known solar alignment, rebuilt over 1,500 years |
@@ -40,18 +41,31 @@ tells the story.
 | buried c. 1600 BC (disputed) | Europe | The [Nebra sky disc](01-Before-Writing.md#nebra) is buried on the Mittelberg, Germany | The oldest known picture of the sky: Moon, Pleiades and the Sun's 82° swing |
 | c. 1500–1400 BC | Africa | The oldest known [sundial and water clock](03-Egypt.md#clocks), from the Valley of the Kings and Karnak | Hours by day and by night, of lengths that change with the season |
 | c. 1479–1458 BC | Africa | Senenmut's tomb at Thebes gets the oldest known [star ceiling](03-Egypt.md#ceilings) | The sky of north and south painted in full |
+| c. 1250–1200 BC | China | [Oracle bones](04-China.md#oracle) record eclipses of the Moon by the 60-day count | The 60-day count has run unbroken since; the eclipses help date King Wu Ding |
 | compiled c. 1000 BC | Middle East | [MUL.APIN](02-Mesopotamia.md#mulapin) gathers star lists, first risings, planet rules and calendar rules | The oldest known handbook of the sky |
 | 7th century BC | Middle East | Scholars send [sky omen reports](02-Mesopotamia.md#omens) to the kings of Assyria | Sky-watching as a state service; the oldest datable aurora records |
 | 652–61 BC | Middle East | Babylon keeps the [Astronomical Diaries](02-Mesopotamia.md#diaries), nightly notes for six centuries | The largest body of observations from the ancient world |
 | 497–380 BC | Middle East | The [19-year cycle](02-Mesopotamia.md#nineteen) of 235 months becomes the rule for leap months | Months and years kept in step; the Jewish calendar still uses it |
 | late 5th century BC | Middle East | Eclipse records are arranged by the 223-month [saros](02-Mesopotamia.md#saros) | Lunar eclipses predicted from their own cycle |
+| c. 433 BC | China | A chest in the [tomb of Marquis Yi of Zeng](04-China.md#mansions) names all 28 lunar mansions | The oldest full list of the mansions, with the Dipper, dragon and tiger |
 | 409–398 BC | Middle East | The [zodiac](02-Mesopotamia.md#zodiac) of twelve equal 30° signs is introduced; the first horoscopes follow | The first coordinate system for the sky |
 | 350–50 BC | Middle East | Jupiter's motion is computed as the [area of a trapezoid](02-Mesopotamia.md#jupiter) | Distance as the area under a speed-time graph, 1,400 years before Europe |
 | 250–200 BC | Americas | Thirteen towers are built at [Chankillo](01-Before-Writing.md#chankillo), Peru | A complete solar calendar on the horizon, accurate to a day or two |
+| 240 BC | China | A comet in the Records of the Grand Historian is [Halley's](04-China.md#guests) | The oldest sure sighting of Halley's comet |
 | 238 BC | Africa | The [Canopus Decree](03-Egypt.md#leap) orders a leap day every four years; it lapses | The first official year of 365¼ days, two centuries before Caesar |
+| sealed 168 BC | China | A silk book at [Mawangdui](04-China.md#guests) draws 29 comets | An atlas of comet shapes, each with its omen |
+| 104 BC | China | The [Taichu calendar](04-China.md#calendar) makes 19 years exactly 235 months | The Han lunisolar calendar, later joined by the 24 solar terms |
 | c. 50 BC | Africa | The [Dendera zodiac](03-Egypt.md#dendera) is carved | Babylon's zodiac and Egypt's decans on one ceiling |
+| 7 BC | China | A report of [Mars in the Heart](04-China.md#mars) forces the prime minister to his death | Modern calculation shows Mars was nowhere near; the omen was probably invented |
 | AD 79/80 | Middle East | The last dated [cuneiform tablet](02-Mesopotamia.md#clay), an astronomical almanac from Uruk | Writing on clay ends, as it went on, with astronomy |
 | AD 139 | Africa | [Sirius rises](03-Egypt.md#sirius) on the Egyptian New Year, as Censorinus records | Fixes the Sothic cycle used to date Egyptian history |
+| AD 185 | China | A guest star appears in the [Southern Gate](04-China.md#guests) | Probably the earliest supernova on record |
+| AD 649–684 | China | The [Dunhuang star atlas](04-China.md#mansions) is drawn | The oldest complete star atlas from any civilisation: 1,339 stars |
+| AD 725 | China | Yi Xing builds an [escapement](04-China.md#machines) and surveys shadows from 17° N to 50° N | The key part of later clocks; the survey shows shadows do not grow evenly with distance |
+| 1054 | China | A [guest star](04-China.md#guests) is seen by day for 23 days | It left the Crab Nebula and its pulsar |
+| 1088–1094 | China | [Su Song](04-China.md#machines) builds his clock tower at Kaifeng | A water-driven sphere and globe with an escapement and chain drive |
+| 1276–1281 | China | Guo Shoujing builds the [Gaocheng gnomon](04-China.md#guo) and the Shoushi calendar | A year of 365.2425 days, 300 years before the Gregorian calendar |
+| 1673 | China | Verbiest re-equips the [Beijing observatory](04-China.md#jesuits) | European instruments and methods in the Qing bureau |
 | date not known; living tradition | Australia | The Wathaurung build [Wurdi Youang](01-Before-Writing.md#australia); the Emu in the Sky is read in the Milky Way's dark clouds | Solstice and equinox sunsets marked twice over; knowledge still held today |
 
 ## Contents
@@ -61,7 +75,7 @@ tells the story.
 | **I. The first skywatchers** | [1. Before writing](01-Before-Writing.md) |
 | | [2. Mesopotamia](02-Mesopotamia.md) |
 | | [3. Egypt](03-Egypt.md) |
-| **II. Asia** | 4. China |
+| **II. Asia** | [4. China](04-China.md) |
 | | 5. India |
 | | 6. Korea and Japan |
 | **III. The Mediterranean and the Islamic world** | 7. Greece and Alexandria |
