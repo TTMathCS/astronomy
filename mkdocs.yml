@@ -43,6 +43,7 @@ theme:
 extra_css:
   - fonts/fonts.css
   - stylesheets/mars.css
+  - stylesheets/books.css
   - stylesheets/reader.css
   - stylesheets/sketch.css
   - stylesheets/play.css
@@ -93,4 +94,5 @@ nav:
       - books/index.md
       - "History of astronomy":
           - books/history/index.md
+          - books/history/01-Before-Writing.md
   # books: end

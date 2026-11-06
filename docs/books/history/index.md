@@ -19,11 +19,29 @@ the navigators of the Pacific and the oldest astronomers of all, in Australia.*
 - **The science is in the other books.** When a chapter needs an idea such as a lunar month or a solstice, it explains
   it briefly and links to the physics lessons for the full story.
 
+## Timeline
+
+The turning points, in date order, with the part of the world each one belongs to and a link to the page that
+tells the story.
+
+| Year | Region | Event | Why it mattered |
+|---|---|---|---|
+| c. 43,000–42,000 years ago | Africa | A baboon bone at [Border Cave](01-Before-Writing.md#bones), South Africa, is notched in four sets | Notation this old is rare; it is often called a Moon count, which the notches do not show |
+| c. 25,000–16,000 years ago | Africa | The [Ishango bone](01-Before-Writing.md#bones), Congo, is notched in three columns | Arithmetic, a calendar or counting in twelves: still unproven |
+| c. 8000 BC | Europe | Hunter-gatherers dig twelve pits at [Warren Field](01-Before-Writing.md#warren), Scotland, facing the midwinter sunrise | Possibly the oldest calendar, a Moon count reset each midwinter |
+| c. 4500–4000 BC | Africa | Herders at [Nabta Playa](01-Before-Writing.md#nabta), Egypt, set up a stone circle with a solstice sightline | The Sun watched beside a seasonal lake in the Sahara; star claims unproven |
+| c. 3200 BC | Europe | [Newgrange](01-Before-Writing.md#solstice-buildings), Ireland, is built with a roof-box for the midwinter sunrise | A feature with no use but to let in the solstice Sun |
+| c. 3000–2500 BC | Europe | [Stonehenge](01-Before-Writing.md#solstice-buildings) is laid out on the solstice line | The best-known solar alignment, rebuilt over 1,500 years |
+| c. 2100 BC | China | A platform with twelve slots for the sunrise is built at [Taosi](01-Before-Writing.md#taosi) | A horizon calendar marking both solstices |
+| buried c. 1600 BC (disputed) | Europe | The [Nebra sky disc](01-Before-Writing.md#nebra) is buried on the Mittelberg, Germany | The oldest known picture of the sky: Moon, Pleiades and the Sun's 82° swing |
+| 250–200 BC | Americas | Thirteen towers are built at [Chankillo](01-Before-Writing.md#chankillo), Peru | A complete solar calendar on the horizon, accurate to a day or two |
+| date not known; living tradition | Australia | The Wathaurung build [Wurdi Youang](01-Before-Writing.md#australia); the Emu in the Sky is read in the Milky Way's dark clouds | Solstice and equinox sunsets marked twice over; knowledge still held today |
+
 ## Contents
 
 | Part | Chapter |
 | --- | --- |
-| **I. The first skywatchers** | 1. Before writing |
+| **I. The first skywatchers** | [1. Before writing](01-Before-Writing.md) |
 | | 2. Mesopotamia |
 | | 3. Egypt |
 | **II. Asia** | 4. China |
