@@ -92,6 +92,9 @@ nav:
   # books: start
   - Books:
       - books/index.md
+      - "The night sky":
+          - books/night-sky/index.md
+          - books/night-sky/01-Your-First-Clear-Night.md
       - "History of astronomy":
           - books/history/index.md
           - books/history/01-Before-Writing.md

@@ -23,4 +23,5 @@ the books link to those lessons instead of repeating them.
 
 | Book | From | To |
 | --- | --- | --- |
+| [The night sky](night-sky/index.md) | Your first clear night, with nothing but your eyes | Planets, eclipses, star charts and the night sky from Mars |
 | [History of astronomy](history/index.md) | Stone circles and notched bones | Space telescopes, gravitational waves and the first picture of a black hole |
