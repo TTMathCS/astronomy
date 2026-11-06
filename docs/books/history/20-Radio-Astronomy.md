@@ -541,7 +541,7 @@ light-years away? (One light-year is $9.461 \times 10^{15}$ m.)
 - Radio carries every message from Mars, and the MARSIS radar has found possible salty water under the south polar
   ice, a claim still debated.
 
-**Next:** chapter 21, The space age at Mars, where the first flybys found a cratered, cold world, landers looked for
+**Next:** [chapter 21, The space age at Mars](21-The-Space-Age-at-Mars.md), where the first flybys found a cratered, cold world, landers looked for
 life, and India reached Mars orbit on its first try.
 
 ## Further reading

@@ -208,6 +208,7 @@ tells the story.
 | 1957 | India | India adopts a [national calendar](05-India.md#calendars) from Saha's committee | A modern solar calendar beside the traditional ones |
 | 1957 | Middle East | Roberts shows Ibn al-Shatir's models [match Copernicus's](13-Copernicus-and-Maragha.md#maragha) | The debt to Maragha comes to light |
 | 1957 | Europe | The 76 m [Jodrell Bank dish](20-Radio-Astronomy.md#dishes) tracks Sputnik 1 | The largest steerable dish |
+| 1960 | Soviet Union | The first two [probes to Mars](21-The-Space-Age-at-Mars.md#first) fail to reach orbit | Mars 1 follows in 1962 and is lost on the way |
 | 1961 | Australia | The [Parkes](12-Oceania-and-Australia.md#telescopes) dish is finished; later named Murriyang | Apollo 11 pictures, quasars, fast radio bursts |
 | 1963 | Americas | Schmidt finds the redshift of the first [quasar](20-Radio-Astronomy.md#quasars), 3C 273, located from Parkes | A galaxy's core outshining the whole galaxy |
 | 1964 | Americas | Kaplan's team finds [water vapour](18-Light-Split-into-Colours.md#mars) in Mars's thin air | Mars's air is far thinner than the Earth's |
@@ -215,25 +216,36 @@ tells the story.
 | 1965 | Americas | [Mariner 4](11-The-Americas.md#mars) sends the first close pictures of Mars | Craters and thin air, not canals |
 | 1967 | Europe | Jocelyn Bell finds the first [pulsar](20-Radio-Astronomy.md#quasars) | Left out of the 1974 Nobel Prize |
 | 1970 | India | Govind Swarup's [Ooty Radio Telescope](20-Radio-Astronomy.md#world) is finished | Later the GMRT near Pune |
+| 1971 | Americas | Mariner 9 becomes the first craft to [orbit another planet](21-The-Space-Age-at-Mars.md#orbit) | Olympus Mons and Valles Marineris |
+| 1971 | Soviet Union | Mars 3 makes the first [soft landing on Mars](21-The-Space-Age-at-Mars.md#orbit) | Silent after 20 seconds |
 | 1976 | Pacific | [Hōkūleʻa](12-Oceania-and-Australia.md#hokulea) sails from Hawaiʻi to Tahiti with no instruments | Planned voyaging shown to work |
+| 1976 | Americas | The Viking landers [test the soil for life](21-The-Space-Age-at-Mars.md#viking) | Still argued over |
+| 1997 | Americas | Pathfinder lands with [Sojourner](21-The-Space-Age-at-Mars.md#rovers), the first rover on Mars | Airbags and a 10.6 kg rover |
+| 1999 | Americas | Mars Climate Orbiter is lost to a [mix-up of units](21-The-Space-Age-at-Mars.md#hard) | Pound-force seconds against newton-seconds |
 | 2000 | Americas | Satellite data confirm the Andean [Pleiades forecast](11-The-Americas.md#pleiades) | Dim Pleiades in June warn of El Niño |
 | 2003 | Europe | Europe's [Mars Express](09-Byzantium-and-Medieval-Europe.md#mars) reaches Mars; Beagle 2 is lost | Still working more than twenty years later |
+| 2004 | Americas | Spirit and [Opportunity](21-The-Space-Age-at-Mars.md#rovers) land; Opportunity drives 45 km in 14 years | Built for 90 sols |
 | 2005 | Africa | [SALT](10-Africa.md#telescopes) sees first light near Sutherland | The largest optical telescope in the southern hemisphere |
 | 2008 | Europe | DNA from hairs in his books identifies [Copernicus's remains](13-Copernicus-and-Maragha.md#grave) | A lost grave found |
 | 2011 | Africa | The [Tissint](10-Africa.md#mars) Mars meteorite falls in Morocco | Only the fifth Mars meteorite seen to fall |
+| 2011 | China | China's first Mars probe, [Yinghuo-1](21-The-Space-Age-at-Mars.md#asia), is lost with Fobos-Grunt | Never leaves Earth orbit |
 | 2012 | Americas | The Long Count [rolls over](11-The-Americas.md#count); the Xultun tables are published | No end of the world |
+| 2012 | Americas | Curiosity lands in [Gale crater](21-The-Space-Age-at-Mars.md#rovers) by sky crane | Ancient Mars could have suited microbes |
 | 2013–2025 | Europe | Gaia measures the [parallaxes](19-Galaxies-and-the-Expanding-Universe.md#parallax) of about a billion stars | A map of the Milky Way |
 | 2014 | India | India's [Mars Orbiter Mission](05-India.md#exchange) reaches Mars orbit | The first Asian nation at Mars, on its first attempt |
 | 2014 | Australia | A comet found at Siding Spring [passes Mars](16-Newton-Halley-and-Romer.md#onmars) at 140,000 km | Orbiters hide behind the planet |
 | 2016 | China | The 500 m [FAST](20-Radio-Astronomy.md#world) dish sees first light in Guizhou | The largest single dish |
+| 2016 | Europe | Schiaparelli [crashes](21-The-Space-Age-at-Mars.md#europe); the Trace Gas Orbiter reaches Mars | It later finds [no methane](21-The-Space-Age-at-Mars.md#methane) |
 | 2018 | Europe | MARSIS radar on Mars Express reports a possible [lake under the ice](20-Radio-Astronomy.md#mars) | Still debated |
 | 2019 | Worldwide | The Event Horizon Telescope shows the first [picture of a black hole](20-Radio-Astronomy.md#arrays) | Dishes across the Earth as one |
 | 2021 | Americas | Perseverance lands in [Jezero Crater](11-The-Americas.md#mars) | Its helicopter makes the first powered flight on another planet |
 | 2021 | Middle East | The UAE's [Hope](08-The-Islamic-World-and-Persia.md#mars) probe goes into orbit around Mars | Studies Martian weather from a 55-hour orbit |
+| 2021 | China | Tianwen-1 lands the rover [Zhurong](21-The-Space-Age-at-Mars.md#asia) in Utopia Planitia | Landing and roving at the first attempt |
 | 2022 | Africa | Building of the [Square Kilometre Array](20-Radio-Astronomy.md#arrays) begins in South Africa and Australia | Inyarrimanha Ilgari Bundara, "sharing sky and stars" |
 | 2022 | Pacific | [Matariki](12-Oceania-and-Australia.md#matariki) becomes a public holiday in New Zealand | A star rising marks a national holiday |
 | 2022 | Mediterranean | Part of [Hipparchus' lost star catalogue](07-Greece-and-Alexandria.md#hipparchus) is read in a palimpsest | Accurate to about a degree, and not what Ptolemy copied |
 | 2025 | Australia | The [SKA](12-Oceania-and-Australia.md#telescopes) on Wajarri land makes its first picture | Inyarrimanha Ilgari Bundara, sharing sky and stars |
+| 2026 | Americas | The NASA–ESA [Mars sample return](21-The-Space-Age-at-Mars.md#samples) is cancelled | China's Tianwen-3 aims for 2028 |
 | 2026 | Japan | Japan launches [MMX](06-Korea-and-Japan.md#mars) to bring back samples of Phobos | Due back on Earth in 2031 |
 | date not known; living tradition | Australia | The Wathaurung build [Wurdi Youang](01-Before-Writing.md#australia); the Emu in the Sky is read in the Milky Way's dark clouds | Solstice and equinox sunsets marked twice over; knowledge still held today |
 
@@ -261,5 +273,5 @@ tells the story.
 | **VI. The modern sky** | [18. Light split into colours](18-Light-Split-into-Colours.md) |
 | | [19. Galaxies and the expanding universe](19-Galaxies-and-the-Expanding-Universe.md) |
 | | [20. Radio astronomy](20-Radio-Astronomy.md) |
-| | 21. The space age at Mars |
+| | [21. The space age at Mars](21-The-Space-Age-at-Mars.md) |
 | | 22. Astronomy today |
