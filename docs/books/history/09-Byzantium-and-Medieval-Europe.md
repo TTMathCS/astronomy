@@ -653,7 +653,7 @@ Mars years is the calendar a whole sol out, and how many Earth years is that?
 - In 1582 the Gregorian reform dropped ten days and changed the leap-year rule.
 - Mars gave its name to Tuesday; Europe's Mars Express has orbited Mars since 2003.
 
-**Next:** chapter 10, Africa, where scholars of Timbuktu copied astronomy manuscripts, Ethiopians and the Borana of Kenya
+**Next:** [chapter 10, Africa](10-Africa.md), where scholars of Timbuktu copied astronomy manuscripts, Ethiopians and the Borana of Kenya
 and Ethiopia kept calendars of their own, and claims about the Dogon of Mali are checked.
 
 ## Further reading

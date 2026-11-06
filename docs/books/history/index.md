@@ -36,6 +36,7 @@ tells the story.
 | c. 3000–2500 BC | Europe | [Stonehenge](01-Before-Writing.md#solstice-buildings) is laid out on the solstice line | The best-known solar alignment, rebuilt over 1,500 years |
 | c. 2500 BC | Africa | The Great Pyramid is set [square to north](03-Egypt.md#pyramids) within about 3.6 minutes of arc | Precise surveying by the stars or the Sun; a disputed way to date the pharaohs |
 | c. 2100 BC | China | A platform with twelve slots for the sunrise is built at [Taosi](01-Before-Writing.md#taosi) | A horizon calendar marking both solstices |
+| c. 2400 BC | Africa | The [Namoratunga pillars](10-Africa.md#namoratunga) are raised by Lake Turkana | Once called an observatory; the alignments are now doubted |
 | c. 2100–1800 BC | Africa | [Diagonal star tables](03-Egypt.md#decans) of 36 decans are painted on coffin lids | Star clocks; a likely origin of the twelve hours of the night |
 | c. 1646 BC (disputed) | Middle East | Venus's appearances are recorded for 21 years under King Ammi-saduqa: the [Venus tablet](02-Mesopotamia.md#venus) | The oldest known long run of planet sightings; its date is still argued over |
 | buried c. 1600 BC (disputed) | Europe | The [Nebra sky disc](01-Before-Writing.md#nebra) is buried on the Mittelberg, Germany | The oldest known picture of the sky: Moon, Pleiades and the Sun's 82° swing |
@@ -111,13 +112,18 @@ tells the story.
 | 1500–1501 | India | Nilakantha's [Tantrasangraha](05-India.md#kerala) has five planets circling the Sun | A model like Tycho's, 80 years earlier |
 | 1577–1580 | Middle East | Taqi al-Din's [Istanbul observatory](08-The-Islamic-World-and-Persia.md#samarkand) is built and pulled down | Built at almost the same time as Tycho's |
 | 1582 | Europe | Thursday 4 October is followed by Friday 15 October: the [Gregorian calendar](09-Byzantium-and-Medieval-Europe.md#gregorian) | Ten days dropped; 97 leap years in 400 |
+| 1583 | Africa | Mahmud Kati in [Timbuktu](10-Africa.md#timbuktu) records a meteor shower | Stars flew 'as if fire had been kindled in the whole sky' |
 | 1669 (disputed) | Korea | Song I-yeong is credited with an [armillary clock](06-Korea-and-Japan.md#clock1669) driven by clockwork | The map on its globe suggests it may be later |
 | 1673 | China | Verbiest re-equips the [Beijing observatory](04-China.md#jesuits) | European instruments and methods in the Qing bureau |
 | 1684–1685 | Japan | Shibukawa Shunkai's [Jōkyō calendar](06-Korea-and-Japan.md#calendars) replaces the Senmyō, used for over 800 years | The old year was 3.5 minutes too long and had slipped 2 days |
 | 1724–1734 | India | Jai Singh builds the [Jantar Mantar](05-India.md#jantar) observatories | A stone sundial 27 m high at Jaipur |
+| 1751–1752 | Africa | Lacaille maps nearly 10,000 [southern stars](10-Africa.md#telescopes) from the Cape | Fourteen new constellations still in use |
 | 1800–1821 | Japan | Inō Tadataka and his team [survey Japan's coasts](06-Korea-and-Japan.md#calendars) by pacing and star sights | Western astronomy learned through Dutch books |
+| 1820 | Africa | The [Royal Observatory](10-Africa.md#telescopes) at the Cape of Good Hope is founded | The first scientific institution in Africa |
 | 1957 | India | India adopts a [national calendar](05-India.md#calendars) from Saha's committee | A modern solar calendar beside the traditional ones |
 | 2003 | Europe | Europe's [Mars Express](09-Byzantium-and-Medieval-Europe.md#mars) reaches Mars; Beagle 2 is lost | Still working more than twenty years later |
+| 2005 | Africa | [SALT](10-Africa.md#telescopes) sees first light near Sutherland | The largest optical telescope in the southern hemisphere |
+| 2011 | Africa | The [Tissint](10-Africa.md#mars) Mars meteorite falls in Morocco | Only the fifth Mars meteorite seen to fall |
 | 2014 | India | India's [Mars Orbiter Mission](05-India.md#exchange) reaches Mars orbit | The first Asian nation at Mars, on its first attempt |
 | 2021 | Middle East | The UAE's [Hope](08-The-Islamic-World-and-Persia.md#mars) probe goes into orbit around Mars | Studies Martian weather from a 55-hour orbit |
 | 2022 | Mediterranean | Part of [Hipparchus' lost star catalogue](07-Greece-and-Alexandria.md#hipparchus) is read in a palimpsest | Accurate to about a degree, and not what Ptolemy copied |
@@ -137,7 +143,7 @@ tells the story.
 | **III. The Mediterranean and the Islamic world** | [7. Greece and Alexandria](07-Greece-and-Alexandria.md) |
 | | [8. The Islamic world and Persia](08-The-Islamic-World-and-Persia.md) |
 | | [9. Byzantium and medieval Europe](09-Byzantium-and-Medieval-Europe.md) |
-| **IV. Africa, the Americas and the Pacific** | 10. Africa |
+| **IV. Africa, the Americas and the Pacific** | [10. Africa](10-Africa.md) |
 | | 11. The Americas |
 | | 12. Oceania and Australia |
 | **V. A new picture of the heavens** | 13. Copernicus and his debt to Maragha |
