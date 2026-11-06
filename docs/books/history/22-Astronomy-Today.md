@@ -32,7 +32,7 @@ A telescope's main mirror is a bucket for light: the wider it is, the fainter th
 how the record has grown.
 
 - **1789.** William Herschel, helped by his sister Caroline, finished his "Forty-Foot" at Slough in England. Its mirror
-  was about 1.2 m across, and it stayed the largest telescope in the world for 50 years (chapter 17).
+  was about 1.2 to 1.26 m across, and it stayed the largest telescope in the world for 50 years (chapter 17).
 - **1845.** William Parsons, Earl of Rosse, finished the "Leviathan" at Birr Castle in Ireland, with a mirror 1.83 m
   across. With it he drew the spiral shape of the Whirlpool Galaxy.
 - **1917 and 1948.** The 2.5 m **Hooker** telescope on Mount Wilson, near Los Angeles, was the largest from 1917 to
@@ -53,7 +53,7 @@ Brazil, Chile, Israel, South Korea, Taiwan and the United States, and should sta
 the Thirty Meter Telescope, is stuck over the dispute on Mauna Kea (chapter 12).
 
 <div class="pattern-row" markdown="0">
-<svg viewBox="0 0 340 250" role="img" aria-label="Main mirror widths of record-setting telescopes from 1789 to the 2030s, on a scale where equal steps up multiply the width. Herschel's 40-foot of 1789 had a mirror about 1.2 metres across; Rosse's Leviathan of 1845, 1.83 metres; the Hooker of 1917, 2.5 metres; the Hale of 1948, 5.1 metres; Keck of 1993, 10 metres; the Gran Telescopio Canarias of 2007, 10.4 metres. The Hubble and Webb space telescopes, 2.4 and 6.5 metres, are shown as hollow dots. The Giant Magellan Telescope, 25.4 metres, and the Extremely Large Telescope, 39.3 metres, are planned for 2029 and the early 2030s.">
+<svg viewBox="0 0 340 250" role="img" aria-label="Main mirror widths of record-setting telescopes from 1789 to the 2030s, on a scale where equal steps up multiply the width. Herschel's 40-foot of 1789 had a mirror about 1.2 to 1.26 metres across; Rosse's Leviathan of 1845, 1.83 metres; the Hooker of 1917, 2.5 metres; the Hale of 1948, 5.1 metres; Keck of 1993, 10 metres; the Gran Telescopio Canarias of 2007, 10.4 metres. The Hubble and Webb space telescopes, 2.4 and 6.5 metres, are shown as hollow dots. The Giant Magellan Telescope, 25.4 metres, and the Extremely Large Telescope, 39.3 metres, are planned for 2029 and the early 2030s.">
   <line x1="46" y1="206.0" x2="316" y2="206.0" stroke="currentColor" stroke-width="0.8"/>
   <line x1="46" y1="206.0" x2="46" y2="36.0" stroke="currentColor" stroke-width="0.8"/>
   <g font-size="8" fill="currentColor">
@@ -106,8 +106,8 @@ the Thirty Meter Telescope, is stuck over the dispute on Mauna Kea (chapter 12).
 ??? note "Sources"
     - The Forty-Foot: built 1785 to 1789 at Slough with Caroline Herschel's help, the 48-inch (120 cm) mirror, the
       largest telescope in the world for 50 years: Wikipedia,
-      [40-foot telescope](https://en.wikipedia.org/wiki/40-foot_telescope) (weaker). Chapter 17 gives 1.26 m from
-      another source.
+      [40-foot telescope](https://en.wikipedia.org/wiki/40-foot_telescope) (weaker). Wikipedia's
+      [William Herschel](https://en.wikipedia.org/wiki/William_Herschel) page gives 49½ inches (1.26 m) (weaker).
     - The Leviathan: William Parsons, 3rd Earl of Rosse, Birr Castle at Parsonstown in Ireland, the 6-foot (1.83 m)
       mirror, the tube finished in 1845, his 1845 drawing of M51, the Whirlpool Galaxy: Wikipedia,
       [Leviathan of Parsonstown](https://en.wikipedia.org/wiki/Leviathan_of_Parsonstown) (weaker).
@@ -413,7 +413,8 @@ Hubble's 2.4 m mirror:
 
 $$\text{Webb: } \left(\frac{6.5}{2.4}\right)^2 = 7.3, \qquad \text{ELT: } \left(\frac{39.3}{2.4}\right)^2 = 268.$$
 
-Herschel's mirror of 1.2 m to the ELT is $(39.3/1.2)^2 \approx 1{,}070$ times more light.
+From Herschel's mirror to the ELT is $(39.3/1.2)^2 \approx 1{,}070$ times more light, or $(39.3/1.26)^2 \approx 970$
+times if his mirror was 1.26 m.
 
 **The dip.** When a planet of radius $r$ crosses a star of radius $R$, it blocks a fraction $(r/R)^2$ of the light.
 For the Sun, $R = 695{,}700$ km:

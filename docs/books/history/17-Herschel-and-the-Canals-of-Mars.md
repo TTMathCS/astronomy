@@ -41,9 +41,8 @@ Herschel wanted to call it the "Georgian star" after King George III. In 1782 Jo
 by John Flamsteed in 1690, who listed it as a star.
 
 The king made Herschel "The King's Astronomer" in 1782, and that year he and Caroline moved to Datchet, near Windsor.
-His largest telescope, 12 m (40 feet) long with a mirror 1.26 m across, was the largest scientific instrument built up
-to then. He found two
-moons of Uranus and two of Saturn, published catalogues of 2,500 and later 5,000 nebulae, and in 1800 found that sunlight carries
+His largest telescope, 12 m (40 feet) long with a mirror about 1.2 to 1.26 m across (sources give 48 and 49½
+inches), was the largest scientific instrument built up to then. He found two moons of Uranus and two of Saturn, published catalogues of 2,500 and later 5,000 nebulae, and in 1800 found that sunlight carries
 heat beyond the red end of the rainbow, the light we now call **infrared** (chapter 18).
 
 ??? note "Sources"
@@ -52,7 +51,10 @@ heat beyond the red end of the rainbow, the light we now call **infrared** (chap
       Lexell's orbit, the Georgian star, The King's Astronomer and the move to Datchet in 1782, the 40-foot telescope with its 1.26 m mirror as the largest
       scientific instrument then built,
       Titania, Oberon, Mimas and Enceladus, the nebula catalogues of 1802 and 1820, infrared in 1800: Wikipedia,
-      [William Herschel](https://en.wikipedia.org/wiki/William_Herschel) (weaker).
+      [William Herschel](https://en.wikipedia.org/wiki/William_Herschel) (weaker). That page gives the mirror as
+      49½ inches (1.26 m).
+    - The mirror as 48 inches (120 cm): Wikipedia, [40-foot telescope](https://en.wikipedia.org/wiki/40-foot_telescope)
+      (weaker).
     - The garden at 19 New King Street, Bath, the report as a comet, Lexell in Russia, Bode's name in March 1782,
       Flamsteed's 34 Tauri in 1690: Wikipedia, [Uranus](https://en.wikipedia.org/wiki/Uranus) (weaker).
 
