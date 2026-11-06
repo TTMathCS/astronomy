@@ -35,8 +35,8 @@ tells the story.
 | c. 3000 BC | Africa | Egypt keeps records of the Nile flood; the [civil year of 365 days](03-Egypt.md#year) is in use | Twelve months of 30 days plus five: the simplest calendar a state ever used |
 | c. 3000–2500 BC | Europe | [Stonehenge](01-Before-Writing.md#solstice-buildings) is laid out on the solstice line | The best-known solar alignment, rebuilt over 1,500 years |
 | c. 2500 BC | Africa | The Great Pyramid is set [square to north](03-Egypt.md#pyramids) within about 3.6 minutes of arc | Precise surveying by the stars or the Sun; a disputed way to date the pharaohs |
-| c. 2100 BC | China | A platform with twelve slots for the sunrise is built at [Taosi](01-Before-Writing.md#taosi) | A horizon calendar marking both solstices |
 | c. 2400 BC | Africa | The [Namoratunga pillars](10-Africa.md#namoratunga) are raised by Lake Turkana | Once called an observatory; the alignments are now doubted |
+| c. 2100 BC | China | A platform with twelve slots for the sunrise is built at [Taosi](01-Before-Writing.md#taosi) | A horizon calendar marking both solstices |
 | c. 2100–1800 BC | Africa | [Diagonal star tables](03-Egypt.md#decans) of 36 decans are painted on coffin lids | Star clocks; a likely origin of the twelve hours of the night |
 | c. 1646 BC (disputed) | Middle East | Venus's appearances are recorded for 21 years under King Ammi-saduqa: the [Venus tablet](02-Mesopotamia.md#venus) | The oldest known long run of planet sightings; its date is still argued over |
 | buried c. 1600 BC (disputed) | Europe | The [Nebra sky disc](01-Before-Writing.md#nebra) is buried on the Mittelberg, Germany | The oldest known picture of the sky: Moon, Pleiades and the Sun's 82° swing |
