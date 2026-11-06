@@ -616,7 +616,7 @@ were wrong?
   Saha's committee.
 - Indian astronomy reached Baghdad (the Sindhind, 770s) and China (718), and in 2014 India reached Mars orbit.
 
-**Next:** chapter 6, Korea and Japan, where a stone tower, a star chart carved in 1395 and a painted tomb ceiling keep
+**Next:** [chapter 6, Korea and Japan](06-Korea-and-Japan.md), where a stone tower, a star chart carved in 1395 and a painted tomb ceiling keep
 East Asia's sky.
 
 ## Further reading
