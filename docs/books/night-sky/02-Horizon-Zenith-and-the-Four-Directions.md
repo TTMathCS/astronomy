@@ -499,8 +499,8 @@ measurements of stars close to the horizon unreliable?
 - On Mars a compass is useless, but Sadr and Deneb point to its north celestial pole, and the horizon is nearer.
 - Refraction lifts objects near the horizon by up to about 35′, more than the width of the Sun.
 
-**Next:** chapter 3, Constellations and star names from around the world, where we join the stars into pictures, as
-every people has done, and learn where the names of the stars come from.
+**Next:** [chapter 3, Constellations and star names from around the world](03-Constellations-and-Star-Names.md), where
+we join the stars into pictures, as every people has done, and learn where the names of the stars come from.
 
 ## Further reading
 
