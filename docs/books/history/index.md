@@ -45,6 +45,7 @@ tells the story.
 | compiled c. 1000 BC | Middle East | [MUL.APIN](02-Mesopotamia.md#mulapin) gathers star lists, first risings, planet rules and calendar rules | The oldest known handbook of the sky |
 | 7th century BC | Middle East | Scholars send [sky omen reports](02-Mesopotamia.md#omens) to the kings of Assyria | Sky-watching as a state service; the oldest datable aurora records |
 | 652–61 BC | Middle East | Babylon keeps the [Astronomical Diaries](02-Mesopotamia.md#diaries), nightly notes for six centuries | The largest body of observations from the ancient world |
+| c. 500–100 BC (disputed) | India | The [Vedanga Jyotisha](05-India.md#vedanga) sets a five-year calendar of 1,830 days | The first Indian astronomy text; the solstice it describes fits c. 1400–1200 BC |
 | 497–380 BC | Middle East | The [19-year cycle](02-Mesopotamia.md#nineteen) of 235 months becomes the rule for leap months | Months and years kept in step; the Jewish calendar still uses it |
 | late 5th century BC | Middle East | Eclipse records are arranged by the 223-month [saros](02-Mesopotamia.md#saros) | Lunar eclipses predicted from their own cycle |
 | c. 433 BC | China | A chest in the [tomb of Marquis Yi of Zeng](04-China.md#mansions) names all 28 lunar mansions | The oldest full list of the mansions, with the Dipper, dragon and tiger |
@@ -60,12 +61,22 @@ tells the story.
 | AD 79/80 | Middle East | The last dated [cuneiform tablet](02-Mesopotamia.md#clay), an astronomical almanac from Uruk | Writing on clay ends, as it went on, with astronomy |
 | AD 139 | Africa | [Sirius rises](03-Egypt.md#sirius) on the Egyptian New Year, as Censorinus records | Fixes the Sothic cycle used to date Egyptian history |
 | AD 185 | China | A guest star appears in the [Southern Gate](04-China.md#guests) | Probably the earliest supernova on record |
+| AD 499 | India | [Aryabhata](05-India.md#aryabhata) writes the Aryabhatiya, aged 23 | The Earth turns on its axis; eclipses by shadows; the oldest sine table |
+| AD 628 | India | [Brahmagupta](05-India.md#brahmagupta) finishes the Brahmasphutasiddhanta | Rules for zero and negative numbers; translated into Arabic in Baghdad |
 | AD 649–684 | China | The [Dunhuang star atlas](04-China.md#mansions) is drawn | The oldest complete star atlas from any civilisation: 1,339 stars |
+| AD 718 | India | Gautama Siddha brings [Indian numerals with zero](05-India.md#exchange) to the Tang court | Indian astronomy in China |
 | AD 725 | China | Yi Xing builds an [escapement](04-China.md#machines) and surveys shadows from 17° N to 50° N | The key part of later clocks; the survey shows shadows do not grow evenly with distance |
+| early 770s | India | An Indian treatise reaches Baghdad and becomes the [Zij al-Sindhind](05-India.md#exchange) | Indian methods enter Arabic astronomy |
 | 1054 | China | A [guest star](04-China.md#guests) is seen by day for 23 days | It left the Crab Nebula and its pulsar |
 | 1088–1094 | China | [Su Song](04-China.md#machines) builds his clock tower at Kaifeng | A water-driven sphere and globe with an escapement and chain drive |
+| 1150 | India | Bhaskara II, head of the [Ujjain observatory](05-India.md#brahmagupta), writes the Siddhanta Shiromani | Ujjain, the meridian of Indian astronomy |
 | 1276–1281 | China | Guo Shoujing builds the [Gaocheng gnomon](04-China.md#guo) and the Shoushi calendar | A year of 365.2425 days, 300 years before the Gregorian calendar |
+| c. 1340–1425 | India | [Madhava](05-India.md#kerala) of Kerala finds infinite series for the sine and π | Power series some 250 years before Europe |
+| 1500–1501 | India | Nilakantha's [Tantrasangraha](05-India.md#kerala) has five planets circling the Sun | A model like Tycho's, 80 years earlier |
 | 1673 | China | Verbiest re-equips the [Beijing observatory](04-China.md#jesuits) | European instruments and methods in the Qing bureau |
+| 1724–1734 | India | Jai Singh builds the [Jantar Mantar](05-India.md#jantar) observatories | A stone sundial 27 m high at Jaipur |
+| 1957 | India | India adopts a [national calendar](05-India.md#calendars) from Saha's committee | A modern solar calendar beside the traditional ones |
+| 2014 | India | India's [Mars Orbiter Mission](05-India.md#exchange) reaches Mars orbit | The first Asian nation at Mars, on its first attempt |
 | date not known; living tradition | Australia | The Wathaurung build [Wurdi Youang](01-Before-Writing.md#australia); the Emu in the Sky is read in the Milky Way's dark clouds | Solstice and equinox sunsets marked twice over; knowledge still held today |
 
 ## Contents
@@ -76,7 +87,7 @@ tells the story.
 | | [2. Mesopotamia](02-Mesopotamia.md) |
 | | [3. Egypt](03-Egypt.md) |
 | **II. Asia** | [4. China](04-China.md) |
-| | 5. India |
+| | [5. India](05-India.md) |
 | | 6. Korea and Japan |
 | **III. The Mediterranean and the Islamic world** | 7. Greece and Alexandria |
 | | 8. The Islamic world and Persia |

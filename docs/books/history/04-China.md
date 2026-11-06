@@ -733,7 +733,7 @@ where the ratio comes from.
 - Persian astronomers in the Yuan and Jesuits in the Qing brought outside methods; Verbiest's bronze instruments of
   1673 still stand in Beijing.
 
-**Next:** chapter 5, India, where Aryabhata set the Earth turning on its axis in AD 499 and the astronomers of Kerala
+**Next:** [chapter 5, India](05-India.md), where Aryabhata set the Earth turning on its axis in AD 499 and the astronomers of Kerala
 found endless series for the sine.
 
 ## Further reading
