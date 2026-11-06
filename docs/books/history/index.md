@@ -106,6 +106,7 @@ tells the story.
 | 1259 | Middle East | Al-Tusi begins the [Maragha observatory](08-The-Islamic-World-and-Persia.md#maragha) for Hulagu | A Chinese astronomer on the staff; the Tusi couple replaces the equant |
 | 1276–1281 | China | Guo Shoujing builds the [Gaocheng gnomon](04-China.md#guo) and the Shoushi calendar | A year of 365.2425 days, 300 years before the Gregorian calendar |
 | 1277 | Europe | The Bishop of Paris condemns [219 teachings](09-Byzantium-and-Medieval-Europe.md#universities) | Historians still argue whether it freed science from Aristotle |
+| c. 1300 | Middle East | Al-Farisi explains the [rainbow](18-Light-Split-into-Colours.md#prism) with a glass globe of water | Two bendings and a reflection in each drop |
 | 1304–1375 | Middle East | [Ibn al-Shatir](08-The-Islamic-World-and-Persia.md#shatir), timekeeper in Damascus, builds models without the equant | Mathematically the same as Copernicus's for the Moon and Mercury |
 | 1327 | Europe | Richard of Wallingford designs the [St Albans clock](09-Byzantium-and-Medieval-Europe.md#clocks) | One of Europe's first astronomical clocks |
 | c. 1340–1425 | India | [Madhava](05-India.md#kerala) of Kerala finds infinite series for the sine and π | Power series some 250 years before Europe |
@@ -160,23 +161,36 @@ tells the story.
 | 1791 | Americas | Benjamin Banneker computes his [almanac](16-Newton-Halley-and-Romer.md#world) and writes to Jefferson | An African American astronomer argues against slavery |
 | 1792 | Japan | Shiba Kōkan's world map shows the [Copernican system](13-Copernicus-and-Maragha.md#world) | The Sun-centred picture reaches Japan |
 | 1798 | Japan | Shizuki Tadao puts [Newton's physics](16-Newton-Halley-and-Romer.md#world) into Japanese | New words for gravity and centrifugal force |
+| 1800 | Europe | Herschel finds [infrared](18-Light-Split-into-Colours.md#invisible) with thermometers past the red | Light that cannot be seen |
 | 1800–1821 | Japan | Inō Tadataka and his team [survey Japan's coasts](06-Korea-and-Japan.md#calendars) by pacing and star sights | Western astronomy learned through Dutch books |
 | 1801 | Europe | Piazzi finds [Ceres](17-Herschel-and-the-Canals-of-Mars.md#rule) at Palermo | The first asteroid, where the Titius-Bode rule said |
+| 1801 | Europe | Ritter finds [ultraviolet](18-Light-Split-into-Colours.md#invisible) past the violet | Light beyond the other end |
+| 1814 | Europe | Fraunhofer maps 574 [dark lines](18-Light-Split-into-Colours.md#lines) in sunlight | The start of spectroscopy |
 | 1820 | Africa | The [Royal Observatory](10-Africa.md#telescopes) at the Cape of Good Hope is founded | The first scientific institution in Africa |
 | 1831 | Japan | Kunitomo Ikkansai builds a [reflecting telescope](15-Galileo-and-the-Telescope.md#world) | Japan makes its own telescopes |
 | 1840 | Europe | Beer and Mädler publish the first [map of Mars](17-Herschel-and-the-Canals-of-Mars.md#canali) | Mars's markings can be mapped |
 | 1840s | Australia | The Boorong see the outburst of [Eta Carinae](12-Oceania-and-Australia.md#aboriginal) | A changing star kept in oral tradition |
 | 1846 | Europe | Galle finds [Neptune](17-Herschel-and-the-Canals-of-Mars.md#rule) where Le Verrier predicted | A planet found by calculation |
+| 1859 | Europe | Kirchhoff and Bunsen read the lines as [fingerprints of elements](18-Light-Split-into-Colours.md#elements) | Sodium in the Sun |
+| 1868 | India | Janssen at Guntur sees a [yellow line](18-Light-Split-into-Colours.md#helium) in the prominences | Helium, found in the Sun before the Earth |
+| 1868 | Thailand | King Mongkut predicts and watches the [eclipse](18-Light-Split-into-Colours.md#helium) at Hua Hin | More precise than the French astronomers |
 | 1877 | Americas | Asaph Hall finds [Phobos and Deimos](17-Herschel-and-the-Canals-of-Mars.md#moons), urged on by Angeline Stickney | Mars has two moons |
 | 1877 | Europe | Schiaparelli maps Mars and draws [*canali*](17-Herschel-and-the-Canals-of-Mars.md#canali) | Translated as canals, the start of a long argument |
 | 1880 | Americas | Förstemann publishes the [Dresden Codex](11-The-Americas.md#dresden) and decodes its numbers | Maya astronomy can be read again |
 | 1892 | Americas | Pickering watches Mars from [Arequipa](17-Herschel-and-the-Canals-of-Mars.md#world), Peru | Harvard's southern station in the Andes |
 | 1894 | Americas | Lowell opens his observatory at [Flagstaff](17-Herschel-and-the-Canals-of-Mars.md#lowell) | Canals and a dying civilisation on Mars |
+| 1894 | Americas | Campbell at Lick finds Mars's spectrum [like the Moon's](18-Light-Split-into-Colours.md#mars) | Far less air on Mars than hoped |
+| 1899 | India | The [Kodaikanal](18-Light-Split-into-Colours.md#world) solar observatory opens | Watching the Sun for the monsoon |
+| 1901 | Americas | Cannon and Pickering publish the southern bright stars from [Arequipa](18-Light-Split-into-Colours.md#stars) | O, B, A, F, G, K, M |
 | 1909 | Europe | Antoniadi at Meudon sees [no canals](17-Herschel-and-the-Canals-of-Mars.md#illusion) | The canals are an optical illusion |
+| 1909 | India | Evershed finds gas [flowing in sunspots](18-Light-Split-into-Colours.md#doppler) at Kodaikanal | The Evershed effect |
+| 1920 | India | Meghnad Saha's [ionisation equation](18-Light-Split-into-Colours.md#saha) | Star classes are a temperature sequence |
+| 1925 | Americas | Cecilia Payne finds stars are mostly [hydrogen and helium](18-Light-Split-into-Colours.md#saha) | Called "spurious", then confirmed |
 | 1930 | Americas | Tombaugh finds Pluto at [Lowell's observatory](17-Herschel-and-the-Canals-of-Mars.md#illusion) | The search Lowell began |
 | 1957 | India | India adopts a [national calendar](05-India.md#calendars) from Saha's committee | A modern solar calendar beside the traditional ones |
 | 1957 | Middle East | Roberts shows Ibn al-Shatir's models [match Copernicus's](13-Copernicus-and-Maragha.md#maragha) | The debt to Maragha comes to light |
 | 1961 | Australia | The [Parkes](12-Oceania-and-Australia.md#telescopes) dish is finished; later named Murriyang | Apollo 11 pictures, quasars, fast radio bursts |
+| 1964 | Americas | Kaplan's team finds [water vapour](18-Light-Split-into-Colours.md#mars) in Mars's thin air | Mars's air is far thinner than the Earth's |
 | 1965 | Americas | [Mariner 4](11-The-Americas.md#mars) sends the first close pictures of Mars | Craters and thin air, not canals |
 | 1976 | Pacific | [Hōkūleʻa](12-Oceania-and-Australia.md#hokulea) sails from Hawaiʻi to Tahiti with no instruments | Planned voyaging shown to work |
 | 2000 | Americas | Satellite data confirm the Andean [Pleiades forecast](11-The-Americas.md#pleiades) | Dim Pleiades in June warn of El Niño |
@@ -216,7 +230,7 @@ tells the story.
 | | [15. Galileo, and the telescope goes round the world](15-Galileo-and-the-Telescope.md) |
 | | [16. Newton, Halley and Rømer](16-Newton-Halley-and-Romer.md) |
 | | [17. Herschel, and the canals of Mars](17-Herschel-and-the-Canals-of-Mars.md) |
-| **VI. The modern sky** | 18. Light split into colours |
+| **VI. The modern sky** | [18. Light split into colours](18-Light-Split-into-Colours.md) |
 | | 19. Galaxies and the expanding universe |
 | | 20. Radio astronomy |
 | | 21. The space age at Mars |

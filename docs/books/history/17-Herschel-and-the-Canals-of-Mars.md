@@ -513,7 +513,7 @@ back to the same place in a Martian sky, and roughly how long does it stay up? I
   Mariner 4 confirmed it in 1965.
 - The argument spread from Italy and the USA to Russia, Peru and France.
 
-**Next:** chapter 18, Light split into colours, where dark lines in the spectrum of the Sun told astronomers what the
+**Next:** [chapter 18, Light split into colours](18-Light-Split-into-Colours.md), where dark lines in the spectrum of the Sun told astronomers what the
 stars are made of, an Indian physicist explained why, and spectra showed there was little water on Mars.
 
 ## Further reading
