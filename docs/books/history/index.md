@@ -220,6 +220,10 @@ tells the story.
 | 1971 | Soviet Union | Mars 3 makes the first [soft landing on Mars](21-The-Space-Age-at-Mars.md#orbit) | Silent after 20 seconds |
 | 1976 | Pacific | [Hōkūleʻa](12-Oceania-and-Australia.md#hokulea) sails from Hawaiʻi to Tahiti with no instruments | Planned voyaging shown to work |
 | 1976 | Americas | The Viking landers [test the soil for life](21-The-Space-Age-at-Mars.md#viking) | Still argued over |
+| 1988 | Americas | Campbell, Walker and Yang in Canada find signs of a [planet round Gamma Cephei](22-Astronomy-Today.md#planets) | Confirmed only in 2003 |
+| 1990 | Worldwide | The [Hubble Space Telescope](22-Astronomy-Today.md#space) is launched; its blurred mirror is fixed in 1993 | A 2.4 m mirror above the air |
+| 1992 | Americas | Wolszczan and Frail find [planets round a pulsar](22-Astronomy-Today.md#planets) with Arecibo | The first confirmed planets beyond the Sun |
+| 1995 | Europe | Mayor and Queloz find a [planet round 51 Pegasi](22-Astronomy-Today.md#planets), a star like the Sun | The first hot Jupiter |
 | 1997 | Americas | Pathfinder lands with [Sojourner](21-The-Space-Age-at-Mars.md#rovers), the first rover on Mars | Airbags and a 10.6 kg rover |
 | 1999 | Americas | Mars Climate Orbiter is lost to a [mix-up of units](21-The-Space-Age-at-Mars.md#hard) | Pound-force seconds against newton-seconds |
 | 2000 | Americas | Satellite data confirm the Andean [Pleiades forecast](11-The-Americas.md#pleiades) | Dim Pleiades in June warn of El Niño |
@@ -234,17 +238,24 @@ tells the story.
 | 2013–2025 | Europe | Gaia measures the [parallaxes](19-Galaxies-and-the-Expanding-Universe.md#parallax) of about a billion stars | A map of the Milky Way |
 | 2014 | India | India's [Mars Orbiter Mission](05-India.md#exchange) reaches Mars orbit | The first Asian nation at Mars, on its first attempt |
 | 2014 | Australia | A comet found at Siding Spring [passes Mars](16-Newton-Halley-and-Romer.md#onmars) at 140,000 km | Orbiters hide behind the planet |
+| 2015 | Americas | LIGO catches [gravitational waves](22-Astronomy-Today.md#messengers) from two black holes | Waves in space itself, seen directly |
 | 2016 | China | The 500 m [FAST](20-Radio-Astronomy.md#world) dish sees first light in Guizhou | The largest single dish |
 | 2016 | Europe | Schiaparelli [crashes](21-The-Space-Age-at-Mars.md#europe); the Trace Gas Orbiter reaches Mars | It later finds [no methane](21-The-Space-Age-at-Mars.md#methane) |
+| 2017 | Worldwide | Two neutron stars collide, caught by [gravitational waves and light](22-Astronomy-Today.md#messengers) | Gold and platinum made in the blast |
+| 2017 | Worldwide | Seven rocky planets found round [TRAPPIST-1](22-Astronomy-Today.md#planets), with telescopes in Chile and Morocco | A Belgian-led team |
 | 2018 | Europe | MARSIS radar on Mars Express reports a possible [lake under the ice](20-Radio-Astronomy.md#mars) | Still debated |
 | 2019 | Worldwide | The Event Horizon Telescope shows the first [picture of a black hole](20-Radio-Astronomy.md#arrays) | Dishes across the Earth as one |
 | 2021 | Americas | Perseverance lands in [Jezero Crater](11-The-Americas.md#mars) | Its helicopter makes the first powered flight on another planet |
 | 2021 | Middle East | The UAE's [Hope](08-The-Islamic-World-and-Persia.md#mars) probe goes into orbit around Mars | Studies Martian weather from a 55-hour orbit |
 | 2021 | China | Tianwen-1 lands the rover [Zhurong](21-The-Space-Age-at-Mars.md#asia) in Utopia Planitia | Landing and roving at the first attempt |
+| 2021 | Worldwide | The [James Webb Space Telescope](22-Astronomy-Today.md#space) is launched from French Guiana | A 6.5 m mirror near L2 |
 | 2022 | Africa | Building of the [Square Kilometre Array](20-Radio-Astronomy.md#arrays) begins in South Africa and Australia | Inyarrimanha Ilgari Bundara, "sharing sky and stars" |
 | 2022 | Pacific | [Matariki](12-Oceania-and-Australia.md#matariki) becomes a public holiday in New Zealand | A star rising marks a national holiday |
 | 2022 | Mediterranean | Part of [Hipparchus' lost star catalogue](07-Greece-and-Alexandria.md#hipparchus) is read in a palimpsest | Accurate to about a degree, and not what Ptolemy copied |
+| 2022 | Americas | DART [pushes an asteroid moonlet](22-Astronomy-Today.md#surveys) into a shorter orbit | 32 minutes, when 73 seconds would have done |
+| 2024 | India | India's [Aditya-L1](22-Astronomy-Today.md#space) reaches L1 to watch the Sun | India's first mission to the Sun |
 | 2025 | Australia | The [SKA](12-Oceania-and-Australia.md#telescopes) on Wajarri land makes its first picture | Inyarrimanha Ilgari Bundara, sharing sky and stars |
+| 2025 | Americas | The [Rubin Observatory](22-Astronomy-Today.md#surveys) in Chile releases its first pictures | A 3.2-gigapixel camera |
 | 2026 | Americas | The NASA–ESA [Mars sample return](21-The-Space-Age-at-Mars.md#samples) is cancelled | China's Tianwen-3 aims for 2028 |
 | 2026 | Japan | Japan launches [MMX](06-Korea-and-Japan.md#mars) to bring back samples of Phobos | Due back on Earth in 2031 |
 | date not known; living tradition | Australia | The Wathaurung build [Wurdi Youang](01-Before-Writing.md#australia); the Emu in the Sky is read in the Milky Way's dark clouds | Solstice and equinox sunsets marked twice over; knowledge still held today |
@@ -274,4 +285,4 @@ tells the story.
 | | [19. Galaxies and the expanding universe](19-Galaxies-and-the-Expanding-Universe.md) |
 | | [20. Radio astronomy](20-Radio-Astronomy.md) |
 | | [21. The space age at Mars](21-The-Space-Age-at-Mars.md) |
-| | 22. Astronomy today |
+| | [22. Astronomy today](22-Astronomy-Today.md) |

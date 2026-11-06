@@ -597,7 +597,7 @@ lighter does it feel on Mars?
 - About two in five Mars missions have failed, often through small human mistakes.
 - The methane in Mars's air is disputed, and the first samples may come home with China or Japan.
 
-**Next:** chapter 22, Astronomy today, where giant telescopes on mountains and in space, new planets round other stars
+**Next:** [chapter 22, Astronomy today](22-Astronomy-Today.md), where giant telescopes on mountains and in space, new planets round other stars
 and people still reading the sky by eye bring the whole story up to date.
 
 ## Further reading
