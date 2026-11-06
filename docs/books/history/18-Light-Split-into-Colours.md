@@ -554,7 +554,7 @@ happens to the wavelengths for very large $n$?
 - Doppler shifts measure speed towards or away from us.
 - Spectra showed that Mars's air is thin, mostly carbon dioxide, with very little water.
 
-**Next:** chapter 19, Galaxies and the expanding universe, where a woman at Harvard found a way to measure the
+**Next:** [chapter 19, Galaxies and the expanding universe](19-Galaxies-and-the-Expanding-Universe.md), where a woman at Harvard found a way to measure the
 distances to stars, a great debate about nebulae was settled, and the universe turned out to be growing.
 
 ## Further reading

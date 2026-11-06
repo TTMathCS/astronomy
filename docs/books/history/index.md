@@ -151,12 +151,15 @@ tells the story.
 | 1689 | India | Jean Richaud sees that [Alpha Centauri](15-Galileo-and-the-Telescope.md#world) is two stars | A telescope discovery made in India |
 | 1724–1734 | India | Jai Singh builds the [Jantar Mantar](05-India.md#jantar) observatories | A stone sundial 27 m high at Jaipur |
 | 1725–1728 | Europe | Bradley finds the [aberration of light](16-Newton-Halley-and-Romer.md#light) | Direct evidence that the Earth moves |
+| 1750 | Europe | Thomas Wright explains the Milky Way as a [flat layer of stars](19-Galaxies-and-the-Expanding-Universe.md#milkyway) | Kant goes further in 1755: one galaxy among many |
 | 1751–1752 | Africa | Lacaille maps nearly 10,000 [southern stars](10-Africa.md#telescopes) from the Cape | Fourteen new constellations still in use |
 | 1758 | Europe | [Halley's comet](16-Newton-Halley-and-Romer.md#halley) returns as predicted | Gravity predicts the future |
 | 1762 | Americas | Mutis teaches Copernicus in [Bogotá](16-Newton-Halley-and-Romer.md#world) | Defended before the Inquisition in 1774 |
 | 1769 | Pacific | Cook times the [transit of Venus](12-Oceania-and-Australia.md#tupaia) at Tahiti; Tupaia draws his chart | A measure of the distance to the Sun, and Pacific knowledge on paper |
+| 1774 | Europe | Messier publishes his first list of [fuzzy objects](19-Galaxies-and-the-Expanding-Universe.md#nebulae) | M31 is Andromeda |
 | 1781 | Europe | William Herschel finds [Uranus](17-Herschel-and-the-Canals-of-Mars.md#herschel) from his garden in Bath | The first planet found with a telescope |
 | 1784 | Europe | Herschel sees Mars's [polar caps](17-Herschel-and-the-Canals-of-Mars.md#herschelmars) change with the seasons | Mars has seasons like the Earth's |
+| 1785 | Europe | William Herschel counts stars to [map the Milky Way](19-Galaxies-and-the-Expanding-Universe.md#milkyway) | He puts the Sun near the middle |
 | 1786 | Europe | Caroline Herschel finds her [first comet](17-Herschel-and-the-Canals-of-Mars.md#caroline) | The next year she is the first woman paid a salary as a scientist |
 | 1791 | Americas | Benjamin Banneker computes his [almanac](16-Newton-Halley-and-Romer.md#world) and writes to Jefferson | An African American astronomer argues against slavery |
 | 1792 | Japan | Shiba Kōkan's world map shows the [Copernican system](13-Copernicus-and-Maragha.md#world) | The Sun-centred picture reaches Japan |
@@ -168,8 +171,11 @@ tells the story.
 | 1814 | Europe | Fraunhofer maps 574 [dark lines](18-Light-Split-into-Colours.md#lines) in sunlight | The start of spectroscopy |
 | 1820 | Africa | The [Royal Observatory](10-Africa.md#telescopes) at the Cape of Good Hope is founded | The first scientific institution in Africa |
 | 1831 | Japan | Kunitomo Ikkansai builds a [reflecting telescope](15-Galileo-and-the-Telescope.md#world) | Japan makes its own telescopes |
+| 1832–1833 | Africa | Henderson measures the [parallax](19-Galaxies-and-the-Expanding-Universe.md#parallax) of Alpha Centauri at the Cape | The first star distance, published in 1839 |
+| 1838 | Europe | Bessel publishes the [parallax](19-Galaxies-and-the-Expanding-Universe.md#parallax) of 61 Cygni | 10.3 light-years |
 | 1840 | Europe | Beer and Mädler publish the first [map of Mars](17-Herschel-and-the-Canals-of-Mars.md#canali) | Mars's markings can be mapped |
 | 1840s | Australia | The Boorong see the outburst of [Eta Carinae](12-Oceania-and-Australia.md#aboriginal) | A changing star kept in oral tradition |
+| 1845 | Europe | Lord Rosse's Leviathan shows the [spiral](19-Galaxies-and-the-Expanding-Universe.md#nebulae) of M51 | Spiral nebulae |
 | 1846 | Europe | Galle finds [Neptune](17-Herschel-and-the-Canals-of-Mars.md#rule) where Le Verrier predicted | A planet found by calculation |
 | 1859 | Europe | Kirchhoff and Bunsen read the lines as [fingerprints of elements](18-Light-Split-into-Colours.md#elements) | Sodium in the Sun |
 | 1868 | India | Janssen at Guntur sees a [yellow line](18-Light-Split-into-Colours.md#helium) in the prominences | Helium, found in the Sun before the Earth |
@@ -184,8 +190,15 @@ tells the story.
 | 1901 | Americas | Cannon and Pickering publish the southern bright stars from [Arequipa](18-Light-Split-into-Colours.md#stars) | O, B, A, F, G, K, M |
 | 1909 | Europe | Antoniadi at Meudon sees [no canals](17-Herschel-and-the-Canals-of-Mars.md#illusion) | The canals are an optical illusion |
 | 1909 | India | Evershed finds gas [flowing in sunspots](18-Light-Split-into-Colours.md#doppler) at Kodaikanal | The Evershed effect |
+| 1912 | Americas | Henrietta Leavitt's [period and brightness](19-Galaxies-and-the-Expanding-Universe.md#leavitt) rule, from plates taken in Peru | A yardstick for the universe |
+| 1912 | Americas | Slipher at Lowell's observatory measures the [speeds of spirals](19-Galaxies-and-the-Expanding-Universe.md#expanding) | Most are rushing away |
 | 1920 | India | Meghnad Saha's [ionisation equation](18-Light-Split-into-Colours.md#saha) | Star classes are a temperature sequence |
+| 1920 | Americas | The [Great Debate](19-Galaxies-and-the-Expanding-Universe.md#debate) between Shapley and Curtis | How big is the Milky Way, and what are the spirals? |
+| 1922 | Europe | Friedmann shows Einstein's theory allows an [expanding universe](19-Galaxies-and-the-Expanding-Universe.md#expanding) | Einstein at first disagrees |
+| 1924 | Americas | Hubble finds [Cepheids in Andromeda](19-Galaxies-and-the-Expanding-Universe.md#hubble) | Andromeda is another galaxy |
 | 1925 | Americas | Cecilia Payne finds stars are mostly [hydrogen and helium](18-Light-Split-into-Colours.md#saha) | Called "spurious", then confirmed |
+| 1927 | Europe | Lemaître links galaxy speeds to an [expanding universe](19-Galaxies-and-the-Expanding-Universe.md#expanding) | Later the primeval atom, the Big Bang |
+| 1929 | Americas | Hubble and Humason publish [Hubble's law](19-Galaxies-and-the-Expanding-Universe.md#expanding) | The farther, the faster |
 | 1930 | Americas | Tombaugh finds Pluto at [Lowell's observatory](17-Herschel-and-the-Canals-of-Mars.md#illusion) | The search Lowell began |
 | 1957 | India | India adopts a [national calendar](05-India.md#calendars) from Saha's committee | A modern solar calendar beside the traditional ones |
 | 1957 | Middle East | Roberts shows Ibn al-Shatir's models [match Copernicus's](13-Copernicus-and-Maragha.md#maragha) | The debt to Maragha comes to light |
@@ -199,6 +212,7 @@ tells the story.
 | 2008 | Europe | DNA from hairs in his books identifies [Copernicus's remains](13-Copernicus-and-Maragha.md#grave) | A lost grave found |
 | 2011 | Africa | The [Tissint](10-Africa.md#mars) Mars meteorite falls in Morocco | Only the fifth Mars meteorite seen to fall |
 | 2012 | Americas | The Long Count [rolls over](11-The-Americas.md#count); the Xultun tables are published | No end of the world |
+| 2013–2025 | Europe | Gaia measures the [parallaxes](19-Galaxies-and-the-Expanding-Universe.md#parallax) of about a billion stars | A map of the Milky Way |
 | 2014 | India | India's [Mars Orbiter Mission](05-India.md#exchange) reaches Mars orbit | The first Asian nation at Mars, on its first attempt |
 | 2014 | Australia | A comet found at Siding Spring [passes Mars](16-Newton-Halley-and-Romer.md#onmars) at 140,000 km | Orbiters hide behind the planet |
 | 2021 | Americas | Perseverance lands in [Jezero Crater](11-The-Americas.md#mars) | Its helicopter makes the first powered flight on another planet |
@@ -231,7 +245,7 @@ tells the story.
 | | [16. Newton, Halley and Rømer](16-Newton-Halley-and-Romer.md) |
 | | [17. Herschel, and the canals of Mars](17-Herschel-and-the-Canals-of-Mars.md) |
 | **VI. The modern sky** | [18. Light split into colours](18-Light-Split-into-Colours.md) |
-| | 19. Galaxies and the expanding universe |
+| | [19. Galaxies and the expanding universe](19-Galaxies-and-the-Expanding-Universe.md) |
 | | 20. Radio astronomy |
 | | 21. The space age at Mars |
 | | 22. Astronomy today |
