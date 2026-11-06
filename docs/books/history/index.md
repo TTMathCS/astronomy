@@ -140,14 +140,23 @@ tells the story.
 | 1666 | Europe | Cassini sees Mars's [south polar cap](15-Galileo-and-the-Telescope.md#mars) and times its day | 24 h 40 m, within three minutes |
 | 1668 | Americas | Valentin Stansel finds a [comet](15-Galileo-and-the-Telescope.md#world) from Salvador, Brazil | Observations sent from Brazil to Europe |
 | 1669 (disputed) | Korea | Song I-yeong is credited with an [armillary clock](06-Korea-and-Japan.md#clock1669) driven by clockwork | The map on its globe suggests it may be later |
+| 1672 | Americas | Richer in Cayenne and Cassini in Paris measure the [distance to Mars](16-Newton-Halley-and-Romer.md#distance) | The first good size for the solar system |
 | 1673 | China | Verbiest re-equips the [Beijing observatory](04-China.md#jesuits) | European instruments and methods in the Qing bureau |
+| 1676 | Europe | Rømer finds that [light takes time](16-Newton-Halley-and-Romer.md#light), from eclipses of Io | Light has a speed |
+| 1676–1677 | Atlantic | Halley catalogues southern stars on [Saint Helena](16-Newton-Halley-and-Romer.md#halley) | 341 stars of the southern sky |
 | 1684–1685 | Japan | Shibukawa Shunkai's [Jōkyō calendar](06-Korea-and-Japan.md#calendars) replaces the Senmyō, used for over 800 years | The old year was 3.5 minutes too long and had slipped 2 days |
 | 1685 | Thailand | King Narai watches a lunar [eclipse](15-Galileo-and-the-Telescope.md#world) with French Jesuits | European astronomy at the court of Siam |
+| 1687 | Europe | Newton's [*Principia*](16-Newton-Halley-and-Romer.md#principia), published by Halley | One law of gravity for the sky and the ground |
 | 1689 | India | Jean Richaud sees that [Alpha Centauri](15-Galileo-and-the-Telescope.md#world) is two stars | A telescope discovery made in India |
 | 1724–1734 | India | Jai Singh builds the [Jantar Mantar](05-India.md#jantar) observatories | A stone sundial 27 m high at Jaipur |
+| 1725–1728 | Europe | Bradley finds the [aberration of light](16-Newton-Halley-and-Romer.md#light) | Direct evidence that the Earth moves |
 | 1751–1752 | Africa | Lacaille maps nearly 10,000 [southern stars](10-Africa.md#telescopes) from the Cape | Fourteen new constellations still in use |
+| 1758 | Europe | [Halley's comet](16-Newton-Halley-and-Romer.md#halley) returns as predicted | Gravity predicts the future |
+| 1762 | Americas | Mutis teaches Copernicus in [Bogotá](16-Newton-Halley-and-Romer.md#world) | Defended before the Inquisition in 1774 |
 | 1769 | Pacific | Cook times the [transit of Venus](12-Oceania-and-Australia.md#tupaia) at Tahiti; Tupaia draws his chart | A measure of the distance to the Sun, and Pacific knowledge on paper |
+| 1791 | Americas | Benjamin Banneker computes his [almanac](16-Newton-Halley-and-Romer.md#world) and writes to Jefferson | An African American astronomer argues against slavery |
 | 1792 | Japan | Shiba Kōkan's world map shows the [Copernican system](13-Copernicus-and-Maragha.md#world) | The Sun-centred picture reaches Japan |
+| 1798 | Japan | Shizuki Tadao puts [Newton's physics](16-Newton-Halley-and-Romer.md#world) into Japanese | New words for gravity and centrifugal force |
 | 1800–1821 | Japan | Inō Tadataka and his team [survey Japan's coasts](06-Korea-and-Japan.md#calendars) by pacing and star sights | Western astronomy learned through Dutch books |
 | 1820 | Africa | The [Royal Observatory](10-Africa.md#telescopes) at the Cape of Good Hope is founded | The first scientific institution in Africa |
 | 1831 | Japan | Kunitomo Ikkansai builds a [reflecting telescope](15-Galileo-and-the-Telescope.md#world) | Japan makes its own telescopes |
@@ -165,6 +174,7 @@ tells the story.
 | 2011 | Africa | The [Tissint](10-Africa.md#mars) Mars meteorite falls in Morocco | Only the fifth Mars meteorite seen to fall |
 | 2012 | Americas | The Long Count [rolls over](11-The-Americas.md#count); the Xultun tables are published | No end of the world |
 | 2014 | India | India's [Mars Orbiter Mission](05-India.md#exchange) reaches Mars orbit | The first Asian nation at Mars, on its first attempt |
+| 2014 | Australia | A comet found at Siding Spring [passes Mars](16-Newton-Halley-and-Romer.md#onmars) at 140,000 km | Orbiters hide behind the planet |
 | 2021 | Americas | Perseverance lands in [Jezero Crater](11-The-Americas.md#mars) | Its helicopter makes the first powered flight on another planet |
 | 2021 | Middle East | The UAE's [Hope](08-The-Islamic-World-and-Persia.md#mars) probe goes into orbit around Mars | Studies Martian weather from a 55-hour orbit |
 | 2022 | Pacific | [Matariki](12-Oceania-and-Australia.md#matariki) becomes a public holiday in New Zealand | A star rising marks a national holiday |
@@ -192,7 +202,7 @@ tells the story.
 | **V. A new picture of the heavens** | [13. Copernicus and his debt to Maragha](13-Copernicus-and-Maragha.md) |
 | | [14. Tycho and Kepler](14-Tycho-and-Kepler.md) |
 | | [15. Galileo, and the telescope goes round the world](15-Galileo-and-the-Telescope.md) |
-| | 16. Newton, Halley and Rømer |
+| | [16. Newton, Halley and Rømer](16-Newton-Halley-and-Romer.md) |
 | | 17. Herschel, and the canals of Mars |
 | **VI. The modern sky** | 18. Light split into colours |
 | | 19. Galaxies and the expanding universe |

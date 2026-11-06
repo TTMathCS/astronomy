@@ -486,7 +486,7 @@ the Earth can look like a crescent but Jupiter cannot.
   1680s.
 - From Mars, the Earth shows phases like Venus, and a telescope at Mars now sees things smaller than a metre.
 
-**Next:** chapter 16, Newton, Halley and Rømer, where one law of gravity explained Kepler's three laws, a comet came back
+**Next:** [chapter 16, Newton, Halley and Rømer](16-Newton-Halley-and-Romer.md), where one law of gravity explained Kepler's three laws, a comet came back
 when it was told to, and Jupiter's moons showed that light takes time to travel.
 
 ## Further reading
