@@ -78,16 +78,27 @@ tells the story.
 | AD 718 | India | Gautama Siddha brings [Indian numerals with zero](05-India.md#exchange) to the Tang court | Indian astronomy in China |
 | AD 725 | China | Yi Xing builds an [escapement](04-China.md#machines) and surveys shadows from 17° N to 50° N | The key part of later clocks; the survey shows shadows do not grow evenly with distance |
 | early 770s | India | An Indian treatise reaches Baghdad and becomes the [Zij al-Sindhind](05-India.md#exchange) | Indian methods enter Arabic astronomy |
+| c. 830 | Middle East | Al-Ma'mun's astronomers [measure a degree](08-The-Islamic-World-and-Persia.md#measuring) on the plain of Sinjar | 56⅔ Arabic miles per degree; the mile's length is uncertain |
+| 877–918 | Middle East | [Al-Battani](08-The-Islamic-World-and-Persia.md#measuring) at Raqqa measures the year, the Earth's tilt and the moving solar apogee | Cited 23 times by Copernicus |
+| 964 | Middle East | Al-Sufi's [Book of Fixed Stars](08-The-Islamic-World-and-Persia.md#stars) records the Andromeda galaxy as a small cloud | The first known record of another galaxy |
+| 1006 | Africa | Ali ibn Ridwan in Cairo describes the [new star](08-The-Islamic-World-and-Persia.md#guests) as 2½ to 3 times as large as Venus | The same star was recorded in China, Japan, Iraq and Europe |
+| 1017–1037 | Central Asia | [Al-Biruni](08-The-Islamic-World-and-Persia.md#biruni) measures the Earth from a hilltop at Nandana and writes his India | One observer, one place, and a right triangle |
+| 1025–1028 | Africa | Ibn al-Haytham in Cairo writes [Doubts concerning Ptolemy](08-The-Islamic-World-and-Persia.md#doubts) | The equant cannot be a true picture of the heavens |
 | 1054 | China | A [guest star](04-China.md#guests) is seen by day for 23 days | It left the Crab Nebula and its pulsar |
+| 1054 | Middle East | Ibn Butlan in Baghdad writes of [a spectacular star in Gemini](08-The-Islamic-World-and-Persia.md#guests) | The only known Arabic report of the star of 1054 |
 | 1088–1094 | China | [Su Song](04-China.md#machines) builds his clock tower at Kaifeng | A water-driven sphere and globe with an escapement and chain drive |
 | 1150 | India | Bhaskara II, head of the [Ujjain observatory](05-India.md#brahmagupta), writes the Siddhanta Shiromani | Ujjain, the meridian of Indian astronomy |
 | 1181 | Japan | A [guest star](06-Korea-and-Japan.md#onmyodo) in Cassiopeia stays for 185 days | Its remnant may be the nebula Pa 30 |
 | 1230 | Japan | Fujiwara no Teika copies [guest star reports](06-Korea-and-Japan.md#onmyodo) of 1006, 1054 and 1181 into his diary | His 1054 date differs from China's by a month |
+| 1259 | Middle East | Al-Tusi begins the [Maragha observatory](08-The-Islamic-World-and-Persia.md#maragha) for Hulagu | A Chinese astronomer on the staff; the Tusi couple replaces the equant |
 | 1276–1281 | China | Guo Shoujing builds the [Gaocheng gnomon](04-China.md#guo) and the Shoushi calendar | A year of 365.2425 days, 300 years before the Gregorian calendar |
+| 1304–1375 | Middle East | [Ibn al-Shatir](08-The-Islamic-World-and-Persia.md#shatir), timekeeper in Damascus, builds models without the equant | Mathematically the same as Copernicus's for the Moon and Mercury |
 | c. 1340–1425 | India | [Madhava](05-India.md#kerala) of Kerala finds infinite series for the sine and π | Power series some 250 years before Europe |
 | 1395 | Korea | King Taejo has a [star chart](06-Korea-and-Japan.md#chart1395) of 1,467 stars carved in stone | Made because Chinese maps did not fit Korea's sky |
+| 1420s–1449 | Central Asia | Ulugh Beg's [Samarkand observatory](08-The-Islamic-World-and-Persia.md#samarkand) makes a new catalogue of 1,018 stars | The year to within a minute; al-Kashi's π to 16 places |
 | 1433–1441 | Korea | Under King Sejong, [Jang Yeong-sil](06-Korea-and-Japan.md#sejong) builds an armillary sphere and a self-striking water clock; a standard rain gauge follows | The Chiljeongsan adjusts Chinese and Islamic tables to Seoul |
 | 1500–1501 | India | Nilakantha's [Tantrasangraha](05-India.md#kerala) has five planets circling the Sun | A model like Tycho's, 80 years earlier |
+| 1577–1580 | Middle East | Taqi al-Din's [Istanbul observatory](08-The-Islamic-World-and-Persia.md#samarkand) is built and pulled down | Built at almost the same time as Tycho's |
 | 1669 (disputed) | Korea | Song I-yeong is credited with an [armillary clock](06-Korea-and-Japan.md#clock1669) driven by clockwork | The map on its globe suggests it may be later |
 | 1673 | China | Verbiest re-equips the [Beijing observatory](04-China.md#jesuits) | European instruments and methods in the Qing bureau |
 | 1684–1685 | Japan | Shibukawa Shunkai's [Jōkyō calendar](06-Korea-and-Japan.md#calendars) replaces the Senmyō, used for over 800 years | The old year was 3.5 minutes too long and had slipped 2 days |
@@ -95,6 +106,7 @@ tells the story.
 | 1800–1821 | Japan | Inō Tadataka and his team [survey Japan's coasts](06-Korea-and-Japan.md#calendars) by pacing and star sights | Western astronomy learned through Dutch books |
 | 1957 | India | India adopts a [national calendar](05-India.md#calendars) from Saha's committee | A modern solar calendar beside the traditional ones |
 | 2014 | India | India's [Mars Orbiter Mission](05-India.md#exchange) reaches Mars orbit | The first Asian nation at Mars, on its first attempt |
+| 2021 | Middle East | The UAE's [Hope](08-The-Islamic-World-and-Persia.md#mars) probe goes into orbit around Mars | Studies Martian weather from a 55-hour orbit |
 | 2022 | Mediterranean | Part of [Hipparchus' lost star catalogue](07-Greece-and-Alexandria.md#hipparchus) is read in a palimpsest | Accurate to about a degree, and not what Ptolemy copied |
 | 2026 | Japan | Japan launches [MMX](06-Korea-and-Japan.md#mars) to bring back samples of Phobos | Due back on Earth in 2031 |
 | date not known; living tradition | Australia | The Wathaurung build [Wurdi Youang](01-Before-Writing.md#australia); the Emu in the Sky is read in the Milky Way's dark clouds | Solstice and equinox sunsets marked twice over; knowledge still held today |
@@ -110,7 +122,7 @@ tells the story.
 | | [5. India](05-India.md) |
 | | [6. Korea and Japan](06-Korea-and-Japan.md) |
 | **III. The Mediterranean and the Islamic world** | [7. Greece and Alexandria](07-Greece-and-Alexandria.md) |
-| | 8. The Islamic world and Persia |
+| | [8. The Islamic world and Persia](08-The-Islamic-World-and-Persia.md) |
 | | 9. Byzantium and medieval Europe |
 | **IV. Africa, the Americas and the Pacific** | 10. Africa |
 | | 11. The Americas |

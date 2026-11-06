@@ -572,7 +572,7 @@ how long does Jupiter's arm on its epicycle take to turn once against the stars?
   the Earth's own year is hidden.
 - Babylon, Egypt and India were partners in this story, and Hypatia was the last great teacher of ancient Alexandria.
 
-**Next:** chapter 8, The Islamic world and Persia, where Baghdad gathered Greek, Persian and Indian books, and
+**Next:** [chapter 8, The Islamic world and Persia](08-The-Islamic-World-and-Persia.md), where Baghdad gathered Greek, Persian and Indian books, and
 observatories from Maragha to Samarkand checked and rebuilt Ptolemy's astronomy.
 
 ## Further reading
