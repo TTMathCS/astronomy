@@ -576,7 +576,7 @@ sixth-magnitude one? Why does this not make Pogson's scale wrong?
 - From Mars the stars look the same, but the Sun is about −25.8 and Phobos is the brightest thing at night.
 - Whether the eye senses brightness as a logarithm or a power is still argued, so the scale is fixed by measurement.
 
-**Next:** chapter 5, Star colours, where we look at why Betelgeuse is orange and Rigel blue-white, and what a star's
+**Next:** [chapter 5, Star colours](05-Star-Colours.md), where we look at why Betelgeuse is orange and Rigel blue-white, and what a star's
 colour tells us about how hot it is.
 
 ## Further reading
