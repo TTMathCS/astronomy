@@ -119,11 +119,17 @@ tells the story.
 | before 1514 | Europe | Copernicus's [Commentariolus](13-Copernicus-and-Maragha.md#commentariolus) puts the Sun at the centre | The first working astronomy with the Earth going round the Sun |
 | 1543 | Europe | [De revolutionibus](13-Copernicus-and-Maragha.md#book) is printed as Copernicus dies | Maragha's tools, with the Earth moving |
 | 1562 | Americas | Diego de Landa burns Maya books at [Maní](11-The-Americas.md#peoples) | Only four Maya books survive |
+| 1572 | Europe | Tycho shows the [new star](14-Tycho-and-Kepler.md#newstar) is beyond the Moon | The heavens can change |
+| 1576 | Europe | Tycho begins [Uraniborg](14-Tycho-and-Kepler.md#hven) on Hven | Positions measured to about a minute of arc |
 | 1577–1580 | Middle East | Taqi al-Din's [Istanbul observatory](08-The-Islamic-World-and-Persia.md#samarkand) is built and pulled down | Built at almost the same time as Tycho's |
 | 1582 | Europe | Thursday 4 October is followed by Friday 15 October: the [Gregorian calendar](09-Byzantium-and-Medieval-Europe.md#gregorian) | Ten days dropped; 97 leap years in 400 |
 | 1583 | Africa | Mahmud Kati in [Timbuktu](10-Africa.md#timbuktu) records a meteor shower | Stars flew 'as if fire had been kindled in the whole sky' |
+| 1588 | Europe | Tycho publishes [his system](14-Tycho-and-Kepler.md#system): planets round the Sun, Sun round the Earth | Mars's circle crosses the Sun's |
+| 1609 | Europe | Kepler's *Astronomia nova*: [Mars moves on an ellipse](14-Tycho-and-Kepler.md#mars) | The end of perfect circles |
 | 1614 | Americas | Claude d'Abbeville records [Tupinambá](11-The-Americas.md#plains) star names and tide lore | The Moon linked to the tides before Galileo |
 | 1616 | Europe | The Catholic Church [suspends De revolutionibus](13-Copernicus-and-Maragha.md#reception) until corrected | The moving Earth called contrary to Scripture |
+| 1619 | Europe | Kepler publishes his [third law](14-Tycho-and-Kepler.md#harmony) | One rule links all the planets |
+| 1631 | Europe | Gassendi sees Mercury cross the Sun, as Kepler's [tables](14-Tycho-and-Kepler.md#harmony) predicted | The first transit of a planet ever observed |
 | 1669 (disputed) | Korea | Song I-yeong is credited with an [armillary clock](06-Korea-and-Japan.md#clock1669) driven by clockwork | The map on its globe suggests it may be later |
 | 1673 | China | Verbiest re-equips the [Beijing observatory](04-China.md#jesuits) | European instruments and methods in the Qing bureau |
 | 1684–1685 | Japan | Shibukawa Shunkai's [Jōkyō calendar](06-Korea-and-Japan.md#calendars) replaces the Senmyō, used for over 800 years | The old year was 3.5 minutes too long and had slipped 2 days |
@@ -172,7 +178,7 @@ tells the story.
 | | [11. The Americas](11-The-Americas.md) |
 | | [12. Oceania and Australia](12-Oceania-and-Australia.md) |
 | **V. A new picture of the heavens** | [13. Copernicus and his debt to Maragha](13-Copernicus-and-Maragha.md) |
-| | 14. Tycho and Kepler |
+| | [14. Tycho and Kepler](14-Tycho-and-Kepler.md) |
 | | 15. Galileo, and the telescope goes round the world |
 | | 16. Newton, Halley and Rømer |
 | | 17. Herschel, and the canals of Mars |

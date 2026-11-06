@@ -576,7 +576,7 @@ Sun in Earth units. Then find the greatest elongation of Venus (0.723 Earth unit
 - The Earth overtaking Mars explains its backward loop; synodic periods and elongations give the planets' periods
   and distances, from Earth or from Mars.
 
-**Next:** chapter 14, Tycho and Kepler, where a Danish nobleman measured the planets better than anyone before the
+**Next:** [chapter 14, Tycho and Kepler](14-Tycho-and-Kepler.md), where a Danish nobleman measured the planets better than anyone before the
 telescope, and his assistant spent years on the orbit of Mars until he found it was an ellipse.
 
 ## Further reading
