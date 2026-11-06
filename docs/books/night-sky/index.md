@@ -30,7 +30,7 @@ and stories that peoples all over the world have given to the sky.*
 | | [3. Constellations and star names from around the world](03-Constellations-and-Star-Names.md) |
 | | [4. How bright is a star? Magnitudes](04-How-Bright-Is-a-Star.md) |
 | | [5. Star colours](05-Star-Colours.md) |
-| **II. The turning sky** | 6. Rising, setting and the pole star |
+| **II. The turning sky** | [6. Rising, setting and the pole star](06-Rising-Setting-and-the-Pole-Star.md) |
 | | 7. How your latitude changes the sky |
 | | 8. The Sun's path and the seasons |
 | | 9. Telling time by the sky |

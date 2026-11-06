@@ -539,8 +539,8 @@ colours is the temperature scale of figure B.
 - Mars has a butterscotch sky by day and blue sunsets, but its stars have the same colours as ours.
 - There are no green stars: a glowing body's colours run from red through white to blue-white.
 
-**Next:** chapter 6, Rising, setting and the pole star, where we watch the whole sky turn through the night and find
-out why some stars never set.
+**Next:** [chapter 6, Rising, setting and the pole star](06-Rising-Setting-and-the-Pole-Star.md), where we watch the
+whole sky turn through the night and find out why some stars never set.
 
 ## Further reading
 
