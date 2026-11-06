@@ -759,7 +759,7 @@ solar eclipse track be misplaced if we ignored it? Why can tidal braking alone n
   under half a second. Some tablets found Jupiter's motion as the area of a trapezoid, 1,400 years before Europe.
 - Babylonian eclipse timings still measure how the Earth's spin has slowed: ΔT was nearly 6 hours in 700 BC.
 
-**Next:** chapter 3, Egypt, where the year had 365 days, Sirius announced the flood, and star clocks told the hours of
+**Next:** [chapter 3, Egypt](03-Egypt.md), where the year had 365 days, Sirius announced the flood, and star clocks told the hours of
 the night.
 
 ## Further reading

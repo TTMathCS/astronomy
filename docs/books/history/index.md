@@ -31,10 +31,15 @@ tells the story.
 | c. 8000 BC | Europe | Hunter-gatherers dig twelve pits at [Warren Field](01-Before-Writing.md#warren), Scotland, facing the midwinter sunrise | Possibly the oldest calendar, a Moon count reset each midwinter |
 | c. 4500–4000 BC | Africa | Herders at [Nabta Playa](01-Before-Writing.md#nabta), Egypt, set up a stone circle with a solstice sightline | The Sun watched beside a seasonal lake in the Sahara; star claims unproven |
 | c. 3200 BC | Europe | [Newgrange](01-Before-Writing.md#solstice-buildings), Ireland, is built with a roof-box for the midwinter sunrise | A feature with no use but to let in the solstice Sun |
+| c. 3000 BC | Africa | Egypt keeps records of the Nile flood; the [civil year of 365 days](03-Egypt.md#year) is in use | Twelve months of 30 days plus five: the simplest calendar a state ever used |
 | c. 3000–2500 BC | Europe | [Stonehenge](01-Before-Writing.md#solstice-buildings) is laid out on the solstice line | The best-known solar alignment, rebuilt over 1,500 years |
+| c. 2500 BC | Africa | The Great Pyramid is set [square to north](03-Egypt.md#pyramids) within about 3.6 minutes of arc | Precise surveying by the stars or the Sun; a disputed way to date the pharaohs |
 | c. 2100 BC | China | A platform with twelve slots for the sunrise is built at [Taosi](01-Before-Writing.md#taosi) | A horizon calendar marking both solstices |
+| c. 2100–1800 BC | Africa | [Diagonal star tables](03-Egypt.md#decans) of 36 decans are painted on coffin lids | Star clocks; a likely origin of the twelve hours of the night |
 | c. 1646 BC (disputed) | Middle East | Venus's appearances are recorded for 21 years under King Ammi-saduqa: the [Venus tablet](02-Mesopotamia.md#venus) | The oldest known long run of planet sightings; its date is still argued over |
 | buried c. 1600 BC (disputed) | Europe | The [Nebra sky disc](01-Before-Writing.md#nebra) is buried on the Mittelberg, Germany | The oldest known picture of the sky: Moon, Pleiades and the Sun's 82° swing |
+| c. 1500–1400 BC | Africa | The oldest known [sundial and water clock](03-Egypt.md#clocks), from the Valley of the Kings and Karnak | Hours by day and by night, of lengths that change with the season |
+| c. 1479–1458 BC | Africa | Senenmut's tomb at Thebes gets the oldest known [star ceiling](03-Egypt.md#ceilings) | The sky of north and south painted in full |
 | compiled c. 1000 BC | Middle East | [MUL.APIN](02-Mesopotamia.md#mulapin) gathers star lists, first risings, planet rules and calendar rules | The oldest known handbook of the sky |
 | 7th century BC | Middle East | Scholars send [sky omen reports](02-Mesopotamia.md#omens) to the kings of Assyria | Sky-watching as a state service; the oldest datable aurora records |
 | 652–61 BC | Middle East | Babylon keeps the [Astronomical Diaries](02-Mesopotamia.md#diaries), nightly notes for six centuries | The largest body of observations from the ancient world |
@@ -43,7 +48,10 @@ tells the story.
 | 409–398 BC | Middle East | The [zodiac](02-Mesopotamia.md#zodiac) of twelve equal 30° signs is introduced; the first horoscopes follow | The first coordinate system for the sky |
 | 350–50 BC | Middle East | Jupiter's motion is computed as the [area of a trapezoid](02-Mesopotamia.md#jupiter) | Distance as the area under a speed-time graph, 1,400 years before Europe |
 | 250–200 BC | Americas | Thirteen towers are built at [Chankillo](01-Before-Writing.md#chankillo), Peru | A complete solar calendar on the horizon, accurate to a day or two |
+| 238 BC | Africa | The [Canopus Decree](03-Egypt.md#leap) orders a leap day every four years; it lapses | The first official year of 365¼ days, two centuries before Caesar |
+| c. 50 BC | Africa | The [Dendera zodiac](03-Egypt.md#dendera) is carved | Babylon's zodiac and Egypt's decans on one ceiling |
 | AD 79/80 | Middle East | The last dated [cuneiform tablet](02-Mesopotamia.md#clay), an astronomical almanac from Uruk | Writing on clay ends, as it went on, with astronomy |
+| AD 139 | Africa | [Sirius rises](03-Egypt.md#sirius) on the Egyptian New Year, as Censorinus records | Fixes the Sothic cycle used to date Egyptian history |
 | date not known; living tradition | Australia | The Wathaurung build [Wurdi Youang](01-Before-Writing.md#australia); the Emu in the Sky is read in the Milky Way's dark clouds | Solstice and equinox sunsets marked twice over; knowledge still held today |
 
 ## Contents
@@ -52,7 +60,7 @@ tells the story.
 | --- | --- |
 | **I. The first skywatchers** | [1. Before writing](01-Before-Writing.md) |
 | | [2. Mesopotamia](02-Mesopotamia.md) |
-| | 3. Egypt |
+| | [3. Egypt](03-Egypt.md) |
 | **II. Asia** | 4. China |
 | | 5. India |
 | | 6. Korea and Japan |
