@@ -45,22 +45,31 @@ tells the story.
 | compiled c. 1000 BC | Middle East | [MUL.APIN](02-Mesopotamia.md#mulapin) gathers star lists, first risings, planet rules and calendar rules | The oldest known handbook of the sky |
 | 7th century BC | Middle East | Scholars send [sky omen reports](02-Mesopotamia.md#omens) to the kings of Assyria | Sky-watching as a state service; the oldest datable aurora records |
 | 652–61 BC | Middle East | Babylon keeps the [Astronomical Diaries](02-Mesopotamia.md#diaries), nightly notes for six centuries | The largest body of observations from the ancient world |
+| 28 May 585 BC (disputed) | Mediterranean | Herodotus says [Thales](07-Greece-and-Alexandria.md#ionians) predicted the eclipse that stopped a battle | If true, the first predicted eclipse; modern scholars doubt it |
 | c. 500–100 BC (disputed) | India | The [Vedanga Jyotisha](05-India.md#vedanga) sets a five-year calendar of 1,830 days | The first Indian astronomy text; the solstice it describes fits c. 1400–1200 BC |
 | 497–380 BC | Middle East | The [19-year cycle](02-Mesopotamia.md#nineteen) of 235 months becomes the rule for leap months | Months and years kept in step; the Jewish calendar still uses it |
 | late 5th century BC | Middle East | Eclipse records are arranged by the 223-month [saros](02-Mesopotamia.md#saros) | Lunar eclipses predicted from their own cycle |
 | c. 433 BC | China | A chest in the [tomb of Marquis Yi of Zeng](04-China.md#mansions) names all 28 lunar mansions | The oldest full list of the mansions, with the Dipper, dragon and tiger |
+| 432 BC | Mediterranean | [Meton](07-Greece-and-Alexandria.md#spheres) brings the 19-year cycle into the Athenian calendar | 19 years = 235 months, as in Babylon |
 | 409–398 BC | Middle East | The [zodiac](02-Mesopotamia.md#zodiac) of twelve equal 30° signs is introduced; the first horoscopes follow | The first coordinate system for the sky |
 | 350–50 BC | Middle East | Jupiter's motion is computed as the [area of a trapezoid](02-Mesopotamia.md#jupiter) | Distance as the area under a speed-time graph, 1,400 years before Europe |
+| c. 330 BC | Mediterranean | [Aristotle](07-Greece-and-Alexandria.md#round) argues the Earth is a sphere from eclipse shadows and travelling stars | The round Earth becomes common knowledge |
+| 3rd century BC | Mediterranean | [Aristarchus](07-Greece-and-Alexandria.md#aristarchus) puts the Sun 18 to 20 times farther than the Moon, and proposes that the Earth goes round the Sun | A sound method; the true ratio is about 390 |
 | 250–200 BC | Americas | Thirteen towers are built at [Chankillo](01-Before-Writing.md#chankillo), Peru | A complete solar calendar on the horizon, accurate to a day or two |
+| c. 240 BC | Mediterranean | [Eratosthenes](07-Greece-and-Alexandria.md#eratosthenes) measures the Earth from shadows at Syene and Alexandria | 250,000 stadia; its accuracy depends on the unknown stadion |
 | 240 BC | China | A comet in the Records of the Grand Historian is [Halley's](04-China.md#guests) | The oldest sure sighting of Halley's comet |
 | 238 BC | Africa | The [Canopus Decree](03-Egypt.md#leap) orders a leap day every four years; it lapses | The first official year of 365¼ days, two centuries before Caesar |
 | sealed 168 BC | China | A silk book at [Mawangdui](04-China.md#guests) draws 29 comets | An atlas of comet shapes, each with its omen |
+| 147–127 BC | Mediterranean | [Hipparchus](07-Greece-and-Alexandria.md#hipparchus) on Rhodes finds precession and makes a star catalogue | Builds on Babylonian eclipse records; founder of trigonometry |
 | 104 BC | China | The [Taichu calendar](04-China.md#calendar) makes 19 years exactly 235 months | The Han lunisolar calendar, later joined by the 24 solar terms |
+| sunk c. 70–60 BC | Mediterranean | The [Antikythera mechanism](07-Greece-and-Alexandria.md#antikythera) goes down with a ship | A geared model of the Sun, Moon, calendars and eclipses |
 | c. 50 BC | Africa | The [Dendera zodiac](03-Egypt.md#dendera) is carved | Babylon's zodiac and Egypt's decans on one ceiling |
 | 7 BC | China | A report of [Mars in the Heart](04-China.md#mars) forces the prime minister to his death | Modern calculation shows Mars was nowhere near; the omen was probably invented |
 | AD 79/80 | Middle East | The last dated [cuneiform tablet](02-Mesopotamia.md#clay), an astronomical almanac from Uruk | Writing on clay ends, as it went on, with astronomy |
 | AD 139 | Africa | [Sirius rises](03-Egypt.md#sirius) on the Egyptian New Year, as Censorinus records | Fixes the Sothic cycle used to date Egyptian history |
+| c. AD 150 | Mediterranean | [Ptolemy](07-Greece-and-Alexandria.md#ptolemy) writes the Almagest in Alexandria | Epicycles and the equant; used for 1,400 years |
 | AD 185 | China | A guest star appears in the [Southern Gate](04-China.md#guests) | Probably the earliest supernova on record |
+| AD 415 | Mediterranean | [Hypatia](07-Greece-and-Alexandria.md#wider), astronomer and teacher, is murdered in Alexandria | The Library was already gone; the link is a modern myth |
 | AD 499 | India | [Aryabhata](05-India.md#aryabhata) writes the Aryabhatiya, aged 23 | The Earth turns on its axis; eclipses by shadows; the oldest sine table |
 | AD 628 | India | [Brahmagupta](05-India.md#brahmagupta) finishes the Brahmasphutasiddhanta | Rules for zero and negative numbers; translated into Arabic in Baghdad |
 | AD 632–647 | Korea | [Cheomseongdae](06-Korea-and-Japan.md#cheomseongdae), a 9.17 m stone tower, is built in Gyeongju under Queen Seondeok | Called the oldest surviving observatory in East Asia; some scholars see an altar |
@@ -86,6 +95,7 @@ tells the story.
 | 1800–1821 | Japan | Inō Tadataka and his team [survey Japan's coasts](06-Korea-and-Japan.md#calendars) by pacing and star sights | Western astronomy learned through Dutch books |
 | 1957 | India | India adopts a [national calendar](05-India.md#calendars) from Saha's committee | A modern solar calendar beside the traditional ones |
 | 2014 | India | India's [Mars Orbiter Mission](05-India.md#exchange) reaches Mars orbit | The first Asian nation at Mars, on its first attempt |
+| 2022 | Mediterranean | Part of [Hipparchus' lost star catalogue](07-Greece-and-Alexandria.md#hipparchus) is read in a palimpsest | Accurate to about a degree, and not what Ptolemy copied |
 | 2026 | Japan | Japan launches [MMX](06-Korea-and-Japan.md#mars) to bring back samples of Phobos | Due back on Earth in 2031 |
 | date not known; living tradition | Australia | The Wathaurung build [Wurdi Youang](01-Before-Writing.md#australia); the Emu in the Sky is read in the Milky Way's dark clouds | Solstice and equinox sunsets marked twice over; knowledge still held today |
 
@@ -99,7 +109,7 @@ tells the story.
 | **II. Asia** | [4. China](04-China.md) |
 | | [5. India](05-India.md) |
 | | [6. Korea and Japan](06-Korea-and-Japan.md) |
-| **III. The Mediterranean and the Islamic world** | 7. Greece and Alexandria |
+| **III. The Mediterranean and the Islamic world** | [7. Greece and Alexandria](07-Greece-and-Alexandria.md) |
 | | 8. The Islamic world and Persia |
 | | 9. Byzantium and medieval Europe |
 | **IV. Africa, the Americas and the Pacific** | 10. Africa |

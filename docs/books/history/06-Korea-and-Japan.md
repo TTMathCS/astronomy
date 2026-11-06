@@ -560,7 +560,7 @@ Phobos rises about every 11.1 hours, and explain why it rises in the west.
   Shibukawa's Jōkyō calendar (1684–1685); then it learned Western astronomy through Dutch books.
 - Japan's Nozomi failed to reach Mars orbit; MMX, launched in October 2026, is on its way to Phobos.
 
-**Next:** chapter 7, Greece and Alexandria, where astronomy became geometry: the size of the Earth, the distance to the
+**Next:** [chapter 7, Greece and Alexandria](07-Greece-and-Alexandria.md), where astronomy became geometry: the size of the Earth, the distance to the
 Moon, a bronze computer from a shipwreck, and Ptolemy's model of the heavens.
 
 ## Further reading
