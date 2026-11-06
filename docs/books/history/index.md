@@ -154,14 +154,26 @@ tells the story.
 | 1758 | Europe | [Halley's comet](16-Newton-Halley-and-Romer.md#halley) returns as predicted | Gravity predicts the future |
 | 1762 | Americas | Mutis teaches Copernicus in [Bogotá](16-Newton-Halley-and-Romer.md#world) | Defended before the Inquisition in 1774 |
 | 1769 | Pacific | Cook times the [transit of Venus](12-Oceania-and-Australia.md#tupaia) at Tahiti; Tupaia draws his chart | A measure of the distance to the Sun, and Pacific knowledge on paper |
+| 1781 | Europe | William Herschel finds [Uranus](17-Herschel-and-the-Canals-of-Mars.md#herschel) from his garden in Bath | The first planet found with a telescope |
+| 1784 | Europe | Herschel sees Mars's [polar caps](17-Herschel-and-the-Canals-of-Mars.md#herschelmars) change with the seasons | Mars has seasons like the Earth's |
+| 1786 | Europe | Caroline Herschel finds her [first comet](17-Herschel-and-the-Canals-of-Mars.md#caroline) | The next year she is the first woman paid a salary as a scientist |
 | 1791 | Americas | Benjamin Banneker computes his [almanac](16-Newton-Halley-and-Romer.md#world) and writes to Jefferson | An African American astronomer argues against slavery |
 | 1792 | Japan | Shiba Kōkan's world map shows the [Copernican system](13-Copernicus-and-Maragha.md#world) | The Sun-centred picture reaches Japan |
 | 1798 | Japan | Shizuki Tadao puts [Newton's physics](16-Newton-Halley-and-Romer.md#world) into Japanese | New words for gravity and centrifugal force |
 | 1800–1821 | Japan | Inō Tadataka and his team [survey Japan's coasts](06-Korea-and-Japan.md#calendars) by pacing and star sights | Western astronomy learned through Dutch books |
+| 1801 | Europe | Piazzi finds [Ceres](17-Herschel-and-the-Canals-of-Mars.md#rule) at Palermo | The first asteroid, where the Titius-Bode rule said |
 | 1820 | Africa | The [Royal Observatory](10-Africa.md#telescopes) at the Cape of Good Hope is founded | The first scientific institution in Africa |
 | 1831 | Japan | Kunitomo Ikkansai builds a [reflecting telescope](15-Galileo-and-the-Telescope.md#world) | Japan makes its own telescopes |
+| 1840 | Europe | Beer and Mädler publish the first [map of Mars](17-Herschel-and-the-Canals-of-Mars.md#canali) | Mars's markings can be mapped |
 | 1840s | Australia | The Boorong see the outburst of [Eta Carinae](12-Oceania-and-Australia.md#aboriginal) | A changing star kept in oral tradition |
+| 1846 | Europe | Galle finds [Neptune](17-Herschel-and-the-Canals-of-Mars.md#rule) where Le Verrier predicted | A planet found by calculation |
+| 1877 | Americas | Asaph Hall finds [Phobos and Deimos](17-Herschel-and-the-Canals-of-Mars.md#moons), urged on by Angeline Stickney | Mars has two moons |
+| 1877 | Europe | Schiaparelli maps Mars and draws [*canali*](17-Herschel-and-the-Canals-of-Mars.md#canali) | Translated as canals, the start of a long argument |
 | 1880 | Americas | Förstemann publishes the [Dresden Codex](11-The-Americas.md#dresden) and decodes its numbers | Maya astronomy can be read again |
+| 1892 | Americas | Pickering watches Mars from [Arequipa](17-Herschel-and-the-Canals-of-Mars.md#world), Peru | Harvard's southern station in the Andes |
+| 1894 | Americas | Lowell opens his observatory at [Flagstaff](17-Herschel-and-the-Canals-of-Mars.md#lowell) | Canals and a dying civilisation on Mars |
+| 1909 | Europe | Antoniadi at Meudon sees [no canals](17-Herschel-and-the-Canals-of-Mars.md#illusion) | The canals are an optical illusion |
+| 1930 | Americas | Tombaugh finds Pluto at [Lowell's observatory](17-Herschel-and-the-Canals-of-Mars.md#illusion) | The search Lowell began |
 | 1957 | India | India adopts a [national calendar](05-India.md#calendars) from Saha's committee | A modern solar calendar beside the traditional ones |
 | 1957 | Middle East | Roberts shows Ibn al-Shatir's models [match Copernicus's](13-Copernicus-and-Maragha.md#maragha) | The debt to Maragha comes to light |
 | 1961 | Australia | The [Parkes](12-Oceania-and-Australia.md#telescopes) dish is finished; later named Murriyang | Apollo 11 pictures, quasars, fast radio bursts |
@@ -203,7 +215,7 @@ tells the story.
 | | [14. Tycho and Kepler](14-Tycho-and-Kepler.md) |
 | | [15. Galileo, and the telescope goes round the world](15-Galileo-and-the-Telescope.md) |
 | | [16. Newton, Halley and Rømer](16-Newton-Halley-and-Romer.md) |
-| | 17. Herschel, and the canals of Mars |
+| | [17. Herschel, and the canals of Mars](17-Herschel-and-the-Canals-of-Mars.md) |
 | **VI. The modern sky** | 18. Light split into colours |
 | | 19. Galaxies and the expanding universe |
 | | 20. Radio astronomy |

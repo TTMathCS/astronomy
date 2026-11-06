@@ -459,7 +459,7 @@ measurement easier from Mars? Then use the 1672 parallax value to say how far of
 - Newton's ideas were translated and taught in Japan, India, the Ottoman Empire and the Americas within a century.
 - In 2014 a comet found from Australia passed Mars, exactly where Newton's law said it would.
 
-**Next:** chapter 17, Herschel, and the canals of Mars, where a musician found a new planet, two moons of Mars were
+**Next:** [chapter 17, Herschel, and the canals of Mars](17-Herschel-and-the-Canals-of-Mars.md), where a musician found a new planet, two moons of Mars were
 found in a week, and a mistranslated word started a long argument about life on Mars.
 
 ## Further reading
