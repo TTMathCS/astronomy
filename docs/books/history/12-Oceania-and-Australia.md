@@ -540,7 +540,7 @@ to find north by the stars?
 - The Pilbara fossils led to PIXL on Perseverance; HI-SEAS rehearsed Mars on Mauna Loa; ESCAPADE flies on a
   Rocket Lab design.
 
-**Next:** chapter 13, Copernicus and his debt to Maragha, where a canon in Poland put the Sun at the centre using
+**Next:** [chapter 13, Copernicus and his debt to Maragha](13-Copernicus-and-Maragha.md), where a canon in Poland put the Sun at the centre using
 tools first built by al-Tusi and Ibn al-Shatir, and the question of how he learned of them is weighed.
 
 ## Further reading
