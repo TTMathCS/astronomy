@@ -368,8 +368,8 @@ different.
 - **The day sky hides the stars.** Mars's air is thin, about 6.36 millibars at the ground against 1014 on Earth,
   but it is very dusty. The dust scatters so much light that the daytime sky is bright and no stars show. By day the
   sky is the colour of butterscotch.
-- **Sunset is blue.** Around sunrise and sunset the sky is rose-coloured, but near the Sun it turns blue, the opposite of
-  Earth.
+- **Sunset is blue.** Around sunrise and sunset the sky is rose-coloured, but near the Sun it turns blue, the opposite
+  of Earth.
 - **Twilight is long.** Dust high in the air keeps scattering light after the Sun has set. Twilight on Mars can last
   up to two hours, much longer than on Earth.
 - **A different pole star.** Mars's axis points to a different part of the sky. The two top stars of the Northern
@@ -546,8 +546,8 @@ of view, use blue-green light of 510 nm and keep the spot very small? What did t
 - On Mars the day sky hides the stars, twilight lasts up to two hours, and the Earth is a bright double star.
 - A dark-adapted eye can see a flash when only 5 to 14 rods each catch one photon.
 
-**Next:** chapter 2, Horizon, zenith and the four directions, where we find our way around the sky: north, south,
-east and west, the point overhead and how to measure angles with your hand.
+**Next:** [chapter 2, Horizon, zenith and the four directions](02-Horizon-Zenith-and-the-Four-Directions.md), where we
+find our way around the sky: north, south, east and west, the point overhead and how to measure angles with your hand.
 
 ## Further reading
 

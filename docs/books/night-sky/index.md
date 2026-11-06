@@ -26,7 +26,7 @@ and stories that peoples all over the world have given to the sky.*
 | Part | Chapter |
 | --- | --- |
 | **I. First nights** | [1. Your first clear night](01-Your-First-Clear-Night.md) |
-| | 2. Horizon, zenith and the four directions |
+| | [2. Horizon, zenith and the four directions](02-Horizon-Zenith-and-the-Four-Directions.md) |
 | | 3. Constellations and star names from around the world |
 | | 4. How bright is a star? Magnitudes |
 | | 5. Star colours |
