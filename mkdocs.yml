@@ -1,0 +1,96 @@
+site_name: Astronomy
+site_url: https://astronomy.akadian.ca/
+site_description: Astronomy book by book, from the first skywatchers to the edge of the universe, with the reasoning written out
+repo_url: https://github.com/TTMathCS/astronomy
+edit_uri: edit/main/docs/
+copyright: 'Part of <a href="https://www.akadian.ca/">Mars – your new home</a>'
+# notes for the repo, not pages
+exclude_docs: |
+  README.md
+use_directory_urls: false
+
+theme:
+  name: material
+  custom_dir: overrides
+  favicon: assets/akadian-icon.png   # the Akadian A, as on akadian.ca
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - toc.follow
+    - search.highlight
+    - content.code.copy
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/white-balance-sunny
+        name: Light colours
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Dark colours
+  font: false
+
+extra_css:
+  - fonts/fonts.css
+  - stylesheets/mars.css
+  - stylesheets/reader.css
+  - stylesheets/sketch.css
+  - stylesheets/play.css
+  - katex/katex.min.css
+  - stylesheets/ask.css
+
+extra:
+  homepage: https://www.akadian.ca/
+
+extra_javascript:
+  - https://www.akadian.ca/home-music.js?site   # the song from www.akadian.ca: it goes on here while it plays (Mars-Home home-music.js)
+  - javascripts/mars-link.js
+  - javascripts/home-link.js
+  - katex/katex.min.js
+  - katex/auto-render.min.js
+  - javascripts/math.js
+  - javascripts/levels.js
+  - javascripts/reader.js
+  - javascripts/play.js
+  - javascripts/ask.js
+
+markdown_extensions:
+  - toc:
+      permalink: true
+      title: On this page
+  - tables
+  - admonition
+  - pymdownx.details
+  - md_in_html
+  - attr_list
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
+
+# With --strict, a broken link or #anchor stops the build
+validation:
+  omitted_files: warn
+  absolute_links: warn
+  unrecognized_links: warn
+  anchors: warn
+
+# The Books menu is written by tools/nav.py from docs/books (python3 tools/nav.py); do not edit between the marks.
+nav:
+  - Home: index.md
+  # books: start
+  - Books:
+      - books/index.md
+      - "History of astronomy":
+          - books/history/index.md
+  # books: end

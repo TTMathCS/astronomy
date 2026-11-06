@@ -1,0 +1,15 @@
+{% extends "main.html" %}
+
+{% block hero %}
+<section class="mars-hero">
+  <span class="ai-tag">AI-created</span>
+  <div class="md-grid mars-hero__inner">
+    <p class="mars-hero__title">Astronomy</p>
+    <p class="mars-hero__lead">The sky, book by book: from finding your way by the stars to the edge of the universe, and how every people on Earth learned to read it. Each idea explained, worked examples, and questions with answers.</p>
+    <p class="mars-hero__go">
+      <a class="mars-cta" href="{{ 'books/index.html' | url }}">The books</a>
+      <a class="mars-pill" href="{{ 'books/history/index.html' | url }}">History of astronomy</a>
+    </p>
+  </div>
+</section>
+{% endblock %}
