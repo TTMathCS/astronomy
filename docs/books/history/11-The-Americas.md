@@ -631,7 +631,7 @@ come back into step? How long is that in Earth years? (One sol is 1.02749 days.)
 - The Pawnee Morning Star may have been Mars or Venus. Mariner 4, Viking 1, Phoenix and Perseverance brought Mars
   close.
 
-**Next:** chapter 12, Oceania and Australia, where Polynesian navigators crossed the Pacific by the stars, Aboriginal
+**Next:** [chapter 12, Oceania and Australia](12-Oceania-and-Australia.md), where Polynesian navigators crossed the Pacific by the stars, Aboriginal
 Australians keep some of the oldest living star knowledge, and the Māori new year begins with the rising of Matariki.
 
 ## Further reading

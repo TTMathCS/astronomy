@@ -40,6 +40,7 @@ tells the story.
 | c. 2100–1800 BC | Africa | [Diagonal star tables](03-Egypt.md#decans) of 36 decans are painted on coffin lids | Star clocks; a likely origin of the twelve hours of the night |
 | c. 1646 BC (disputed) | Middle East | Venus's appearances are recorded for 21 years under King Ammi-saduqa: the [Venus tablet](02-Mesopotamia.md#venus) | The oldest known long run of planet sightings; its date is still argued over |
 | buried c. 1600 BC (disputed) | Europe | The [Nebra sky disc](01-Before-Writing.md#nebra) is buried on the Mittelberg, Germany | The oldest known picture of the sky: Moon, Pleiades and the Sun's 82° swing |
+| c. 1600–500 BC | Pacific | [Lapita](12-Oceania-and-Australia.md#ocean) voyagers sail through Melanesia to Fiji, Tonga and Samoa | The start of the settlement of the remote Pacific |
 | c. 1500–1400 BC | Africa | The oldest known [sundial and water clock](03-Egypt.md#clocks), from the Valley of the Kings and Karnak | Hours by day and by night, of lengths that change with the season |
 | c. 1479–1458 BC | Africa | Senenmut's tomb at Thebes gets the oldest known [star ceiling](03-Egypt.md#ceilings) | The sky of north and south painted in full |
 | c. 1250–1200 BC | China | [Oracle bones](04-China.md#oracle) record eclipses of the Moon by the 60-day count | The 60-day count has run unbroken since; the eclipses help date King Wu Ding |
@@ -85,6 +86,7 @@ tells the story.
 | AD 818 | Americas | The Dresden Codex [Mars table](11-The-Americas.md#dresden) is set at a backward loop of Mars | A 780-day cycle, three times 260 |
 | c. 830 | Middle East | Al-Ma'mun's astronomers [measure a degree](08-The-Islamic-World-and-Persia.md#measuring) on the plain of Sinjar | 56⅔ Arabic miles per degree; the mile's length is uncertain |
 | 877–918 | Middle East | [Al-Battani](08-The-Islamic-World-and-Persia.md#measuring) at Raqqa measures the year, the Earth's tilt and the moving solar apogee | Cited 23 times by Copernicus |
+| c. AD 900–1200 (debated) | Pacific | Polynesians reach [Hawaiʻi, Rapa Nui and Aotearoa](12-Oceania-and-Australia.md#ocean) | Islands found by steering with the stars |
 | 964 | Middle East | Al-Sufi's [Book of Fixed Stars](08-The-Islamic-World-and-Persia.md#stars) records the Andromeda galaxy as a small cloud | The first known record of another galaxy |
 | 1006 | Africa | Ali ibn Ridwan in Cairo describes the [new star](08-The-Islamic-World-and-Persia.md#guests) as 2½ to 3 times as large as Venus | The same star was recorded in China, Japan, Iraq and Europe |
 | 1006 | Europe | Monks at [St Gallen](09-Byzantium-and-Medieval-Europe.md#skies) see the new star low in the south | The most northerly sighting of the supernova |
@@ -124,11 +126,15 @@ tells the story.
 | 1684–1685 | Japan | Shibukawa Shunkai's [Jōkyō calendar](06-Korea-and-Japan.md#calendars) replaces the Senmyō, used for over 800 years | The old year was 3.5 minutes too long and had slipped 2 days |
 | 1724–1734 | India | Jai Singh builds the [Jantar Mantar](05-India.md#jantar) observatories | A stone sundial 27 m high at Jaipur |
 | 1751–1752 | Africa | Lacaille maps nearly 10,000 [southern stars](10-Africa.md#telescopes) from the Cape | Fourteen new constellations still in use |
+| 1769 | Pacific | Cook times the [transit of Venus](12-Oceania-and-Australia.md#tupaia) at Tahiti; Tupaia draws his chart | A measure of the distance to the Sun, and Pacific knowledge on paper |
 | 1800–1821 | Japan | Inō Tadataka and his team [survey Japan's coasts](06-Korea-and-Japan.md#calendars) by pacing and star sights | Western astronomy learned through Dutch books |
 | 1820 | Africa | The [Royal Observatory](10-Africa.md#telescopes) at the Cape of Good Hope is founded | The first scientific institution in Africa |
+| 1840s | Australia | The Boorong see the outburst of [Eta Carinae](12-Oceania-and-Australia.md#aboriginal) | A changing star kept in oral tradition |
 | 1880 | Americas | Förstemann publishes the [Dresden Codex](11-The-Americas.md#dresden) and decodes its numbers | Maya astronomy can be read again |
 | 1957 | India | India adopts a [national calendar](05-India.md#calendars) from Saha's committee | A modern solar calendar beside the traditional ones |
+| 1961 | Australia | The [Parkes](12-Oceania-and-Australia.md#telescopes) dish is finished; later named Murriyang | Apollo 11 pictures, quasars, fast radio bursts |
 | 1965 | Americas | [Mariner 4](11-The-Americas.md#mars) sends the first close pictures of Mars | Craters and thin air, not canals |
+| 1976 | Pacific | [Hōkūleʻa](12-Oceania-and-Australia.md#hokulea) sails from Hawaiʻi to Tahiti with no instruments | Planned voyaging shown to work |
 | 2000 | Americas | Satellite data confirm the Andean [Pleiades forecast](11-The-Americas.md#pleiades) | Dim Pleiades in June warn of El Niño |
 | 2003 | Europe | Europe's [Mars Express](09-Byzantium-and-Medieval-Europe.md#mars) reaches Mars; Beagle 2 is lost | Still working more than twenty years later |
 | 2005 | Africa | [SALT](10-Africa.md#telescopes) sees first light near Sutherland | The largest optical telescope in the southern hemisphere |
@@ -137,7 +143,9 @@ tells the story.
 | 2014 | India | India's [Mars Orbiter Mission](05-India.md#exchange) reaches Mars orbit | The first Asian nation at Mars, on its first attempt |
 | 2021 | Americas | Perseverance lands in [Jezero Crater](11-The-Americas.md#mars) | Its helicopter makes the first powered flight on another planet |
 | 2021 | Middle East | The UAE's [Hope](08-The-Islamic-World-and-Persia.md#mars) probe goes into orbit around Mars | Studies Martian weather from a 55-hour orbit |
+| 2022 | Pacific | [Matariki](12-Oceania-and-Australia.md#matariki) becomes a public holiday in New Zealand | A star rising marks a national holiday |
 | 2022 | Mediterranean | Part of [Hipparchus' lost star catalogue](07-Greece-and-Alexandria.md#hipparchus) is read in a palimpsest | Accurate to about a degree, and not what Ptolemy copied |
+| 2025 | Australia | The [SKA](12-Oceania-and-Australia.md#telescopes) on Wajarri land makes its first picture | Inyarrimanha Ilgari Bundara, sharing sky and stars |
 | 2026 | Japan | Japan launches [MMX](06-Korea-and-Japan.md#mars) to bring back samples of Phobos | Due back on Earth in 2031 |
 | date not known; living tradition | Australia | The Wathaurung build [Wurdi Youang](01-Before-Writing.md#australia); the Emu in the Sky is read in the Milky Way's dark clouds | Solstice and equinox sunsets marked twice over; knowledge still held today |
 
@@ -156,7 +164,7 @@ tells the story.
 | | [9. Byzantium and medieval Europe](09-Byzantium-and-Medieval-Europe.md) |
 | **IV. Africa, the Americas and the Pacific** | [10. Africa](10-Africa.md) |
 | | [11. The Americas](11-The-Americas.md) |
-| | 12. Oceania and Australia |
+| | [12. Oceania and Australia](12-Oceania-and-Australia.md) |
 | **V. A new picture of the heavens** | 13. Copernicus and his debt to Maragha |
 | | 14. Tycho and Kepler |
 | | 15. Galileo, and the telescope goes round the world |
