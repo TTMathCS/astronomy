@@ -44,7 +44,7 @@ point hardly moves for days. Halfway between, at the **equinoxes** in March and 
 east. South of the equator the same thing happens with the seasons swapped: the June solstice is the shortest day.
 
 <div class="pattern-row" markdown="0">
-<svg viewBox="0 0 330 160" role="img" aria-label="The horizon seen from Stonehenge in 2500 BC. The Sun rises in the north-east at the June solstice, due east at the equinoxes and in the south-east at the December solstice. Through the year the rising point moves back and forth between the two solstice points.">
+<svg viewBox="0 54 330 108" role="img" aria-label="The horizon seen from Stonehenge in 2500 BC. The Sun rises in the north-east at the June solstice, due east at the equinoxes and in the south-east at the December solstice. Through the year the rising point moves back and forth between the two solstice points.">
   <line x1="5" y1="120" x2="325" y2="120" stroke="currentColor"/>
   <g fill="#eea66f"><path d="M56 120a8 8 0 0 1 16 0z"/><path d="M157 120a8 8 0 0 1 16 0z"/><path d="M258 120a8 8 0 0 1 16 0z"/></g>
   <path d="M72 100H258M72 100l7-4M72 100l7 4M258 100l-7-4M258 100l-7 4" stroke="currentColor" fill="none"/>
