@@ -511,7 +511,7 @@ to find the period. Then: a rock thrown off Mars at 5.5 km/s escapes; would it e
 - Lacaille mapped the southern sky from the Cape; SALT and MeerKAT now stand in the Karoo.
 - Mars meteorites such as Tissint, Black Beauty and NWA 16788 have been found in Morocco, the Sahara and Niger.
 
-**Next:** chapter 11, The Americas, where the Maya predicted eclipses and the cycles of Venus, the Inca read the dark
+**Next:** [chapter 11, The Americas](11-The-Americas.md), where the Maya predicted eclipses and the cycles of Venus, the Inca read the dark
 clouds of the Milky Way, and peoples from the Andes to the Arctic built their own calendars of Sun, Moon and stars.
 
 ## Further reading

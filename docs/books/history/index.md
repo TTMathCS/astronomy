@@ -65,6 +65,7 @@ tells the story.
 | 104 BC | China | The [Taichu calendar](04-China.md#calendar) makes 19 years exactly 235 months | The Han lunisolar calendar, later joined by the 24 solar terms |
 | sunk c. 70–60 BC | Mediterranean | The [Antikythera mechanism](07-Greece-and-Alexandria.md#antikythera) goes down with a ship | A geared model of the Sun, Moon, calendars and eclipses |
 | c. 50 BC | Africa | The [Dendera zodiac](03-Egypt.md#dendera) is carved | Babylon's zodiac and Egypt's decans on one ceiling |
+| 36 BC (uncertain) | Americas | [Stela 2](11-The-Americas.md#count) at Chiapa de Corzo carries one of the oldest Long Count dates | A count of days in base 20, with a zero |
 | 7 BC | China | A report of [Mars in the Heart](04-China.md#mars) forces the prime minister to his death | Modern calculation shows Mars was nowhere near; the omen was probably invented |
 | AD 79/80 | Middle East | The last dated [cuneiform tablet](02-Mesopotamia.md#clay), an astronomical almanac from Uruk | Writing on clay ends, as it went on, with astronomy |
 | AD 139 | Africa | [Sirius rises](03-Egypt.md#sirius) on the Egyptian New Year, as Censorinus records | Fixes the Sothic cycle used to date Egyptian history |
@@ -81,15 +82,18 @@ tells the story.
 | AD 725 | China | Yi Xing builds an [escapement](04-China.md#machines) and surveys shadows from 17° N to 50° N | The key part of later clocks; the survey shows shadows do not grow evenly with distance |
 | AD 725 | Europe | Bede writes [The Reckoning of Time](09-Byzantium-and-Medieval-Europe.md#bede) at Jarrow | The round Earth, daylight and the tides, for working out Easter |
 | early 770s | India | An Indian treatise reaches Baghdad and becomes the [Zij al-Sindhind](05-India.md#exchange) | Indian methods enter Arabic astronomy |
+| AD 818 | Americas | The Dresden Codex [Mars table](11-The-Americas.md#dresden) is set at a backward loop of Mars | A 780-day cycle, three times 260 |
 | c. 830 | Middle East | Al-Ma'mun's astronomers [measure a degree](08-The-Islamic-World-and-Persia.md#measuring) on the plain of Sinjar | 56⅔ Arabic miles per degree; the mile's length is uncertain |
 | 877–918 | Middle East | [Al-Battani](08-The-Islamic-World-and-Persia.md#measuring) at Raqqa measures the year, the Earth's tilt and the moving solar apogee | Cited 23 times by Copernicus |
 | 964 | Middle East | Al-Sufi's [Book of Fixed Stars](08-The-Islamic-World-and-Persia.md#stars) records the Andromeda galaxy as a small cloud | The first known record of another galaxy |
 | 1006 | Africa | Ali ibn Ridwan in Cairo describes the [new star](08-The-Islamic-World-and-Persia.md#guests) as 2½ to 3 times as large as Venus | The same star was recorded in China, Japan, Iraq and Europe |
 | 1006 | Europe | Monks at [St Gallen](09-Byzantium-and-Medieval-Europe.md#skies) see the new star low in the south | The most northerly sighting of the supernova |
 | 1017–1037 | Central Asia | [Al-Biruni](08-The-Islamic-World-and-Persia.md#biruni) measures the Earth from a hilltop at Nandana and writes his India | One observer, one place, and a right triangle |
+| 1021–1154 | Americas | The [Maya Codex of Mexico](11-The-Americas.md#dresden), a Venus almanac, is made | The oldest surviving book of the Americas |
 | 1025–1028 | Africa | Ibn al-Haytham in Cairo writes [Doubts concerning Ptolemy](08-The-Islamic-World-and-Persia.md#doubts) | The equant cannot be a true picture of the heavens |
 | 1054 | China | A [guest star](04-China.md#guests) is seen by day for 23 days | It left the Crab Nebula and its pulsar |
 | 1054 | Middle East | Ibn Butlan in Baghdad writes of [a spectacular star in Gemini](08-The-Islamic-World-and-Persia.md#guests) | The only known Arabic report of the star of 1054 |
+| 1054 (disputed) | Americas | A painting at Chaco Canyon may show the [guest star](11-The-Americas.md#north) | A lovely idea that cannot be proved |
 | 1066 | Europe | Halley's Comet appears; the [Bayeux Tapestry](09-Byzantium-and-Medieval-Europe.md#skies) shows it | A comet remembered with a conquest |
 | 1088–1094 | China | [Su Song](04-China.md#machines) builds his clock tower at Kaifeng | A water-driven sphere and globe with an escapement and chain drive |
 | 1150 | India | Bhaskara II, head of the [Ujjain observatory](05-India.md#brahmagupta), writes the Siddhanta Shiromani | Ujjain, the meridian of Indian astronomy |
@@ -110,9 +114,11 @@ tells the story.
 | 1433–1441 | Korea | Under King Sejong, [Jang Yeong-sil](06-Korea-and-Japan.md#sejong) builds an armillary sphere and a self-striking water clock; a standard rain gauge follows | The Chiljeongsan adjusts Chinese and Islamic tables to Seoul |
 | 1472 | Europe | Regiomontanus prints Peuerbach's [planet lectures](09-Byzantium-and-Medieval-Europe.md#printing) in Nuremberg | The first printed astronomy textbook |
 | 1500–1501 | India | Nilakantha's [Tantrasangraha](05-India.md#kerala) has five planets circling the Sun | A model like Tycho's, 80 years earlier |
+| 1562 | Americas | Diego de Landa burns Maya books at [Maní](11-The-Americas.md#peoples) | Only four Maya books survive |
 | 1577–1580 | Middle East | Taqi al-Din's [Istanbul observatory](08-The-Islamic-World-and-Persia.md#samarkand) is built and pulled down | Built at almost the same time as Tycho's |
 | 1582 | Europe | Thursday 4 October is followed by Friday 15 October: the [Gregorian calendar](09-Byzantium-and-Medieval-Europe.md#gregorian) | Ten days dropped; 97 leap years in 400 |
 | 1583 | Africa | Mahmud Kati in [Timbuktu](10-Africa.md#timbuktu) records a meteor shower | Stars flew 'as if fire had been kindled in the whole sky' |
+| 1614 | Americas | Claude d'Abbeville records [Tupinambá](11-The-Americas.md#plains) star names and tide lore | The Moon linked to the tides before Galileo |
 | 1669 (disputed) | Korea | Song I-yeong is credited with an [armillary clock](06-Korea-and-Japan.md#clock1669) driven by clockwork | The map on its globe suggests it may be later |
 | 1673 | China | Verbiest re-equips the [Beijing observatory](04-China.md#jesuits) | European instruments and methods in the Qing bureau |
 | 1684–1685 | Japan | Shibukawa Shunkai's [Jōkyō calendar](06-Korea-and-Japan.md#calendars) replaces the Senmyō, used for over 800 years | The old year was 3.5 minutes too long and had slipped 2 days |
@@ -120,11 +126,16 @@ tells the story.
 | 1751–1752 | Africa | Lacaille maps nearly 10,000 [southern stars](10-Africa.md#telescopes) from the Cape | Fourteen new constellations still in use |
 | 1800–1821 | Japan | Inō Tadataka and his team [survey Japan's coasts](06-Korea-and-Japan.md#calendars) by pacing and star sights | Western astronomy learned through Dutch books |
 | 1820 | Africa | The [Royal Observatory](10-Africa.md#telescopes) at the Cape of Good Hope is founded | The first scientific institution in Africa |
+| 1880 | Americas | Förstemann publishes the [Dresden Codex](11-The-Americas.md#dresden) and decodes its numbers | Maya astronomy can be read again |
 | 1957 | India | India adopts a [national calendar](05-India.md#calendars) from Saha's committee | A modern solar calendar beside the traditional ones |
+| 1965 | Americas | [Mariner 4](11-The-Americas.md#mars) sends the first close pictures of Mars | Craters and thin air, not canals |
+| 2000 | Americas | Satellite data confirm the Andean [Pleiades forecast](11-The-Americas.md#pleiades) | Dim Pleiades in June warn of El Niño |
 | 2003 | Europe | Europe's [Mars Express](09-Byzantium-and-Medieval-Europe.md#mars) reaches Mars; Beagle 2 is lost | Still working more than twenty years later |
 | 2005 | Africa | [SALT](10-Africa.md#telescopes) sees first light near Sutherland | The largest optical telescope in the southern hemisphere |
 | 2011 | Africa | The [Tissint](10-Africa.md#mars) Mars meteorite falls in Morocco | Only the fifth Mars meteorite seen to fall |
+| 2012 | Americas | The Long Count [rolls over](11-The-Americas.md#count); the Xultun tables are published | No end of the world |
 | 2014 | India | India's [Mars Orbiter Mission](05-India.md#exchange) reaches Mars orbit | The first Asian nation at Mars, on its first attempt |
+| 2021 | Americas | Perseverance lands in [Jezero Crater](11-The-Americas.md#mars) | Its helicopter makes the first powered flight on another planet |
 | 2021 | Middle East | The UAE's [Hope](08-The-Islamic-World-and-Persia.md#mars) probe goes into orbit around Mars | Studies Martian weather from a 55-hour orbit |
 | 2022 | Mediterranean | Part of [Hipparchus' lost star catalogue](07-Greece-and-Alexandria.md#hipparchus) is read in a palimpsest | Accurate to about a degree, and not what Ptolemy copied |
 | 2026 | Japan | Japan launches [MMX](06-Korea-and-Japan.md#mars) to bring back samples of Phobos | Due back on Earth in 2031 |
@@ -144,7 +155,7 @@ tells the story.
 | | [8. The Islamic world and Persia](08-The-Islamic-World-and-Persia.md) |
 | | [9. Byzantium and medieval Europe](09-Byzantium-and-Medieval-Europe.md) |
 | **IV. Africa, the Americas and the Pacific** | [10. Africa](10-Africa.md) |
-| | 11. The Americas |
+| | [11. The Americas](11-The-Americas.md) |
 | | 12. Oceania and Australia |
 | **V. A new picture of the heavens** | 13. Copernicus and his debt to Maragha |
 | | 14. Tycho and Kepler |
