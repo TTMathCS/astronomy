@@ -446,8 +446,8 @@ be while the satellite is still in sunlight?
 - Phobos rises in the west, like the space station; Mars's stationary orbit is 17,032 km up.
 - A satellite 400 km up stays sunlit overhead until the Sun is 19.8° below the horizon.
 
-**Next:** chapter 17, Sky coordinates, where we learn the grid that astronomers use to say where anything is in the
-sky.
+**Next:** [chapter 17, Sky coordinates](17-Sky-Coordinates.md), where we learn the grid that astronomers use to say
+where anything is in the sky.
 
 ## Further reading
 
