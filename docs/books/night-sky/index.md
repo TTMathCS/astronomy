@@ -35,7 +35,7 @@ and stories that peoples all over the world have given to the sky.*
 | | [8. The Sun's path and the seasons](08-The-Suns-Path-and-the-Seasons.md) |
 | | [9. Telling time by the sky](09-Telling-Time-by-the-Sky.md) |
 | **III. The Moon** | [10. The Moon's phases](10-The-Moons-Phases.md) |
-| | 11. When the Moon rises |
+| | [11. When the Moon rises](11-When-the-Moon-Rises.md) |
 | | 12. Eclipses of the Sun and Moon |
 | **IV. Wanderers and visitors** | 13. Finding the planets |
 | | 14. Mars's backward loop and its close approaches |

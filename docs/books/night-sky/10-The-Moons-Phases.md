@@ -551,8 +551,8 @@ does it rise?
   Mars.
 - The full Moon is much more than twice as bright as the half Moon because of the opposition surge.
 
-**Next:** chapter 11, When the Moon rises, where we see why the Moon rises at such different times through the year,
-and what makes the harvest Moon special.
+**Next:** [chapter 11, When the Moon rises](11-When-the-Moon-Rises.md), where we see why the Moon rises at such
+different times through the year, and what makes the harvest Moon special.
 
 ## Further reading
 
