@@ -33,7 +33,7 @@ and stories that peoples all over the world have given to the sky.*
 | **II. The turning sky** | [6. Rising, setting and the pole star](06-Rising-Setting-and-the-Pole-Star.md) |
 | | [7. How your latitude changes the sky](07-How-Your-Latitude-Changes-the-Sky.md) |
 | | [8. The Sun's path and the seasons](08-The-Suns-Path-and-the-Seasons.md) |
-| | 9. Telling time by the sky |
+| | [9. Telling time by the sky](09-Telling-Time-by-the-Sky.md) |
 | **III. The Moon** | 10. The Moon's phases |
 | | 11. When the Moon rises |
 | | 12. Eclipses of the Sun and Moon |

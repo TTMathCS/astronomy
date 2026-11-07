@@ -231,7 +231,7 @@ anywhere in the tropics has the Sun overhead at noon on two days a year.
 - In Hawaiʻi, the only US state where this happens, those days are called **Lahaina Noon**: shadows vanish under
   people's feet.
 - When the overhead point passes over the Kaaba in Mecca, shadows point directly away from it, so the direction of
-  prayer, the **qibla**, can be found from shadows.
+  prayer, the **qibla**, can be found from shadows (chapter 2, section 2.7).
 
 **The polar circles.** The **Arctic Circle**, at about **66.56°N**, is 90° minus the tilt. North of it, the Sun stays
 up for 24 hours on at least one day in summer and stays down on at least one day in winter. The air lifts the Sun a
@@ -504,8 +504,8 @@ more power per square metre does the June noon Sun deliver?
 - Kepler's second law makes the seasons unequal: 93.6 days for northern summer against 89.0 for winter on the Earth,
   and a difference of 51 sols on Mars.
 
-**Next:** chapter 9, Telling time by the sky, where we turn the Sun, the stars and the Big Dipper into clocks and
-calendars.
+**Next:** [chapter 9, Telling time by the sky](09-Telling-Time-by-the-Sky.md), where we turn the Sun, the stars and
+the Big Dipper into clocks and calendars.
 
 ## Further reading
 
