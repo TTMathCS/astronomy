@@ -464,8 +464,8 @@ The same holds on Mars. The Earth, seen from Mars, is brightest as a crescent, n
 - From Mars, the Earth is an evening or morning star, up to 41° from the Sun.
 - Venus is brightest as a crescent, about 36 days from inferior conjunction.
 
-**Next:** chapter 14, Mars's backward loop and close approaches, where we follow Mars as it turns and moves backward
-among the stars.
+**Next:** [chapter 14, Mars's backward loop and close approaches](14-Mars-Backward-Loop-and-Close-Approaches.md),
+where we follow Mars as it turns and moves backward among the stars.
 
 ## Further reading
 
