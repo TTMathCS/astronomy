@@ -221,7 +221,8 @@ full of galaxies.
     - Leavitt at Harvard College Observatory as a computer, the plates from Arequipa, Peru, 1,777 variables, the
       brighter variables having longer periods in 1908, the 25 Cepheids of 1912, and the stars of the Small Magellanic
       Cloud at the same distance: Wikipedia,
-      [Henrietta Swan Leavitt](https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt) (weaker).
+      [Henrietta Swan Leavitt](https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt) (weaker). More on her work: this
+      site's history book, [chapter 19, section 19.4](../history/19-Galaxies-and-the-Expanding-Universe.md#leavitt).
     - Cepheids as standard candles: Wikipedia, [Cepheid variable](https://en.wikipedia.org/wiki/Cepheid_variable)
       (weaker).
     - Hubble's Cepheids in Andromeda in 1925, and its distance of about 2.5 million light-years: Wikipedia,
@@ -394,7 +395,8 @@ distance from the Sun in AU.
   Perseverance run on nuclear power.
 - The Sun's luminosity is $4\pi d^2 F = 3.83 \times 10^{26}$ W.
 
-**Next:** chapter 6, Hot things glow, where we see how the colour of a star tells its temperature.
+**Next:** [chapter 6, Hot things glow](06-Hot-Things-Glow.md), where we see how the colour of a star tells its
+temperature.
 
 ## Further reading
 
