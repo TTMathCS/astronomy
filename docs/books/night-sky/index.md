@@ -45,4 +45,4 @@ and stories that peoples all over the world have given to the sky.*
 | | [18. Star charts, planispheres and apps](18-Star-Charts-Planispheres-and-Apps.md) |
 | | [19. Binoculars and a first telescope](19-Binoculars-and-a-First-Telescope.md) |
 | | [20. Light pollution and dark-sky places](20-Light-Pollution-and-Dark-Sky-Places.md) |
-| **VI. Another sky** | 21. The night sky from Mars |
+| **VI. Another sky** | [21. The night sky from Mars](21-The-Night-Sky-from-Mars.md) |

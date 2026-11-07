@@ -300,10 +300,11 @@ People everywhere watched the planets, and many tracked them with great care.
 ## 13.8 Planets from Mars { #mars }
 
 From Mars the Earth is an inner planet, as Venus is for us. So the Earth appears as a bright **evening star** or
-**morning star**, never far from the Sun. It can be up to 41° from the Sun (section 13.9). At its brightest it reaches
-about magnitude −2.5, and the Moon, about +0.9, can be seen beside it with the naked eye. When the Earth is closest to
-Mars the two can be up to 25 minutes of arc apart, almost the width of our Moon, and a watcher on Mars could see the
-Moon go round the Earth. Through a telescope both would show as crescents.
+**morning star**, never far from the Sun. On average it gets up to about 41° from the Sun (section 13.9); because
+Mars's orbit is oval, the real limit ranges from about 36° to 47° (chapter 21, section 21.10). At its brightest it
+reaches about magnitude −2.5, and the Moon, about +0.9, can be seen beside it with the naked eye. When the Earth is
+closest to Mars the two can be up to 25 minutes of arc apart, almost the width of our Moon, and a watcher on Mars
+could see the Moon go round the Earth. Through a telescope both would show as crescents.
 
 On 8 May 2003, close to the Earth's greatest elongation as seen from Mars, the orbiter **Mars Global Surveyor** took
 a picture of the Earth and the Moon together.
@@ -461,7 +462,7 @@ The same holds on Mars. The Earth, seen from Mars, is brightest as a crescent, n
 - Binoculars show Jupiter's four big moons; a telescope magnifying 30 times shows Saturn's rings.
 - In 2027, Venus is a morning star in January, and Mars and Jupiter reach opposition in February.
 - Uranus is just visible to the naked eye; Neptune needs binoculars or a telescope.
-- From Mars, the Earth is an evening or morning star, up to 41° from the Sun.
+- From Mars, the Earth is an evening or morning star, never more than about 47° from the Sun.
 - Venus is brightest as a crescent, about 36 days from inferior conjunction.
 
 **Next:** [chapter 14, Mars's backward loop and close approaches](14-Mars-Backward-Loop-and-Close-Approaches.md),

@@ -431,7 +431,8 @@ gathered into one point, about what magnitude would it be? Is that brighter than
 - Mars has no light pollution; only dust and weak moonlight brighten its night.
 - The air scatters blue light as $1/\lambda^4$, so blue-rich lamps light up the sky most.
 
-**Next:** chapter 21, The night sky from Mars, the last chapter, where we stand on Mars and look up.
+**Next:** [chapter 21, The night sky from Mars](21-The-Night-Sky-from-Mars.md), the last chapter, where we stand on
+Mars and look up.
 
 ## Further reading
 
