@@ -491,8 +491,8 @@ out, and if so with what greatest energy? What is the longest wavelength that fr
 - Mars gets 43 per cent of the Earth's sunlight; Opportunity ran on it for over 14 years.
 - A photon frees an electron only if $hf$ beats the metal's work function.
 
-**Next:** chapter 2, The speed of light, where we see how fast light goes, how it was measured, and why a message to
-Mars takes minutes.
+**Next:** [chapter 2, The speed of light](02-The-Speed-of-Light.md), where we see how fast light goes, how it was
+measured, and why a message to Mars takes minutes.
 
 ## Further reading
 

@@ -118,6 +118,7 @@ nav:
       - "Light and telescopes":
           - books/light-and-telescopes/index.md
           - books/light-and-telescopes/01-What-Light-Is.md
+          - books/light-and-telescopes/02-The-Speed-of-Light.md
       - "History of astronomy":
           - books/history/index.md
           - books/history/01-Before-Writing.md
