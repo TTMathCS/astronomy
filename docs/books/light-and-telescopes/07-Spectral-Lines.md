@@ -418,7 +418,7 @@ which band is it?
 - Spectra revealed Mars's carbon dioxide air in 1964; rovers read rocks with lasers; methane remains a puzzle.
 - $1/\lambda = R(1/n_1^2 - 1/n_2^2)$ gives all of hydrogen's lines.
 
-**Next:** chapter 8, The Doppler shift, where we see how lines move when a star moves.
+**Next:** [chapter 8, The Doppler shift](08-The-Doppler-Shift.md), where we see how lines move when a star moves.
 
 ## Further reading
 
