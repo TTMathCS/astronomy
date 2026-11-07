@@ -406,8 +406,8 @@ be?
 - Mars, at about 214 K, glows most at about 14 µm, and orbiters map its weather from that glow.
 - Balancing sunlight in and glow out gives Mars 209.8 K and the Earth 255 K; the Earth's air adds 33 K.
 
-**Next:** chapter 7, Spectral lines, the fingerprints of the elements, where we see how dark and bright lines in a
-spectrum tell what stars are made of.
+**Next:** [chapter 7, Spectral lines, the fingerprints of the elements](07-Spectral-Lines.md), where we see how dark
+and bright lines in a spectrum tell what stars are made of.
 
 ## Further reading
 

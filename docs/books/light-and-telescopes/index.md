@@ -32,7 +32,7 @@ at it from orbit and the lasers that read its rocks.*
 | | [4. Beyond the rainbow: radio to gamma rays](04-Beyond-the-Rainbow.md) |
 | | [5. Brighter and fainter: the inverse square law](05-The-Inverse-Square-Law.md) |
 | | [6. Hot things glow](06-Hot-Things-Glow.md) |
-| | 7. Spectral lines, the fingerprints of the elements |
+| | [7. Spectral lines, the fingerprints of the elements](07-Spectral-Lines.md) |
 | | 8. The Doppler shift |
 | **II. Bending light** | 9. Mirrors and reflection |
 | | 10. Lenses and refraction |
