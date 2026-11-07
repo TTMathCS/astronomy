@@ -35,7 +35,7 @@ at it from orbit and the lasers that read its rocks.*
 | | [7. Spectral lines, the fingerprints of the elements](07-Spectral-Lines.md) |
 | | [8. The Doppler shift](08-The-Doppler-Shift.md) |
 | **II. Bending light** | [9. Mirrors and reflection](09-Mirrors-and-Reflection.md) |
-| | 10. Lenses and refraction |
+| | [10. Lenses and refraction](10-Lenses-and-Refraction.md) |
 | | 11. How a telescope makes an image |
 | | 12. The limits: diffraction, resolution and seeing |
 | **III. Telescopes** | 13. Telescope designs |

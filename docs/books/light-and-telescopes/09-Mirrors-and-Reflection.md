@@ -467,7 +467,7 @@ at the same spin?
 - Corner reflectors on the Moon let us time laser echoes to millimetres; small ones now sit on Mars too.
 - A spinning liquid has focal length $f = g / (2\omega^2)$.
 
-**Next:** chapter 10, Lenses and refraction, where light bends as it passes into glass.
+**Next:** [chapter 10, Lenses and refraction](10-Lenses-and-Refraction.md), where light bends as it passes into glass.
 
 ## Further reading
 
