@@ -115,6 +115,9 @@ nav:
           - books/night-sky/19-Binoculars-and-a-First-Telescope.md
           - books/night-sky/20-Light-Pollution-and-Dark-Sky-Places.md
           - books/night-sky/21-The-Night-Sky-from-Mars.md
+      - "Light and telescopes":
+          - books/light-and-telescopes/index.md
+          - books/light-and-telescopes/01-What-Light-Is.md
       - "History of astronomy":
           - books/history/index.md
           - books/history/01-Before-Writing.md
