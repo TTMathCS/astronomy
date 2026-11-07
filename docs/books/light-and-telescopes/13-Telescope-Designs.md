@@ -461,8 +461,8 @@ and roughly how long is the telescope?
 - HiRISE folds a 12 m focal length into an instrument 1.6 m long.
 - Parabolas, ellipses and hyperbolas each send light from one focus to another in their own way.
 
-**Next:** chapter 14, From eye to camera, where we follow the light from the eyepiece to photographic plates and
-electronic sensors.
+**Next:** [chapter 14, From eye to camera](14-From-Eye-to-Camera.md), where we follow the light from the eyepiece to
+photographic plates and electronic sensors.
 
 ## Further reading
 

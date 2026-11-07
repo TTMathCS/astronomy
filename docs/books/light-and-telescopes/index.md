@@ -39,7 +39,7 @@ at it from orbit and the lasers that read its rocks.*
 | | [11. How a telescope makes an image](11-How-a-Telescope-Makes-an-Image.md) |
 | | [12. The limits: diffraction, resolution and seeing](12-The-Limits-Diffraction-Resolution-and-Seeing.md) |
 | **III. Telescopes** | [13. Telescope designs](13-Telescope-Designs.md) |
-| | 14. From eye to camera |
+| | [14. From eye to camera](14-From-Eye-to-Camera.md) |
 | | 15. Spectrographs |
 | | 16. Giant telescopes and the observatories of the world |
 | **IV. The invisible sky** | 17. Radio telescopes |
