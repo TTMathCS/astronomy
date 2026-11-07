@@ -407,8 +407,9 @@ magnitudes fainter can it show than the eye?
 - Mars at its closest is 25″ across; the Earth from Mars is a bright evening or morning star.
 - $1/u + 1/v = 1/f$; at the focus, one millimetre covers $206{,}265/f$ seconds of arc.
 
-**Next:** chapter 12, The limits: diffraction, resolution and seeing, where we find what stops a telescope from
-seeing ever finer detail.
+**Next:**
+[chapter 12, The limits: diffraction, resolution and seeing](12-The-Limits-Diffraction-Resolution-and-Seeing.md),
+where we find what stops a telescope from seeing ever finer detail.
 
 ## Further reading
 
