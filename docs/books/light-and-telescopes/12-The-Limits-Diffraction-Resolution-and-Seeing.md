@@ -502,7 +502,8 @@ diffraction limit, and what size of detail is that on Mars at 54.6 million km?
 - Interferometers join telescopes to see as sharply as one as wide as their baseline.
 - From Earth, Mars shows detail down to about 100 km; HiRISE in orbit sees about 0.3 m.
 
-**Next:** chapter 13, Telescope designs, where we meet the different ways of arranging lenses and mirrors.
+**Next:** [chapter 13, Telescope designs](13-Telescope-Designs.md), where we meet the different ways of arranging
+lenses and mirrors.
 
 ## Further reading
 
