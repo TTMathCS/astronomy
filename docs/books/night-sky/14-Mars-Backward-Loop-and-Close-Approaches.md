@@ -538,7 +538,8 @@ and a radian is 57.3°. Using the Earth's true speed on each date changes the nu
 - From Mars, the Earth loops backward when Mars is at opposition for us.
 - Loops near aphelion are longer and wider because the Earth gains on the slow-moving Mars faster.
 
-**Next:** chapter 15, Meteors and comets, where we turn to the visitors that streak and drift across the sky.
+**Next:** [chapter 15, Meteors and comets](15-Meteors-and-Comets.md), where we turn to the visitors that streak and
+drift across the sky.
 
 ## Further reading
 
