@@ -465,7 +465,8 @@ What is its focal length, and how far apart are its blue and red foci?
 - Air lifts starlight by up to about 35′ on Earth; Mars's thin air bends it about 80 times less.
 - $1/f = (n-1)(1/R_1 - 1/R_2)$; the colour error is the fraction $1/V$ of the focal length.
 
-**Next:** chapter 11, How a telescope makes an image, where lenses and mirrors are put together to magnify the sky.
+**Next:** [chapter 11, How a telescope makes an image](11-How-a-Telescope-Makes-an-Image.md), where lenses and mirrors
+are put together to magnify the sky.
 
 ## Further reading
 
