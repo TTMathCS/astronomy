@@ -40,7 +40,7 @@ at it from orbit and the lasers that read its rocks.*
 | | [12. The limits: diffraction, resolution and seeing](12-The-Limits-Diffraction-Resolution-and-Seeing.md) |
 | **III. Telescopes** | [13. Telescope designs](13-Telescope-Designs.md) |
 | | [14. From eye to camera](14-From-Eye-to-Camera.md) |
-| | 15. Spectrographs |
+| | [15. Spectrographs](15-Spectrographs.md) |
 | | 16. Giant telescopes and the observatories of the world |
 | **IV. The invisible sky** | 17. Radio telescopes |
 | | 18. Infrared, ultraviolet, X-ray and gamma-ray astronomy |

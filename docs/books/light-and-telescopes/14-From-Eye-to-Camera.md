@@ -789,8 +789,8 @@ ratio? How many such exposures must be stacked to reach 100?
 - Mariner 4's 21 pictures of Mars came home at 8⅓ bits per second and were first coloured in by hand.
 - Photon noise grows as $\sqrt{N}$; stacking $n$ pictures improves the signal-to-noise ratio by $\sqrt{n}$.
 
-**Next:** chapter 15, Spectrographs, where we see how the light caught by a telescope is spread into a spectrum and
-read.
+**Next:** [chapter 15, Spectrographs](15-Spectrographs.md), where we see how the light caught by a telescope is spread
+into a spectrum and read.
 
 ## Further reading
 
