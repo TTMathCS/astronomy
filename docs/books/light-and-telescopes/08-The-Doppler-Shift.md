@@ -422,7 +422,8 @@ a Doppler shift, how fast would the quasar be moving?
 - The largest redshifts come from the expansion of the universe and push light from the first galaxies into the
   infrared.
 
-**Next:** chapter 9, Mirrors and reflection, where we start to bend and bounce light to build telescopes.
+**Next:** [chapter 9, Mirrors and reflection](09-Mirrors-and-Reflection.md), where we start to bend and bounce light
+to build telescopes.
 
 ## Further reading
 
