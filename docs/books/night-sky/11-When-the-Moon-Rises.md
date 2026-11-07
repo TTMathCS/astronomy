@@ -464,7 +464,7 @@ equinox, and about how much later does the Moon rise the next night?
 - Phobos rises in the west every 11 hours and cannot be seen beyond 70.4° latitude; Deimos rises about every 5½ days.
 - The Moon's nodes slide round the ecliptic every 18.6 years, setting the standstills and nudging the Earth's axis.
 
-**Next:** chapter 12, Eclipses, where the Sun, the Moon and the Earth line up exactly.
+**Next:** [chapter 12, Eclipses](12-Eclipses.md), where the Sun, the Moon and the Earth line up exactly.
 
 ## Further reading
 
