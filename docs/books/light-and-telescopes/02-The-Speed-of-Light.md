@@ -429,7 +429,8 @@ second would the light first vanish?
 - A light-year is 9.46 trillion km; we see distant things as they were.
 - Messages to Mars take 3 to 22 minutes, so rovers must look after themselves, and fall silent at solar conjunction.
 
-**Next:** chapter 3, Colours, prisms and rainbows, where we split white light into its colours.
+**Next:** [chapter 3, Colours, prisms and rainbows](03-Colours-Prisms-and-Rainbows.md), where we split white light
+into its colours.
 
 ## Further reading
 
