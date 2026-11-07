@@ -539,8 +539,8 @@ Precession moves the equinoxes 50″ a year and the Earth's tilt is 23.4°.
 - Precession swings the Earth's axis round once in about 26,000 years, so the pole star changes: Thuban, then Polaris,
   later Vega.
 
-**Next:** chapter 7, How your latitude changes the sky, where we travel from the North Pole to the equator and beyond,
-and watch the sky tilt as we go.
+**Next:** [chapter 7, How your latitude changes the sky](07-How-Your-Latitude-Changes-the-Sky.md), where we travel
+from the North Pole to the equator and beyond, and watch the sky tilt as we go.
 
 ## Further reading
 
