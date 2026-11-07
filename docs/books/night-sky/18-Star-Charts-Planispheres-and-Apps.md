@@ -426,7 +426,8 @@ $1/\cos^2 45° = 2$, so Orion comes out twice as big as a constellation of the s
 - A chart for Mars would show the same constellations but pivot near Deneb, with the Earth as a planet.
 - Every flat map of the sky is stretched; that is why a planisphere's window is egg-shaped.
 
-**Next:** chapter 19, Binoculars and a first telescope, where we look at what to buy and how to use it.
+**Next:** [chapter 19, Binoculars and a first telescope](19-Binoculars-and-a-First-Telescope.md), where we look at
+what to buy and how to use it.
 
 ## Further reading
 
