@@ -34,7 +34,7 @@ and stories that peoples all over the world have given to the sky.*
 | | [7. How your latitude changes the sky](07-How-Your-Latitude-Changes-the-Sky.md) |
 | | [8. The Sun's path and the seasons](08-The-Suns-Path-and-the-Seasons.md) |
 | | [9. Telling time by the sky](09-Telling-Time-by-the-Sky.md) |
-| **III. The Moon** | 10. The Moon's phases |
+| **III. The Moon** | [10. The Moon's phases](10-The-Moons-Phases.md) |
 | | 11. When the Moon rises |
 | | 12. Eclipses of the Sun and Moon |
 | **IV. Wanderers and visitors** | 13. Finding the planets |

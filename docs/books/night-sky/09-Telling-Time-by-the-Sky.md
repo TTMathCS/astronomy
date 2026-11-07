@@ -490,7 +490,8 @@ equation of time, when does the Sun cross its meridian?
 - On Mars a sol is 24 h 39 min 35 s; mission teams have lived on Mars time, and the Sun runs up to 51 minutes slow.
 - The equation of time comes from the Earth's stretched orbit and its tilt, and makes the analemma a figure eight.
 
-**Next:** chapter 10, The Moon's phases, where we watch the Moon change shape through the month and see why.
+**Next:** [chapter 10, The Moon's phases](10-The-Moons-Phases.md), where we watch the Moon change shape through the
+month and see why.
 
 ## Further reading
 
