@@ -40,7 +40,7 @@ and stories that peoples all over the world have given to the sky.*
 | **IV. Wanderers and visitors** | [13. Finding the planets](13-Finding-the-Planets.md) |
 | | [14. Mars's backward loop and close approaches](14-Mars-Backward-Loop-and-Close-Approaches.md) |
 | | [15. Meteors and comets](15-Meteors-and-Comets.md) |
-| | 16. Satellites and the space station |
+| | [16. Satellites and the space station](16-Satellites-and-the-Space-Station.md) |
 | **V. Finding your way** | 17. Sky coordinates |
 | | 18. Star charts, planispheres and apps |
 | | 19. Binoculars and a first telescope |

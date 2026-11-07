@@ -474,7 +474,8 @@ moving forward into the stream.
 - Meteors are seen on Mars too, and Opportunity found an iron meteorite there.
 - Meteors hit the Earth at between 11.2 and about 72 km/s, faster before dawn.
 
-**Next:** chapter 16, Satellites and the space station, where we look for the moving lights that people put there.
+**Next:** [chapter 16, Satellites and the space station](16-Satellites-and-the-Space-Station.md), where we look for
+the moving lights that people put there.
 
 ## Further reading
 
