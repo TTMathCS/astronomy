@@ -478,8 +478,8 @@ meridian.
 - Mars's north celestial pole is in Cygnus; its equator is tilted 37° to ours.
 - $\sin h = \sin\varphi \sin\delta + \cos\varphi \cos\delta \cos H$ turns the grid into where to look.
 
-**Next:** chapter 18, Star charts, planispheres and apps, where we put the grid to work and learn to read a map of the
-sky.
+**Next:** [chapter 18, Star charts, planispheres and apps](18-Star-Charts-Planispheres-and-Apps.md), where we put the
+grid to work and learn to read a map of the sky.
 
 ## Further reading
 
