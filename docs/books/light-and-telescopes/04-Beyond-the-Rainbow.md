@@ -450,7 +450,8 @@ with the 1 W green laser?
 - At Mars, spacecraft use radio to talk, radar to look underground, infrared to map warm and cold ground, and
   ultraviolet to study the top of the air.
 
-**Next:** chapter 5, Brighter and fainter: the inverse square law, where we see why light fades with distance.
+**Next:** [chapter 5, Brighter and fainter: the inverse square law](05-The-Inverse-Square-Law.md), where we see why
+light fades with distance.
 
 ## Further reading
 
