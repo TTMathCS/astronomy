@@ -489,7 +489,8 @@ shadow crosses the ground at about 2 km/s, more than 7,000 km/h, so its "eclipse
 - Coming total eclipses: Spain and North Africa in 2027, Australia in 2028, western Canada in 2044.
 - On Mars, Phobos and Deimos only ever take a small, quick bite out of the Sun.
 
-**Next:** chapter 13, Finding the planets, where we leave the Moon and look for the wandering stars.
+**Next:** [chapter 13, Finding the planets](13-Finding-the-Planets.md), where we leave the Moon and look for the
+wandering stars.
 
 ## Further reading
 

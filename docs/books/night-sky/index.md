@@ -37,7 +37,7 @@ and stories that peoples all over the world have given to the sky.*
 | **III. The Moon** | [10. The Moon's phases](10-The-Moons-Phases.md) |
 | | [11. When the Moon rises](11-When-the-Moon-Rises.md) |
 | | [12. Eclipses](12-Eclipses.md) |
-| **IV. Wanderers and visitors** | 13. Finding the planets |
+| **IV. Wanderers and visitors** | [13. Finding the planets](13-Finding-the-Planets.md) |
 | | 14. Mars's backward loop and its close approaches |
 | | 15. Meteors and comets |
 | | 16. Satellites and the space station |
