@@ -537,8 +537,8 @@ about the Earth's shape, and how?
 - Degrees of latitude are longer near the poles, so the Earth is flattened; the Lapland and Ecuador expeditions
   proved it in the 1730s.
 
-**Next:** chapter 8, The Sun's path and the seasons, where we follow the Sun through the year and see why it brings
-summer and winter, and the midnight Sun.
+**Next:** [chapter 8, The Sun's path and the seasons](08-The-Suns-Path-and-the-Seasons.md), where we follow the Sun
+through the year and see why it brings summer and winter, and the midnight Sun.
 
 ## Further reading
 
