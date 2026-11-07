@@ -29,7 +29,7 @@ at it from orbit and the lasers that read its rocks.*
 | **I. What light is** | [1. Waves and particles: what light is](01-What-Light-Is.md) |
 | | [2. The speed of light](02-The-Speed-of-Light.md) |
 | | [3. Colours, prisms and rainbows](03-Colours-Prisms-and-Rainbows.md) |
-| | 4. Beyond the rainbow: radio to gamma rays |
+| | [4. Beyond the rainbow: radio to gamma rays](04-Beyond-the-Rainbow.md) |
 | | 5. Brighter and fainter: the inverse square law |
 | | 6. Hot things glow |
 | | 7. Spectral lines, the fingerprints of the elements |

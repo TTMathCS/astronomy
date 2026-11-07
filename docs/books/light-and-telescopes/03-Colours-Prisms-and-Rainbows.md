@@ -412,7 +412,8 @@ comes back. Does it end up inside or outside the red bow?
 - The Earth's sky is blue because air scatters blue light most; sunsets are red because the blue is scattered away.
 - Mars has a red surface, a butterscotch sky, blue sunsets and no rainbows.
 
-**Next:** chapter 4, Beyond the rainbow: radio to gamma rays, where we meet the light our eyes cannot see.
+**Next:** [chapter 4, Beyond the rainbow: radio to gamma rays](04-Beyond-the-Rainbow.md), where we meet the light our
+eyes cannot see.
 
 ## Further reading
 
