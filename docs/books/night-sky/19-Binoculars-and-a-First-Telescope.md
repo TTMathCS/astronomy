@@ -406,8 +406,8 @@ see from 300 km?
 - HiRISE at Mars sees detail under a metre; a garden telescope sees about 280 km on Mars at best.
 - Diffraction limits detail to about $1.22\lambda/D$, but on most nights the air limits it more.
 
-**Next:** chapter 20, Light pollution and dark-sky places, where we look at the light that hides the stars and where
-to escape it.
+**Next:** [chapter 20, Light pollution and dark-sky places](20-Light-Pollution-and-Dark-Sky-Places.md), where we look
+at the light that hides the stars and where to escape it.
 
 ## Further reading
 
