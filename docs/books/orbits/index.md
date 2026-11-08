@@ -31,7 +31,7 @@ orbiters that circle it, the fate of its moon Phobos, and the slow changes in Ma
 | | [2. Wandering stars: the puzzle of the planets](02-Wandering-Stars.md) |
 | | [3. Kepler's three laws](03-Keplers-Three-Laws.md) |
 | | [4. Ellipses: the shape of an orbit](04-Ellipses.md) |
-| **II. Gravity** | 5. Newton's law of gravity |
+| **II. Gravity** | [5. Newton's law of gravity](05-Newtons-Law-of-Gravity.md) |
 | | 6. Weighing the Sun, the planets and their moons |
 | | 7. Orbital speed, energy and escape |
 | | 8. Tides |

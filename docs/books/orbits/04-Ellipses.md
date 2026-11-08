@@ -471,8 +471,8 @@ that for Mars?
 - Mars gets 45% more sunlight at perihelion than at aphelion; its dust storms are most common then.
 - Kepler's equation follows from equal areas and a circle squashed into an ellipse.
 
-**Next:** chapter 5, Newton's law of gravity, where one law of force explains all three of Kepler's laws, the fall of
-an apple and the orbit of the Moon.
+**Next:** [chapter 5, Newton's law of gravity](05-Newtons-Law-of-Gravity.md), where one law of force explains all
+three of Kepler's laws, the fall of an apple and the orbit of the Moon.
 
 ## Further reading
 
