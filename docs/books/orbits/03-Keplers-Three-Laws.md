@@ -559,8 +559,8 @@ the speed across the line to S, is the same before and after the kick.
   three and a half hours high.
 - Any pull aimed at a fixed centre gives equal areas; the ellipse and the squares and cubes need the inverse square.
 
-**Next:** chapter 4, Ellipses: the shape of an orbit, where we draw ellipses with string and pins, measure how
-stretched they are, and work out where a planet is on any date.
+**Next:** [chapter 4, Ellipses: the shape of an orbit](04-Ellipses.md), where we draw ellipses with string and pins,
+measure how stretched they are, and work out where a planet is on any date.
 
 ## Further reading
 
