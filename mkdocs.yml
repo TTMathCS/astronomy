@@ -140,6 +140,7 @@ nav:
       - "Orbits":
           - books/orbits/index.md
           - books/orbits/01-Falling-Round-the-Earth.md
+          - books/orbits/02-Wandering-Stars.md
       - "History of astronomy":
           - books/history/index.md
           - books/history/01-Before-Writing.md

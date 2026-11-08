@@ -449,8 +449,8 @@ $\rho$, and check it for the Earth ($\rho = 5{,}513$ kg/m³) and Mars ($\rho = 3
   their own rockets.
 - At Mars, orbital speed near the ground is 3.56 km/s, and orbit takes about a fifth of the energy.
 
-**Next:** chapter 2, Wandering stars: the puzzle of the planets, where we watch how the planets move across the sky,
-and how people around the world learned to predict them.
+**Next:** [chapter 2, Wandering stars: the puzzle of the planets](02-Wandering-Stars.md), where we watch how the
+planets move across the sky, and how people around the world learned to predict them.
 
 ## Further reading
 
