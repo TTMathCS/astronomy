@@ -499,8 +499,9 @@ order would a grating need?
 - Spectrometers orbiting Mars found water ice, hydrated minerals, a trace of methane and layered clays.
 - Line centres can be measured far more finely than line widths, which is how 10 cm/s is within reach.
 
-**Next:** chapter 16, Giant telescopes and the observatories of the world, where we visit the largest telescopes and
-the mountaintops that hold them.
+**Next:**
+[chapter 16, Giant telescopes and the observatories of the world](16-Giant-Telescopes-and-the-Observatories-of-the-World.md),
+where we visit the largest telescopes and the mountaintops that hold them.
 
 ## Further reading
 

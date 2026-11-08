@@ -41,7 +41,7 @@ at it from orbit and the lasers that read its rocks.*
 | **III. Telescopes** | [13. Telescope designs](13-Telescope-Designs.md) |
 | | [14. From eye to camera](14-From-Eye-to-Camera.md) |
 | | [15. Spectrographs](15-Spectrographs.md) |
-| | 16. Giant telescopes and the observatories of the world |
+| | [16. Giant telescopes and the observatories of the world](16-Giant-Telescopes-and-the-Observatories-of-the-World.md) |
 | **IV. The invisible sky** | 17. Radio telescopes |
 | | 18. Infrared, ultraviolet, X-ray and gamma-ray astronomy |
 | | 19. Telescopes in space |
