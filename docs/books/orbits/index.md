@@ -37,7 +37,7 @@ orbiters that circle it, the fate of its moon Phobos, and the slow changes in Ma
 | | [8. Tides](08-Tides.md) |
 | **III. More than two bodies** | [9. Lagrange points and Trojans](09-Lagrange-Points-and-Trojans.md) |
 | | [10. Wobbling orbits and the finding of Neptune](10-Wobbling-Orbits-and-the-Finding-of-Neptune.md) |
-| | 11. Resonances |
+| | [11. Resonances](11-Resonances.md) |
 | | 12. Measuring orbits |
 | **IV. Spaceflight** | 13. Rockets and getting to orbit |
 | | 14. Orbits around the Earth |

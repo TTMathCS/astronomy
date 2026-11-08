@@ -452,8 +452,8 @@ a push forwards of 1 mm/s. About how far behind will it be after 1 year and afte
 - A small push grows: a forward push of $\Delta v$ makes the year longer by $3\Delta v / v$, and the lag adds up orbit
   after orbit.
 
-**Next:** chapter 11, Resonances, where orbits that keep in step, such as Jupiter and Saturn's 5 to 2, give each other
-the same nudge again and again.
+**Next:** [chapter 11, Resonances](11-Resonances.md), where orbits that keep in step, such as Jupiter and Saturn's 5
+to 2, give each other the same nudge again and again.
 
 ## Further reading
 
