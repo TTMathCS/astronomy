@@ -55,6 +55,7 @@ extra:
 
 extra_javascript:
   - https://www.akadian.ca/home-music.js?site   # the song from www.akadian.ca: it goes on here while it plays (Mars-Home home-music.js)
+  - https://www.akadian.ca/schools.js   # the Mars Schools row: links to every other school site; its one list is the Mars Schools section of Mars-Requirements site/menu.md (Mars-Home schools.js, written by Mars-Build tools/menu.py)
   - javascripts/mars-link.js
   - javascripts/home-link.js
   - katex/katex.min.js
