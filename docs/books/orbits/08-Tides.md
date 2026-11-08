@@ -421,8 +421,8 @@ will it be in a million years?
 - Mars's tides show that its core is at least partly liquid. Phobos, inside the stationary orbit, is sinking and should
   break into a ring in 30 to 50 million years.
 
-**Next:** chapter 9, Lagrange points and Trojans, where a third body finds five places where it can keep pace with two
-others.
+**Next:** [chapter 9, Lagrange points and Trojans](09-Lagrange-Points-and-Trojans.md), where a third body finds five
+places where it can keep pace with two others.
 
 ## Further reading
 
