@@ -487,7 +487,8 @@ from 6,771 km to 6,769 km, and how much faster it goes.
 - The vis-viva equation $v^2 = GM(2/r - 1/a)$ gives the speed anywhere on an orbit.
 - Rocks thrown off Mars by impacts have landed all over the Earth, and Mars has lost much of its air to space.
 
-**Next:** chapter 8, Tides, where the Moon and the Sun stretch the Earth, and Mars stretches Phobos towards its end.
+**Next:** [chapter 8, Tides](08-Tides.md), where the Moon and the Sun stretch the Earth, and Mars stretches Phobos
+towards its end.
 
 ## Further reading
 
