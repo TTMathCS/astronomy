@@ -465,8 +465,8 @@ centre. Find the masses of Pluto and of Charon.
 - Mars was weighed with Phobos and Deimos; Phobos itself has been weighed by Mars Express flybys, and is about a
   third empty space.
 
-**Next:** chapter 7, Orbital speed, energy and escape, where we find how fast an orbit goes, what it costs to climb
-higher, and how fast you must go to leave a planet for good.
+**Next:** [chapter 7, Orbital speed, energy and escape](07-Speed-Energy-and-Escape.md), where we find how fast an
+orbit goes, what it costs to climb higher, and how fast you must go to leave a planet for good.
 
 ## Further reading
 

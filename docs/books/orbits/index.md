@@ -33,7 +33,7 @@ orbiters that circle it, the fate of its moon Phobos, and the slow changes in Ma
 | | [4. Ellipses: the shape of an orbit](04-Ellipses.md) |
 | **II. Gravity** | [5. Newton's law of gravity](05-Newtons-Law-of-Gravity.md) |
 | | [6. Weighing the Sun, the planets and their moons](06-Weighing.md) |
-| | 7. Orbital speed, energy and escape |
+| | [7. Orbital speed, energy and escape](07-Speed-Energy-and-Escape.md) |
 | | 8. Tides |
 | **III. More than two bodies** | 9. Lagrange points and Trojans |
 | | 10. Wobbling orbits and the finding of Neptune |
