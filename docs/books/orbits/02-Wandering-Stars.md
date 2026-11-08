@@ -538,8 +538,8 @@ distance do they get, and how far off is it?
   of arc.
 - From Mars the second kind of unevenness is much bigger: the Martian seasons are 194 and 142 sols long.
 
-**Next:** chapter 3, Kepler's three laws, where Tycho's measurements of Mars turn circles into ellipses and give three
-rules that every orbit obeys.
+**Next:** [chapter 3, Kepler's three laws](03-Keplers-Three-Laws.md), where Tycho's measurements of Mars turn circles
+into ellipses and give three rules that every orbit obeys.
 
 ## Further reading
 
