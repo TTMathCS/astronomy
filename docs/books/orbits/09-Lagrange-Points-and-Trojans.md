@@ -483,7 +483,8 @@ L2 equation in section 9.10. How close is it to 1.01, and what does that say abo
   1.08 million km for Mars.
 - Mars has 17 known stable Trojans, most of them probably pieces of Eureka. Phobos nearly fills its own Hill sphere.
 
-**Next:** chapter 10, Wobbling orbits and the finding of Neptune, where the planets' small pulls on each other bend
+**Next:** [chapter 10, Wobbling orbits and the finding of Neptune](10-Wobbling-Orbits-and-the-Finding-of-Neptune.md),
+where the planets' small pulls on each other bend
 their orbits, and a wobble in the path of Uranus leads to a new planet.
 
 ## Further reading
