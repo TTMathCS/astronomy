@@ -527,7 +527,8 @@ reach the same signal-to-noise ratio on a faint star than the GTC?
 - The VLT, Keck and IRTF showed from Earth that Mars has lost about 6.5 times the water in its polar caps.
 - With adaptive optics, the time to see a faint star falls as $1/D^4$.
 
-**Next:** chapter 17, Radio telescopes, where we leave visible light and turn to the radio sky.
+**Next:** [chapter 17, Radio telescopes](17-Radio-Telescopes.md), where we leave visible light and turn to the radio
+sky.
 
 ## Further reading
 
