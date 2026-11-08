@@ -378,16 +378,20 @@ different.
 - **The Earth as a double star.** From Mars, the Earth shines as a bright point with the Moon as a fainter
   companion beside it. When it is farthest from the Sun in Mars's sky, the Earth shines at about magnitude −2.5,
   about as bright as Jupiter looks from the Earth.
-- **Two small moons.** Phobos, the larger and closer of the two, looks about 4.1 arcminutes across, small next to our
-  Moon's 31, but big enough to see its shape.
+- **Two small moons.** Phobos, the larger and closer of the two, looks about 8 arcminutes across near the horizon
+  and 12 overhead, at most a third of our Moon's 31, but big enough to see its shape.
 
 Your eyes would still need their half hour in the dark.
 
 ??? note "Sources"
     - The bright, dusty day sky with no stars, butterscotch by day, pink at sunrise and sunset with blue near the Sun,
       the long twilight from high dust, Sadr and Deneb, Kappa Velorum, the Earth and Moon as a double star at magnitude
-      −2.5 near greatest elongation, Phobos at 4.1 arcminutes against the Moon's 31: Wikipedia,
+      −2.5 near greatest elongation, the Moon's 31 arcminutes: Wikipedia,
       [Extraterrestrial sky](https://en.wikipedia.org/wiki/Extraterrestrial_sky) (weaker).
+    - Phobos about 0.14° wide at the horizon and 0.20° overhead, a third as wide as the full Moon: Wikipedia,
+      [Phobos (moon)](https://en.wikipedia.org/wiki/Phobos_(moon)) (weaker). The Extraterrestrial sky page gives 4.1
+      arcminutes, which does not fit: Phobos is about 22 km across and 6,000 km up, and 22/6,000 radians is about 12
+      arcminutes.
     - Twilight on Mars lasting up to two hours: Wikipedia, [Twilight](https://en.wikipedia.org/wiki/Twilight) (weaker).
     - Surface pressure, 6.36 mb on Mars and 1014 mb on Earth, and Phobos larger and closer than Deimos: NASA,
       [Mars fact sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/marsfact.html) and
@@ -516,7 +520,7 @@ sky?
 ??? note "Answer"
     Any two of: twilight lasts up to two hours; the sky near the setting Sun is blue; Sadr and Deneb point to the
     north pole of the sky; the Earth and Moon shine as a double star; there are two small moons,
-    and Phobos looks only about 4.1 arcminutes across.
+    and Phobos looks at most about a third as wide as our Moon.
 
 **7.** (advanced) The pupil widens from 1.5 mm to 8 mm in the dark. How many times more light does it let in? Why
 can this not explain all of night vision?

@@ -357,9 +357,9 @@ $1.22 \times 550\times10^{-9} / 0.5 = 1.3\times10^{-6}$ radians. From 300 km up 
 of its camera covers about 0.3 m. Being close matters far more than being big.
 
 **From Mars.** Phobos, the larger of Mars's two moons, is about 22 km across and only about 6,000 km above the ground.
-From the surface it looks about 4.1′ across (book 1,
+Overhead it looks about 12′ across, a third as wide as our Moon (book 1,
 [chapter 1](../night-sky/01-Your-First-Clear-Night.md)). An eye that resolves 1′ could just make out patches a little
-under 2 km across on it: Phobos would look like a small disc about four times wider than the finest detail the eye
+under 2 km across on it: Phobos would look like a small disc about twelve times wider than the finest detail the eye
 can pick out.
 
 ??? note "Sources"
@@ -372,7 +372,8 @@ can pick out.
     - HiRISE's diffraction limit, 0.4 m from 300 km, and 1 µrad pixels: the physics lesson
       [Seeing Earth from Mars](https://physics.akadian.ca/topics/waves/level-7/06-seeing-earth-from-mars.html).
     - Phobos's mean radius of 11 km and height of 5,989 km above the surface: Wikipedia,
-      [Phobos (moon)](https://en.wikipedia.org/wiki/Phobos_(moon)) (weaker). Its 4.1′: book 1, chapter 1.
+      [Phobos (moon)](https://en.wikipedia.org/wiki/Phobos_(moon)) (weaker). Its 0.20° overhead, a third of the full
+      Moon: the same page.
     - The arithmetic is ours.
 
 ## 12.10 Working it out { #working }
