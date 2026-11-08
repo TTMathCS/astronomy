@@ -44,5 +44,5 @@ at it from orbit and the lasers that read its rocks.*
 | | [16. Giant telescopes and the observatories of the world](16-Giant-Telescopes-and-the-Observatories-of-the-World.md) |
 | **IV. The invisible sky** | [17. Radio telescopes](17-Radio-Telescopes.md) |
 | | [18. Infrared, ultraviolet, X-ray and gamma-ray astronomy](18-Infrared-Ultraviolet-X-ray-and-Gamma-ray-Astronomy.md) |
-| | 19. Telescopes in space |
+| | [19. Telescopes in space](19-Telescopes-in-Space.md) |
 | **V. Mars** | 20. Cameras and telescopes at Mars |

@@ -482,7 +482,8 @@ same speed.
 - Odyssey's gamma rays found ice under Mars; Hope's EMUS watches Mars's air escaping in ultraviolet.
 - On Mars, with so little air above, a third of 1 MeV gamma rays would reach the ground.
 
-**Next:** chapter 19, Telescopes in space, where we follow telescopes above the air altogether.
+**Next:** [chapter 19, Telescopes in space](19-Telescopes-in-Space.md), where we follow telescopes above the air
+altogether.
 
 ## Further reading
 
