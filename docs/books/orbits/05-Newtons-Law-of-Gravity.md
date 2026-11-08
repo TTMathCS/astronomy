@@ -457,8 +457,8 @@ $\rho$, and is $\pi\sqrt{3 / (4\pi G\rho)}$. Use it for Mars, $\rho = 3{,}934$ k
   empty space for Pluto and Charon.
 - At Mars, Phobos and Deimos follow the same law, and tracking orbiters maps small changes in gravity across the planet.
 
-**Next:** chapter 6, Weighing the Sun, the planets and their moons, where orbits give the masses of the Sun, the
-planets and their moons, and a laboratory experiment gives the mass of the Earth.
+**Next:** [chapter 6, Weighing the Sun, the planets and their moons](06-Weighing.md), where orbits give the masses of
+the Sun, the planets and their moons, and a laboratory experiment gives the mass of the Earth.
 
 ## Further reading
 
