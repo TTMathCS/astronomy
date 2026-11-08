@@ -39,7 +39,7 @@ orbiters that circle it, the fate of its moon Phobos, and the slow changes in Ma
 | | [10. Wobbling orbits and the finding of Neptune](10-Wobbling-Orbits-and-the-Finding-of-Neptune.md) |
 | | [11. Resonances](11-Resonances.md) |
 | | [12. Measuring orbits](12-Measuring-Orbits.md) |
-| **IV. Spaceflight** | 13. Rockets and getting to orbit |
+| **IV. Spaceflight** | [13. Rockets and getting to orbit](13-Rockets-and-Getting-to-Orbit.md) |
 | | 14. Orbits around the Earth |
 | | 15. The road to Mars |
 | | 16. Gravity assists |

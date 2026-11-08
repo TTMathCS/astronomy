@@ -535,8 +535,8 @@ to get the distance right to 1 m?
   kilometres.
 - Ranges and VLBI from landers and orbiters at Mars hold the whole inner solar system in place.
 
-**Next:** chapter 13, Rockets and getting to orbit, where we leave the planets to themselves and work out what it
-takes to launch something into orbit.
+**Next:** [chapter 13, Rockets and getting to orbit](13-Rockets-and-Getting-to-Orbit.md), where we leave the planets
+to themselves and work out what it takes to launch something into orbit.
 
 ## Further reading
 
