@@ -651,8 +651,8 @@ sunrise to the next, lasts two of its years.
   asteroids across its orbit to be thrown out.
 - Whether a resonance clears or protects depends on where in the orbit the meetings fall.
 
-**Next:** chapter 12, Measuring orbits, where radar, lasers and radio signals from spacecraft pin down the planets'
-paths to within metres.
+**Next:** [chapter 12, Measuring orbits](12-Measuring-Orbits.md), where radar, lasers and radio signals from
+spacecraft pin down the Moon's orbit to under a metre and the inner planets' to a few hundred metres.
 
 ## Further reading
 
