@@ -526,8 +526,9 @@ to gain 6 km/s?
 - Leaving Mars takes about 4.1 km/s and a mass ratio of about 3, so one stage is enough, and its fuel could be made
   from Mars's air and ice.
 
-**Next:** chapter 14, Orbits around the Earth, where we look at the different orbits satellites use, from the space
-station skimming the top of the air to geostationary satellites that seem to hang still in the sky.
+**Next:** [chapter 14, Orbits around the Earth](14-Orbits-Around-the-Earth.md), where we look at the different orbits
+satellites use, from the space station skimming the top of the air to geostationary satellites that seem to hang still
+in the sky.
 
 ## Further reading
 
