@@ -532,7 +532,8 @@ from the Sun as 778.5 million km.
 - L2 lies at $R(m/3M)^{1/3}$ from a planet: 1.50 million km for the Earth, 1.08 million km for Mars. It is unstable, so
   spacecraft there need fuel to stay.
 
-**Next:** chapter 20, Cameras and telescopes at Mars, where the telescopes go to Mars itself.
+**Next:** [chapter 20, Cameras and telescopes at Mars](20-Cameras-and-Telescopes-at-Mars.md), where the telescopes go
+to Mars itself.
 
 ## Further reading
 
