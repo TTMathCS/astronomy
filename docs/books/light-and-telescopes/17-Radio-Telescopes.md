@@ -479,8 +479,9 @@ signal 60,000 times weaker than the receiver's own noise can still be seen.
 - Radar bounces radio off the Moon and planets, and orbiting radars look under the ground of Mars.
 - A Mars orbiter's 100 W reaches Earth as about $10^{-13}$ W, enough to carry every picture home.
 
-**Next:** chapter 18, Infrared, ultraviolet, X-ray and gamma-ray astronomy, where we look at the rest of the invisible
-sky.
+**Next:**
+[chapter 18, Infrared, ultraviolet, X-ray and gamma-ray astronomy](18-Infrared-Ultraviolet-X-ray-and-Gamma-ray-Astronomy.md),
+where we look at the rest of the invisible sky.
 
 ## Further reading
 
