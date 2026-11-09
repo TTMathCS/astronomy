@@ -30,7 +30,7 @@ far away, because every world tells us something about it.*
 | **I. The family** | [1. A tour of the solar system](01-A-Tour-of-the-Solar-System.md) |
 | | [2. How the solar system formed](02-How-the-Solar-System-Formed.md) |
 | | [3. Rocky worlds and giant worlds](03-Rocky-Worlds-and-Giant-Worlds.md) |
-| **II. The rocky planets** | 4. Mercury |
+| **II. The rocky planets** | [4. Mercury](04-Mercury.md) |
 | | 5. Venus |
 | | 6. The Earth as a planet |
 | | 7. The Moon |

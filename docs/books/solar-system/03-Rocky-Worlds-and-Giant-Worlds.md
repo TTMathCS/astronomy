@@ -455,8 +455,8 @@ what share after 2023, with 1,675 km?
 - InSight showed that Mars has a crust 24 to 72 km thick, a molten rock layer and a liquid core about half its
   radius, and in 2025 a team reported a solid inner core.
 
-**Next:** chapter 4, Mercury, where we visit the smallest planet and the closest to the Sun: a world with a huge iron
-core, a long, scorching day, and ice in craters at its poles.
+**Next:** [chapter 4, Mercury](04-Mercury.md), where we visit the smallest planet and the closest to the Sun: a world
+with a huge iron core, a long, scorching day, and ice in craters at its poles.
 
 ## Further reading
 
