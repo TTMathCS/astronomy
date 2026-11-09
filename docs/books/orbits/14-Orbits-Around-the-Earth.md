@@ -491,8 +491,8 @@ day. What tilt makes it sun-synchronous?
 - Round Mars, MRO uses a sun-synchronous orbit, while India's and the Emirates' orbiters use long ellipses to see the
   whole planet.
 
-**Next:** chapter 15, The road to Mars, where we work out the cheapest path from the Earth to Mars, why it takes about
-seven months, and why the chance to go comes only once every 26 months.
+**Next:** [chapter 15, The road to Mars](15-The-Road-to-Mars.md), where we work out the cheapest path from the Earth
+to Mars, why it takes about seven months, and why the chance to go comes only once every 26 months.
 
 ## Further reading
 
