@@ -664,8 +664,8 @@ density 1,000 kg/m³ leave the solar system?
 - For a dust grain, the push of sunlight against the Sun's pull, $\beta$, is the same at every distance; the smallest
   grains are blown out of the solar system.
 
-**Next:** chapter 18, Where the Sun's wind ends, where we follow the solar wind out past the planets to the edge of the
-Sun's bubble, which both Voyagers have now crossed.
+**Next:** [chapter 18, Where the Sun's wind ends](18-Where-the-Suns-Wind-Ends.md), where we follow the solar wind out
+past the planets to the edge of the Sun's bubble, which both Voyagers have now crossed.
 
 ## Further reading
 

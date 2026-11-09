@@ -44,6 +44,6 @@ far away, because every world tells us something about it.*
 | | [15. Moons of the giants](15-Moons-of-the-Giants.md) |
 | **V. The far edge** | [16. Pluto and the Kuiper belt](16-Pluto-and-the-Kuiper-Belt.md) |
 | | [17. Comets and the Oort cloud](17-Comets-and-the-Oort-Cloud.md) |
-| | 18. Where the Sun's wind ends |
+| | [18. Where the Sun's wind ends](18-Where-the-Suns-Wind-Ends.md) |
 | **VI. Comparing worlds** | 19. Air, magnetism and weather on other worlds |
 | | 20. Water and the search for life |
