@@ -491,8 +491,9 @@ must it slow down there just to be caught?
 - Mars's air is too thick to ignore and too thin to rely on; landers of tens of tonnes will need rockets fired at
   supersonic speed.
 
-**Next:** chapter 18, Einstein and orbits, where we find that Newton's laws are not quite the whole story: Mercury's
-orbit turns a little too fast, radio signals passing the Sun are delayed, and the clocks on GPS satellites run fast.
+**Next:** [chapter 18, Einstein and orbits](18-Einstein-and-Orbits.md), where we find that Newton's laws are not quite
+the whole story: Mercury's orbit turns a little too fast, radio signals passing the Sun are delayed, and the clocks on
+GPS satellites run fast.
 
 ## Further reading
 
