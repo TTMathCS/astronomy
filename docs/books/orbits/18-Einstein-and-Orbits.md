@@ -471,8 +471,8 @@ with $\Phi = -GM/r$ summed over every body that pulls. Section 18.9 used it for 
 - Laser ranging to the Moon, the Hulse–Taylor pulsar, LIGO's black holes and the star S2 all agree with Einstein.
 - Relativity turns Mars's orbit by 1.35″ a century, and a clock on Mars gains about 477 μs a day on the Earth.
 
-**Next:** chapter 19, Orbits at Mars, where we turn to the orbits round Mars itself: its two small moons, one falling
-inwards and one drifting out, and the many spacecraft that now circle it.
+**Next:** [chapter 19, Orbits at Mars](19-Orbits-at-Mars.md), where we turn to the orbits round Mars itself: its two
+small moons, one falling inwards and one drifting out, and the many spacecraft that now circle it.
 
 ## Further reading
 
