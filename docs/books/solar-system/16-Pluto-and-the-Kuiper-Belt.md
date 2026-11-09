@@ -577,8 +577,8 @@ which part of the belt is it in?
 - Mars and Pluto both have air that freezes onto the ground; Pluto's is far more sensitive.
 - Pluto's pressure about doubles for every degree its nitrogen frost warms, by the Clausius–Clapeyron rule.
 
-**Next:** chapter 17, Comets and the Oort cloud, where we follow the icy visitors that fall in from the far edge of
-the solar system and grow tails as they near the Sun.
+**Next:** [chapter 17, Comets and the Oort cloud](17-Comets-and-the-Oort-Cloud.md), where we follow the icy visitors
+that fall in from the far edge of the solar system and grow tails as they near the Sun.
 
 ## Further reading
 
