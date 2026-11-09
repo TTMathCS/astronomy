@@ -43,7 +43,7 @@ orbiters that circle it, the fate of its moon Phobos, and the slow changes in Ma
 | | [14. Orbits around the Earth](14-Orbits-Around-the-Earth.md) |
 | | [15. The road to Mars](15-The-Road-to-Mars.md) |
 | | [16. Gravity assists](16-Gravity-Assists.md) |
-| | 17. Arriving |
+| | [17. Arriving](17-Arriving.md) |
 | **V. Beyond Newton** | 18. Einstein and orbits |
 | **VI. Mars** | 19. Orbits at Mars |
 | | 20. Mars's changing orbit and tilt |

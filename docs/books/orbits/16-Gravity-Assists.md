@@ -472,8 +472,8 @@ Sun by up to $2v_\infty$.
 - Rosetta, Dawn, Europa Clipper, Hera and Psyche have swung past Mars, and Mars cyclers could carry crews there and
   back again and again.
 
-**Next:** chapter 17, Arriving, where a spacecraft reaches Mars and has to slow down: braking with its engine, dipping
-into the air again and again, or diving straight in to land.
+**Next:** [chapter 17, Arriving](17-Arriving.md), where a spacecraft reaches Mars and has to slow down: braking with
+its engine, dipping into the air again and again, or diving straight in to land.
 
 ## Further reading
 
