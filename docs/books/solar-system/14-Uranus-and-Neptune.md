@@ -598,8 +598,8 @@ $S$, and the ratio between them.
 - Mars's wandering tilt can reach 60°; Triton and Phobos are both spiralling in to be torn apart.
 - A planet tipped more than 54° gets more sunshine at its poles over a year than at its equator, as Uranus does.
 
-**Next:** chapter 15, Moons of the giants, where we visit volcanic Io, the buried oceans of Europa and Enceladus,
-Titan's methane lakes and Neptune's captured Triton.
+**Next:** [chapter 15, Moons of the giants](15-Moons-of-the-Giants.md), where we visit volcanic Io, the buried oceans
+of Europa and Enceladus, Titan's methane lakes and Neptune's captured Triton.
 
 ## Further reading
 
