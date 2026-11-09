@@ -562,8 +562,8 @@ Mars, how big is the burn?
 - A cheap round trip means about 15 months waiting at Mars and about 2.7 years in all.
 - Leaving Mars orbit for home takes only about 2.1 km/s, but no spacecraft has yet done it.
 
-**Next:** chapter 16, Gravity assists, where a spacecraft steals speed from a planet it flies past, the trick that
-took the Voyagers to the outer planets and that ESCAPADE is using at the Earth right now.
+**Next:** [chapter 16, Gravity assists](16-Gravity-Assists.md), where a spacecraft steals speed from a planet it flies
+past, the trick that took the Voyagers to the outer planets and that ESCAPADE is using at the Earth right now.
 
 ## Further reading
 
