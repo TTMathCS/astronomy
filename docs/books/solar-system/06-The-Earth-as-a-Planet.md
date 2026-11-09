@@ -601,8 +601,8 @@ km and 12,756 km.
 - A steady tilt of 23.44° makes the seasons; oceans and air keep the extremes in check.
 - Mars has one plate, no field, no open water and no oxygen, mostly because it is smaller and cooled faster.
 
-**Next:** chapter 7, The Moon, where we visit the Earth's companion: its craters and dark seas, how it may have
-formed in a giant collision, and what the Apollo, Luna and Chang'e missions brought back.
+**Next:** [chapter 7, The Moon](07-The-Moon.md), where we visit the Earth's companion: its craters and dark seas, how
+it may have formed in a giant collision, and what the Apollo, Luna and Chang'e missions brought back.
 
 ## Further reading
 
