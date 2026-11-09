@@ -462,8 +462,8 @@ greenhouse warming?
 - Soviet Venera landers reached its surface; Vega balloons flew in its air.
 - Mars has the same kind of air but 6,000 times less of it, so its greenhouse is very weak.
 
-**Next:** chapter 6, The Earth as a planet, where we look at our own world as a visitor would: its oceans, moving
-plates, magnetic shield and living air.
+**Next:** [chapter 6, The Earth as a planet](06-The-Earth-as-a-Planet.md), where we look at our own world as a visitor
+would: its oceans, moving plates, magnetic shield and living air.
 
 ## Further reading
 

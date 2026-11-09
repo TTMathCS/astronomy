@@ -32,7 +32,7 @@ far away, because every world tells us something about it.*
 | | [3. Rocky worlds and giant worlds](03-Rocky-Worlds-and-Giant-Worlds.md) |
 | **II. The rocky planets** | [4. Mercury](04-Mercury.md) |
 | | [5. Venus](05-Venus.md) |
-| | 6. The Earth as a planet |
+| | [6. The Earth as a planet](06-The-Earth-as-a-Planet.md) |
 | | 7. The Moon |
 | | 8. Mars among the planets |
 | **III. Small worlds** | 9. The asteroid belt and Ceres |
