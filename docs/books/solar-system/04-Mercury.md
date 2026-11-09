@@ -458,8 +458,8 @@ there?
 - Mariner 10 and MESSENGER have visited it; BepiColombo is due to arrive on 21 November 2026.
 - Mercury and Mars have the same surface gravity, but Mercury is iron-rich, airless and nearly untilted.
 
-**Next:** chapter 5, Venus, where we visit the Earth's twin in size: a world hidden under thick clouds of sulphuric
-acid, with crushing air and the hottest surface of any planet.
+**Next:** [chapter 5, Venus](05-Venus.md), where we visit the Earth's twin in size: a world hidden under thick clouds
+of sulphuric acid, with crushing air and the hottest surface of any planet.
 
 ## Further reading
 

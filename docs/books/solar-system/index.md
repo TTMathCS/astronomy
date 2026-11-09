@@ -31,7 +31,7 @@ far away, because every world tells us something about it.*
 | | [2. How the solar system formed](02-How-the-Solar-System-Formed.md) |
 | | [3. Rocky worlds and giant worlds](03-Rocky-Worlds-and-Giant-Worlds.md) |
 | **II. The rocky planets** | [4. Mercury](04-Mercury.md) |
-| | 5. Venus |
+| | [5. Venus](05-Venus.md) |
 | | 6. The Earth as a planet |
 | | 7. The Moon |
 | | 8. Mars among the planets |
