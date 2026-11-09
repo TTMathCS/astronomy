@@ -657,8 +657,8 @@ for the pressure at its centre to reach $10^8$ Pa?
 - Dawn found brines, salts and an ice volcano on Ceres, and a crater almost as wide as Vesta at Vesta's south pole.
 - Bodies are pulled round when the pressure at the centre is more than rock can bear, which happens at about 500 km.
 
-**Next:** chapter 10, Meteorites, where we follow the pieces of asteroids, and a few of Mars and the Moon, that fall on
-the Earth.
+**Next:** [chapter 10, Meteorites](10-Meteorites.md), where we follow the pieces of asteroids, and a few of Mars and
+the Moon, that fall on the Earth.
 
 ## Further reading
 
