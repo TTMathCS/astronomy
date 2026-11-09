@@ -473,8 +473,8 @@ and how far above and below Phobos's orbit does it go?
   the moon instead.
 - Orbiters must stay up for at least 20 years, so Mars keeps its dead spacecraft.
 
-**Next:** chapter 20, Mars's changing orbit and tilt, where we follow Mars's own orbit and axis over millions of
-years, and see how their slow swings change its climate and its ice.
+**Next:** [chapter 20, Mars's changing orbit and tilt](20-Mars-Changing-Orbit-and-Tilt.md), where we follow Mars's own
+orbit and axis over millions of years, and see how their slow swings change its climate and its ice.
 
 ## Further reading
 
