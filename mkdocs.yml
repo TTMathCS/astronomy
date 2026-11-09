@@ -160,6 +160,9 @@ nav:
           - books/orbits/18-Einstein-and-Orbits.md
           - books/orbits/19-Orbits-at-Mars.md
           - books/orbits/20-Mars-Changing-Orbit-and-Tilt.md
+      - "The solar system":
+          - books/solar-system/index.md
+          - books/solar-system/01-A-Tour-of-the-Solar-System.md
       - "History of astronomy":
           - books/history/index.md
           - books/history/01-Before-Writing.md

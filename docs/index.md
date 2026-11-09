@@ -21,6 +21,7 @@ other observatories and missions that measured them.
 | [The night sky](books/night-sky/index.md) | Finding your way around the sky by eye: dark-adapted eyes, constellations from around the world, the Moon, the planets and the sky from Mars |
 | [Light and telescopes](books/light-and-telescopes/index.md) | What light is, how mirrors, lenses and cameras catch it, the invisible sky from radio to gamma rays, and the telescopes at Mars |
 | [Orbits](books/orbits/index.md) | Why things stay up: Kepler and Newton, gravity and tides, rockets and gravity assists, and the orbits around Mars |
+| [The solar system](books/solar-system/index.md) | The Sun's family world by world: the rocky planets, asteroids and meteorites, the giants and their moons, comets, and how Mars compares |
 | [History of astronomy](books/history/index.md) | Skywatchers of the world: stone circles, Babylon, China, India, the Maya, Polynesian navigators, Baghdad, Samarkand, and on to the telescopes of today |
 | [The whole shelf](books/index.md) | Every book, and how a chapter works |
 

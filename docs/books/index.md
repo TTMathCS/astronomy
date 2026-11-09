@@ -26,4 +26,5 @@ the books link to those lessons instead of repeating them.
 | [The night sky](night-sky/index.md) | Your first clear night, with nothing but your eyes | Planets, eclipses, star charts and the night sky from Mars |
 | [Light and telescopes](light-and-telescopes/index.md) | Waves, photons and the speed of light | Giant telescopes, the invisible sky and the cameras at Mars |
 | [Orbits](orbits/index.md) | Newton's cannon and why the Moon does not fall | Rockets, transfers and the changing orbit of Mars |
+| [The solar system](solar-system/index.md) | A tour of the Sun's family | Air, magnetism, water and the search for life on other worlds |
 | [History of astronomy](history/index.md) | Stone circles and notched bones | Space telescopes, gravitational waves and the first picture of a black hole |
