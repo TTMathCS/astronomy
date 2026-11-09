@@ -566,8 +566,8 @@ is the rock?
 - Carbonaceous chondrites carry water, amino acids and sugars made in space.
 - An isochron gives a rock's age from the slope of a straight line, without knowing how it started.
 
-**Next:** chapter 11, Craters and impacts, where we look at what happens when bigger pieces hit: the craters on the
-Earth, the Moon, Mars and the other worlds.
+**Next:** [chapter 11, Craters and impacts](11-Craters-and-Impacts.md), where we look at what happens when bigger
+pieces hit: the craters on the Earth, the Moon, Mars and the other worlds.
 
 ## Further reading
 

@@ -37,7 +37,7 @@ far away, because every world tells us something about it.*
 | | [8. Mars among the planets](08-Mars-among-the-Planets.md) |
 | **III. Small worlds** | [9. The asteroid belt and Ceres](09-The-Asteroid-Belt-and-Ceres.md) |
 | | [10. Meteorites](10-Meteorites.md) |
-| | 11. Craters and impacts |
+| | [11. Craters and impacts](11-Craters-and-Impacts.md) |
 | **IV. The giants** | 12. Jupiter |
 | | 13. Saturn and its rings |
 | | 14. Uranus and Neptune |
