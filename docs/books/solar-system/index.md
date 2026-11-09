@@ -34,7 +34,7 @@ far away, because every world tells us something about it.*
 | | [5. Venus](05-Venus.md) |
 | | [6. The Earth as a planet](06-The-Earth-as-a-Planet.md) |
 | | [7. The Moon](07-The-Moon.md) |
-| | 8. Mars among the planets |
+| | [8. Mars among the planets](08-Mars-among-the-Planets.md) |
 | **III. Small worlds** | 9. The asteroid belt and Ceres |
 | | 10. Meteorites |
 | | 11. Craters and impacts |

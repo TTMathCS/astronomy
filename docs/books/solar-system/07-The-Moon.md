@@ -524,8 +524,8 @@ formed? Take $GM = 2.203 \times 10^{13}$ m³/s² and $R = 2.440 \times 10^6$ m.
   took four people round it in April 2026.
 - Phobos and Deimos are tiny and close to Mars; Phobos is falling in, while Deimos and the Moon drift out.
 
-**Next:** chapter 8, Mars among the planets, where we put together everything so far to see what kind of world Mars
-is, and how it compares with every other planet in turn.
+**Next:** [chapter 8, Mars among the planets](08-Mars-among-the-Planets.md), where we put together everything so far
+to see what kind of world Mars is, and how it compares with every other planet in turn.
 
 ## Further reading
 
