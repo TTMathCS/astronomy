@@ -619,8 +619,8 @@ below 150 K?
 - The giants probably wandered in and out, which may have shaped the asteroid belt and left Mars short of material.
 - Mars grew in only 2 to 4 million years and stopped: it may be a stranded planetary embryo.
 
-**Next:** chapter 3, Rocky worlds and giant worlds, where we look inside the planets: iron cores and rocky mantles in
-the inner four, and deep layers of gas, liquid and ice in the giants.
+**Next:** [chapter 3, Rocky worlds and giant worlds](03-Rocky-Worlds-and-Giant-Worlds.md), where we look inside the
+planets: iron cores and rocky mantles in the inner four, and deep layers of gas, liquid and ice in the giants.
 
 ## Further reading
 
