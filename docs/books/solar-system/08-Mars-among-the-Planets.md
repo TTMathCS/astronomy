@@ -469,8 +469,8 @@ where $g = 0.28$ m/s²? Why might real mountains there be lower?
 - It shares gravity with Mercury, air with Venus, day and tilt with the Earth, and a crater clock with the Moon.
 - Weak gravity lets its mountains stand tall; the limit is about 26 km.
 
-**Next:** chapter 9, The asteroid belt and Ceres, where we move out past Mars to the belt of small worlds between it
-and Jupiter, and to Ceres, the largest of them.
+**Next:** [chapter 9, The asteroid belt and Ceres](09-The-Asteroid-Belt-and-Ceres.md), where we move out past Mars to
+the belt of small worlds between it and Jupiter, and to Ceres, the largest of them.
 
 ## Further reading
 
