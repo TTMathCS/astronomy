@@ -637,8 +637,8 @@ And how wide would the Meteor Crater impact make a crater on Mars?
 - Mars has hundreds of thousands of craters, mud-like rampart ejecta, buried giant basins and new craters every year.
 - Crater size grows only as the fourth root of the energy, and craters are wider where gravity is weaker.
 
-**Next:** chapter 12, Jupiter, where we cross the asteroid belt to the largest planet: its bands and storms, its
-huge magnetic field, and the many moons that circle it.
+**Next:** [chapter 12, Jupiter](12-Jupiter.md), where we cross the asteroid belt to the largest planet: its bands and
+storms, its huge magnetic field, and the many moons that circle it.
 
 ## Further reading
 
