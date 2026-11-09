@@ -163,6 +163,7 @@ nav:
       - "The solar system":
           - books/solar-system/index.md
           - books/solar-system/01-A-Tour-of-the-Solar-System.md
+          - books/solar-system/02-How-the-Solar-System-Formed.md
       - "History of astronomy":
           - books/history/index.md
           - books/history/01-Before-Writing.md

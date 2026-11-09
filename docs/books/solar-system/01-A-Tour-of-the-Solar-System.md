@@ -440,8 +440,9 @@ of any story of how the solar system formed, and chapter 2 takes it up.
 - Mars is the outermost rocky planet: a tenth of the Earth's mass, a similar day, a 687-day year and thin air.
 - The planets, mostly Jupiter, carry over 99% of the solar system's spin.
 
-**Next:** chapter 2, How the solar system formed, where a slowly turning cloud collapses into a spinning disc, dust
-grows into planets, and we see why the rocky planets are close to the Sun and the giants far out.
+**Next:** [chapter 2, How the solar system formed](02-How-the-Solar-System-Formed.md), where a slowly turning cloud
+collapses into a spinning disc, dust grows into planets, and we see why the rocky planets are close to the Sun and the
+giants far out.
 
 ## Further reading
 
