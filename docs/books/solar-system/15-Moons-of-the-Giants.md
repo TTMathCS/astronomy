@@ -637,8 +637,8 @@ and at the poles, if it only conducts?
 - Thick ice needs little heat below it: Europa's 10 to 30 km means 0.017 to 0.052 W/m², while a lake under 1.5 km of
   Mars's polar ice would need more heat than Mars is thought to give.
 
-**Next:** chapter 16, Pluto and the Kuiper belt, where we follow New Horizons past Pluto's nitrogen glaciers and its
-big moon Charon, and out to the icy worlds beyond Neptune.
+**Next:** [chapter 16, Pluto and the Kuiper belt](16-Pluto-and-the-Kuiper-Belt.md), where we follow New Horizons past
+Pluto's nitrogen glaciers and its big moon Charon, and out to the icy worlds beyond Neptune.
 
 ## Further reading
 
