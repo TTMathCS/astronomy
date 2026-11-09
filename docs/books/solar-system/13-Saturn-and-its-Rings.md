@@ -737,8 +737,8 @@ $GM = 4.2828 \times 10^{13}$ m³/s². If the particles' random speeds are 1 mm/s
 - Colliding ice settles into a disc only a few pieces thick, because random speeds are kept down to about $\Omega$
   times a particle's size.
 
-**Next:** chapter 14, Uranus and Neptune, where we visit the two ice giants, one tipped on its side and one tracked
-down by arithmetic.
+**Next:** [chapter 14, Uranus and Neptune](14-Uranus-and-Neptune.md), where we visit the two ice giants, one tipped on
+its side and one tracked down by arithmetic.
 
 ## Further reading
 

@@ -40,7 +40,7 @@ far away, because every world tells us something about it.*
 | | [11. Craters and impacts](11-Craters-and-Impacts.md) |
 | **IV. The giants** | [12. Jupiter](12-Jupiter.md) |
 | | [13. Saturn and its rings](13-Saturn-and-its-Rings.md) |
-| | 14. Uranus and Neptune |
+| | [14. Uranus and Neptune](14-Uranus-and-Neptune.md) |
 | | 15. Moons of the giants |
 | **V. The far edge** | 16. Pluto and the Kuiper belt |
 | | 17. Comets and the Oort cloud |
