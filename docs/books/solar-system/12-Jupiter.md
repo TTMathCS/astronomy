@@ -629,8 +629,8 @@ it say about Saturn compared with Jupiter?
 - Jupiter probably kept Mars small and still sends asteroids its way; Mars's bulge is held up by rock, not spin.
 - A planet's spin and shape give its moment of inertia: Jupiter's 0.25 shows a mass packed towards the centre.
 
-**Next:** chapter 13, Saturn and its rings, where we visit the planet that would float in water, and the rings that
-make it the most beautiful sight in a small telescope.
+**Next:** [chapter 13, Saturn and its rings](13-Saturn-and-its-Rings.md), where we visit the planet that would float
+in water, and the rings that make it the most beautiful sight in a small telescope.
 
 ## Further reading
 
