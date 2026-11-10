@@ -45,5 +45,5 @@ far away, because every world tells us something about it.*
 | **V. The far edge** | [16. Pluto and the Kuiper belt](16-Pluto-and-the-Kuiper-Belt.md) |
 | | [17. Comets and the Oort cloud](17-Comets-and-the-Oort-Cloud.md) |
 | | [18. Where the Sun's wind ends](18-Where-the-Suns-Wind-Ends.md) |
-| **VI. Comparing worlds** | 19. Air, magnetism and weather on other worlds |
+| **VI. Comparing worlds** | [19. Air, magnetism and weather on other worlds](19-Air-Magnetism-and-Weather.md) |
 | | 20. Water and the search for life |

@@ -622,8 +622,8 @@ the termination shock be, if it is at 90 AU now?
 - The edge of the bubble is where the wind's push, falling as $1/r^2$, matches the push of the gas and field outside:
   about 100 AU.
 
-**Next:** chapter 19, Air, magnetism and weather on other worlds, where we compare the air, the magnetic shields and
-the weather of the planets and moons, and see how Mars lost most of its air.
+**Next:** [chapter 19, Air, magnetism and weather on other worlds](19-Air-Magnetism-and-Weather.md), where we compare
+the air, the magnetic shields and the weather of the planets and moons, and see how Mars lost most of its air.
 
 ## Further reading
 
