@@ -656,8 +656,9 @@ How strong would Mercury's field have to be to hold the wind off at 10 Mercury r
   carbon dioxide have gone to space.
 - The shield's front is where the field's push balances the wind's; the sixth root in the answer makes shields stiff.
 
-**Next:** chapter 20, Water and the search for life, where we follow water through the solar system, from Mars's dry
-river valleys to the oceans under the ice of the giants' moons, and ask where life could be.
+**Next:** [chapter 20, Water and the search for life](20-Water-and-the-Search-for-Life.md), where we follow water
+through the solar system, from Mars's dry river valleys to the oceans under the ice of the giants' moons, and ask
+where life could be.
 
 ## Further reading
 
